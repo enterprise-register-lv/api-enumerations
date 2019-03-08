@@ -98,7 +98,7 @@ change;REMOVAL;;;;Subjekts no reìistra izslçgts;Entity was removed
 change;REORGANIZATION;;;;Izmaiòas saistîbâ ar reorganizâcijas procesu;Change concerning reorganisation proceedings
 change;REREGISTRATION;reg;LegalEntityExtenedStructure;ChangesRecord;Reìistra maiòa;Change of register
 change;SECURING_MEASURE;arests;LegalEntityExtenedStructure;ChangesRecord;Nodroðinâjuma lîdzekïu maiòa;Change in securing measures
-change_reason;ADDRESS_UPDATED;K;LegalEntityExtenedStructure;ChangeReason;Aktualizçts, pamatojoties uz likuma "Par Latvijas Republikas Uzòçmumu reìistru" 4.4panta treðo daïu;Updated on the basis of Paragraph three, Article 4.4 of the Law on the Enterprise Register of the Republic of Latvia
+change_reason;ADDRESS_UPDATED;K;LegalEntityExtenedStructure;ChangeReason;Aktualizçts, pamatojoties uz likuma Par Latvijas Republikas Uzòçmumu reìistru 4.4panta treðo daïu;Updated on the basis of Paragraph three, Article 4.4 of the Law on the Enterprise Register of the Republic of Latvia
 change_reason;ANNULLED;A;LegalEntityExtenedStructure;ChangeReason;Anulçts;Entry annulled
 change_reason;EQUITY_RECALCULATED;C;LegalEntityExtenedStructure;ChangeReason;Pamatkapitâls pârrçíinâts, pamatojoties uz Komerclikuma pârejas noteikumu 52.p;The equity capital recalculated in conformity with Paragraph 52 of the transitional provisions of the Commercial Law
 change_reason;LATVIAN_IN_UPDATED;P;LegalEntityExtenedStructure;ChangeReason;Aktualizçts personas kods, pamatojoties uz Iedzîvotâju reìistra datiem;Latvian identity number updated according to data from the Latvian Population Register
