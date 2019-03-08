@@ -1,407 +1,407 @@
 type;public_code;ur_code_legacy;XML_root_legacy;XML_element_legacy;description_LV;description_EN
-area_of_activity;ADVOCACY;IAO;LegalEntityExtenedStructure;BusinessAreaForm;Intereu aizst‚vÓbas organiz‚ciju darbÓba;Advocacy work
-area_of_activity;ARCHITECTURE_RESTORATION;ARH;LegalEntityExtenedStructure;BusinessAreaForm;Arhitekt˚ra un restaur‚cija;Architecture and restoration
-area_of_activity;ASSOCIATION_OF_EMPLOYERS_ORGANISATIONS;DDA;LegalEntityExtenedStructure;BusinessAreaForm;Darba devÁju organiz‚ciju apvienÓba;Association of Employers' Organisations
-area_of_activity;BOOK_PUBLISHING;GRA;LegalEntityExtenedStructure;BusinessAreaForm;Gr‚matu izdoana;Book publishing
-area_of_activity;CONSERVATION_OF_NATURAL_RESOURCES;DRA;LegalEntityExtenedStructure;BusinessAreaForm;Dabas resursu aizsardzÓba un ilgtspÁjÓga izmantoana;Conservation and sustainable use of natural resources
+area_of_activity;ADVOCACY;IAO;LegalEntityExtenedStructure;BusinessAreaForm;Intere√∞u aizst√¢v√Æbas organiz√¢ciju darb√Æba;Advocacy work
+area_of_activity;ARCHITECTURE_RESTORATION;ARH;LegalEntityExtenedStructure;BusinessAreaForm;Arhitekt√ªra un restaur√¢cija;Architecture and restoration
+area_of_activity;ASSOCIATION_OF_EMPLOYERS_ORGANISATIONS;DDA;LegalEntityExtenedStructure;BusinessAreaForm;Darba dev√ßju organiz√¢ciju apvien√Æba;Association of Employers' Organisations
+area_of_activity;BOOK_PUBLISHING;GRA;LegalEntityExtenedStructure;BusinessAreaForm;Gr√¢matu izdo√∞ana;Book publishing
+area_of_activity;CONSERVATION_OF_NATURAL_RESOURCES;DRA;LegalEntityExtenedStructure;BusinessAreaForm;Dabas resursu aizsardz√Æba un ilgtsp√ßj√Æga izmanto√∞ana;Conservation and sustainable use of natural resources
 area_of_activity;CRIME_PREVENTION;NOP;LegalEntityExtenedStructure;BusinessAreaForm;Noziegumu profilakse;Crime prevention
-area_of_activity;CULTURE_EXCHANGE;KUA;LegalEntityExtenedStructure;BusinessAreaForm;Kult˚ras apmaiÚa;Culture exchange
-area_of_activity;CUSTOMER_RIGHTS_PROTECTION;PAT;LegalEntityExtenedStructure;BusinessAreaForm;PatÁrÁt‚ju tiesÓbu aizsardzÓba;Customer rights protection
+area_of_activity;CULTURE_EXCHANGE;KUA;LegalEntityExtenedStructure;BusinessAreaForm;Kult√ªras apmai√≤a;Culture exchange
+area_of_activity;CUSTOMER_RIGHTS_PROTECTION;PAT;LegalEntityExtenedStructure;BusinessAreaForm;Pat√ßr√ßt√¢ju ties√Æbu aizsardz√Æba;Customer rights protection
 area_of_activity;DESIGN;DIZ;LegalEntityExtenedStructure;BusinessAreaForm;Dizains;Design
-area_of_activity;DEVELOPMENT_COOPERATION;ATS;LegalEntityExtenedStructure;BusinessAreaForm;AttÓstÓbas sadarbÓba;Development cooperation
-area_of_activity;DIRECTORY_PUBLISHING;IKI;LegalEntityExtenedStructure;BusinessAreaForm;IzziÚu katalogu izdoana;Publishing of directories and mailing lists†
-area_of_activity;ECONOMIC_DEVELOPMENT;EKA;LegalEntityExtenedStructure;BusinessAreaForm;Ekonomisk‚ attÓstÓba;Economic development
-area_of_activity;EDUCATION;IZG;LegalEntityExtenedStructure;BusinessAreaForm;IzglÓtÓba;Education
-area_of_activity;EMPLOYERS_ORGANISATION;DDO;LegalEntityExtenedStructure;BusinessAreaForm;Darba devÁju organiz‚cija;Employers' Organisation
-area_of_activity;ENVIRONMENTAL_AWARENESS;VIA;LegalEntityExtenedStructure;BusinessAreaForm;Vides apziÚa;Environmental awareness
-area_of_activity;ENVIRONMENTAL_CLEANING;VIS;LegalEntityExtenedStructure;BusinessAreaForm;Vides sakopana;Environmental cleaning
-area_of_activity;ENVIRONMENTAL_PROTECTION;VAP;LegalEntityExtenedStructure;BusinessAreaForm;Vides aizsardzÓba. Pies‚rÚojuma samazin‚ana un kontrole;Environmental protection. Pollution prevention and control
-area_of_activity;FILMMAKING;FIP;LegalEntityExtenedStructure;BusinessAreaForm;Filmu producÁana;Motion picture production activities 
-area_of_activity;FOLK_ART;TMM;LegalEntityExtenedStructure;BusinessAreaForm;Tautas m‚ksla un nemateri‚lais mantojums;Folk art and intangible heritage
-area_of_activity;GENDER_EQUALITY;DZL;LegalEntityExtenedStructure;BusinessAreaForm;Dzimumu lÓdztiesÓba;Gender equality
-area_of_activity;HEALTH_EDUCATION;SVI;LegalEntityExtenedStructure;BusinessAreaForm;SabiedrÓbas veselÓba un veselÓbas izglÓtÓba;Public health and health education
-area_of_activity;HOUSING_MANAGEMENT;MAP;LegalEntityExtenedStructure;BusinessAreaForm;M‚jokÔu apsaimniekoana;Housing management
-area_of_activity;HUMANITIES;VHZ;LegalEntityExtenedStructure;BusinessAreaForm;VÁsture un humanit‚r‚s zin‚tnes;Humanities, incl. history
-area_of_activity;INTERNATIONAL_AID_TO_COUNTRIES_AFFECTED_BY_DISASTERS;SPL;LegalEntityExtenedStructure;BusinessAreaForm;Starptautiska palÓdzÓbas lÓdzekÔu nodroin‚ana katastrof‚s cietu‚m valstÓm;Providing of international assistance to countries affected by disasters
-area_of_activity;INTERNATIONAL_DISASTER_RESPONSE_AND_RELIEF;SKS;LegalEntityExtenedStructure;BusinessAreaForm;Starptautiska katastrofu seku likvidÁana un palÓdzÓba;International disaster response and relief
-area_of_activity;INTERNATIONAL_HUMAN_RIGHTS_AND_PEACEKEEPING;SCM;LegalEntityExtenedStructure;BusinessAreaForm;Starptautisk‚s cilvÁktiesÓbas un miera uzturÁana;International human rights and peacekeeping
-area_of_activity;YOUTH_ASSOCIATION_FOUNDATION;JAU;LegalEntityExtenedStructure;BusinessAreaForm;Jaunatnes biedrÓba vai nodibin‚jums;Youth association or foundation
-area_of_activity;LEGAL_ADVISORY;JUP;LegalEntityExtenedStructure;BusinessAreaForm;Juridisk‚ palÓdzÓba;Legal advisory
-area_of_activity;LIBRARY_OPERATION;BIB;LegalEntityExtenedStructure;BusinessAreaForm;BibliotÁku darbÓba;Library operation
-area_of_activity;MAGAZINE_PUBLISHING;ZUR;LegalEntityExtenedStructure;BusinessAreaForm;ﬁurn‚lu izdoana;Publishing of magazines
+area_of_activity;DEVELOPMENT_COOPERATION;ATS;LegalEntityExtenedStructure;BusinessAreaForm;Att√Æst√Æbas sadarb√Æba;Development cooperation
+area_of_activity;DIRECTORY_PUBLISHING;IKI;LegalEntityExtenedStructure;BusinessAreaForm;Izzi√≤u katalogu izdo√∞ana;Publishing of directories and mailing lists¬†
+area_of_activity;ECONOMIC_DEVELOPMENT;EKA;LegalEntityExtenedStructure;BusinessAreaForm;Ekonomisk√¢ att√Æst√Æba;Economic development
+area_of_activity;EDUCATION;IZG;LegalEntityExtenedStructure;BusinessAreaForm;Izgl√Æt√Æba;Education
+area_of_activity;EMPLOYERS_ORGANISATION;DDO;LegalEntityExtenedStructure;BusinessAreaForm;Darba dev√ßju organiz√¢cija;Employers' Organisation
+area_of_activity;ENVIRONMENTAL_AWARENESS;VIA;LegalEntityExtenedStructure;BusinessAreaForm;Vides apzi√≤a;Environmental awareness
+area_of_activity;ENVIRONMENTAL_CLEANING;VIS;LegalEntityExtenedStructure;BusinessAreaForm;Vides sakop√∞ana;Environmental cleaning
+area_of_activity;ENVIRONMENTAL_PROTECTION;VAP;LegalEntityExtenedStructure;BusinessAreaForm;Vides aizsardz√Æba. Pies√¢r√≤ojuma samazin√¢√∞ana un kontrole;Environmental protection. Pollution prevention and control
+area_of_activity;FILMMAKING;FIP;LegalEntityExtenedStructure;BusinessAreaForm;Filmu produc√ß√∞ana;Motion picture production activities 
+area_of_activity;FOLK_ART;TMM;LegalEntityExtenedStructure;BusinessAreaForm;Tautas m√¢ksla un nemateri√¢lais mantojums;Folk art and intangible heritage
+area_of_activity;GENDER_EQUALITY;DZL;LegalEntityExtenedStructure;BusinessAreaForm;Dzimumu l√Ædzties√Æba;Gender equality
+area_of_activity;HEALTH_EDUCATION;SVI;LegalEntityExtenedStructure;BusinessAreaForm;Sabiedr√Æbas vesel√Æba un vesel√Æbas izgl√Æt√Æba;Public health and health education
+area_of_activity;HOUSING_MANAGEMENT;MAP;LegalEntityExtenedStructure;BusinessAreaForm;M√¢jok√Øu apsaimnieko√∞ana;Housing management
+area_of_activity;HUMANITIES;VHZ;LegalEntityExtenedStructure;BusinessAreaForm;V√ßsture un humanit√¢r√¢s zin√¢tnes;Humanities, incl. history
+area_of_activity;INTERNATIONAL_AID_TO_COUNTRIES_AFFECTED_BY_DISASTERS;SPL;LegalEntityExtenedStructure;BusinessAreaForm;Starptautiska pal√Ædz√Æbas l√Ædzek√Øu nodro√∞in√¢√∞ana katastrof√¢s cietu√∞√¢m valst√Æm;Providing of international assistance to countries affected by disasters
+area_of_activity;INTERNATIONAL_DISASTER_RESPONSE_AND_RELIEF;SKS;LegalEntityExtenedStructure;BusinessAreaForm;Starptautiska katastrofu seku likvid√ß√∞ana un pal√Ædz√Æba;International disaster response and relief
+area_of_activity;INTERNATIONAL_HUMAN_RIGHTS_AND_PEACEKEEPING;SCM;LegalEntityExtenedStructure;BusinessAreaForm;Starptautisk√¢s cilv√ßkties√Æbas un miera uztur√ß√∞ana;International human rights and peacekeeping
+area_of_activity;YOUTH_ASSOCIATION_FOUNDATION;JAU;LegalEntityExtenedStructure;BusinessAreaForm;Jaunatnes biedr√Æba vai nodibin√¢jums;Youth association or foundation
+area_of_activity;LEGAL_ADVISORY;JUP;LegalEntityExtenedStructure;BusinessAreaForm;Juridisk√¢ pal√Ædz√Æba;Legal advisory
+area_of_activity;LIBRARY_OPERATION;BIB;LegalEntityExtenedStructure;BusinessAreaForm;Bibliot√ßku darb√Æba;Library operation
+area_of_activity;MAGAZINE_PUBLISHING;ZUR;LegalEntityExtenedStructure;BusinessAreaForm;√ûurn√¢lu izdo√∞ana;Publishing of magazines
 area_of_activity;MUSEUMS;MUZ;LegalEntityExtenedStructure;BusinessAreaForm;Muzeji;Museums
-area_of_activity;MUSIC_DANCE_THEATRE;MDT;LegalEntityExtenedStructure;BusinessAreaForm;M˚zika, deja, te‚tris;Music, dance, theatre
-area_of_activity;MUSIC_DANCE_THEATRE_SUPPORT;MDA;LegalEntityExtenedStructure;BusinessAreaForm;M˚zikas, dejas un te‚tra atbalsts;Music, dance, theatre support
-area_of_activity;NATURE_PROTECTION;DAB;LegalEntityExtenedStructure;BusinessAreaForm;Dabas aizsardzÓba;Nature protection
-area_of_activity;NEC_ACTIVITY;CNB;LegalEntityExtenedStructure;BusinessAreaForm;Citur neklasificÁta biedrÓba vai nodibin‚jums;Not elsewhere classified activity of society or foundation
-area_of_activity;NEIGHBORHOOD_DEVELOPMENT;KAA;LegalEntityExtenedStructure;BusinessAreaForm;Kopienas un apkaimes attÓstÓba;Community and neighborhood development
-area_of_activity;NEWSPAPER_PUBLISHING;LAI;LegalEntityExtenedStructure;BusinessAreaForm;Laikrakstu izdoana;Publishing of newspapers
-area_of_activity;ORGANIZATION_OF_SPORTS_EVENTS;SPO;LegalEntityExtenedStructure;BusinessAreaForm;Sporta pas‚kumu organizÁana;Organization of sports events
-area_of_activity;OTHER_CULTURAL_ACTIVITIES;CKD;LegalEntityExtenedStructure;BusinessAreaForm;Cita kult˚ras darbÓba;Other activities in culture field 
-area_of_activity;OTHER_HEALTH_ACTIVITIES;CVD;LegalEntityExtenedStructure;BusinessAreaForm;Cita ar veselÓbu saistÓta darbÓba;Other rehabilitation-related activities
-area_of_activity;OTHER_RECREATION_ACTIVITIES;CIA;LegalEntityExtenedStructure;BusinessAreaForm;Cita izklaides un atp˚tas darbÓba;Other amusement and recreation activities
-area_of_activity;PHILANTHROPIC_INTERMEDIATION;FIL;LegalEntityExtenedStructure;BusinessAreaForm;Filantropijas starpniecÓba;Philanthropic intermediation
-area_of_activity;PROFESSIONAL_ASSOCIATION_FOUNDATION;PRO;LegalEntityExtenedStructure;BusinessAreaForm;Profesion‚l‚ biedrÓba vai nodibin‚jums;Professional association or foundation
-area_of_activity;PROMOTION_OF_EMPLOYMENT;NOV;LegalEntityExtenedStructure;BusinessAreaForm;Nodarbin‚tÓbas veicin‚ana;Promotion of employment
-area_of_activity;PROMOTION_OF_VOLUNTARY_WORK;BDV;LegalEntityExtenedStructure;BusinessAreaForm;BrÓvpr‚tÓg‚ darba veicin‚ana;Promotion of voluntary work
-area_of_activity;PROTECTION_OF_ANIMALS;DAL;LegalEntityExtenedStructure;BusinessAreaForm;DzÓvnieku aizsardzÓba un labkl‚jÓba;Protection and welfare of animals
-area_of_activity;PROTECTION_OF_HUMAN_RIGHTS;PTC;LegalEntityExtenedStructure;BusinessAreaForm;Pilsonisko tiesÓbu un cilvÁktiesÓbu aizsardzÓba;Protection of citizen and human rights
+area_of_activity;MUSIC_DANCE_THEATRE;MDT;LegalEntityExtenedStructure;BusinessAreaForm;M√ªzika, deja, te√¢tris;Music, dance, theatre
+area_of_activity;MUSIC_DANCE_THEATRE_SUPPORT;MDA;LegalEntityExtenedStructure;BusinessAreaForm;M√ªzikas, dejas un te√¢tra atbalsts;Music, dance, theatre support
+area_of_activity;NATURE_PROTECTION;DAB;LegalEntityExtenedStructure;BusinessAreaForm;Dabas aizsardz√Æba;Nature protection
+area_of_activity;NEC_ACTIVITY;CNB;LegalEntityExtenedStructure;BusinessAreaForm;Citur neklasific√ßta biedr√Æba vai nodibin√¢jums;Not elsewhere classified activity of society or foundation
+area_of_activity;NEIGHBORHOOD_DEVELOPMENT;KAA;LegalEntityExtenedStructure;BusinessAreaForm;Kopienas un apkaimes att√Æst√Æba;Community and neighborhood development
+area_of_activity;NEWSPAPER_PUBLISHING;LAI;LegalEntityExtenedStructure;BusinessAreaForm;Laikrakstu izdo√∞ana;Publishing of newspapers
+area_of_activity;ORGANIZATION_OF_SPORTS_EVENTS;SPO;LegalEntityExtenedStructure;BusinessAreaForm;Sporta pas√¢kumu organiz√ß√∞ana;Organization of sports events
+area_of_activity;OTHER_CULTURAL_ACTIVITIES;CKD;LegalEntityExtenedStructure;BusinessAreaForm;Cita kult√ªras darb√Æba;Other activities in culture field 
+area_of_activity;OTHER_HEALTH_ACTIVITIES;CVD;LegalEntityExtenedStructure;BusinessAreaForm;Cita ar vesel√Æbu saist√Æta darb√Æba;Other rehabilitation-related activities
+area_of_activity;OTHER_RECREATION_ACTIVITIES;CIA;LegalEntityExtenedStructure;BusinessAreaForm;Cita izklaides un atp√ªtas darb√Æba;Other amusement and recreation activities
+area_of_activity;PHILANTHROPIC_INTERMEDIATION;FIL;LegalEntityExtenedStructure;BusinessAreaForm;Filantropijas starpniec√Æba;Philanthropic intermediation
+area_of_activity;PROFESSIONAL_ASSOCIATION_FOUNDATION;PRO;LegalEntityExtenedStructure;BusinessAreaForm;Profesion√¢l√¢ biedr√Æba vai nodibin√¢jums;Professional association or foundation
+area_of_activity;PROMOTION_OF_EMPLOYMENT;NOV;LegalEntityExtenedStructure;BusinessAreaForm;Nodarbin√¢t√Æbas veicin√¢√∞ana;Promotion of employment
+area_of_activity;PROMOTION_OF_VOLUNTARY_WORK;BDV;LegalEntityExtenedStructure;BusinessAreaForm;Br√Ævpr√¢t√Æg√¢ darba veicin√¢√∞ana;Promotion of voluntary work
+area_of_activity;PROTECTION_OF_ANIMALS;DAL;LegalEntityExtenedStructure;BusinessAreaForm;Dz√Ævnieku aizsardz√Æba un labkl√¢j√Æba;Protection and welfare of animals
+area_of_activity;PROTECTION_OF_HUMAN_RIGHTS;PTC;LegalEntityExtenedStructure;BusinessAreaForm;Pilsonisko ties√Æbu un cilv√ßkties√Æbu aizsardz√Æba;Protection of citizen and human rights
 area_of_activity;RADIO_STATION;RAD;LegalEntityExtenedStructure;BusinessAreaForm;Radiostacija;Radio station
-area_of_activity;REHABILITATION;REH;LegalEntityExtenedStructure;BusinessAreaForm;Rehabilit‚cija;Rehabilitation
-area_of_activity;REHABILITATION_OF_OFFENDERS;LRE;LegalEntityExtenedStructure;BusinessAreaForm;Likump‚rk‚pÁju rehabilit‚cija;Rehabilitation of offenders
-area_of_activity;RESEARCH_MEDICINE;MED;LegalEntityExtenedStructure;BusinessAreaForm;MedicÓnisk‚ pÁtniecÓba;Research on medicine
-area_of_activity;RESEARCH_SOCIAL_SCIENCES;SZP;LegalEntityExtenedStructure;BusinessAreaForm;Soci‚l‚s zin‚tnes, socioloÏisk‚ un politikas pÁtniecÓba;Research on social sciences and humanities, sociology, and politics
-area_of_activity;SCIENCE_TECHNOLOGY;ZUT;LegalEntityExtenedStructure;BusinessAreaForm;Zin‚tne un tehnoloÏijas;Science and technology
-area_of_activity;SOCIAL_PROTECTION;SOC;LegalEntityExtenedStructure;BusinessAreaForm;Soci‚l‚ aizsardzÓba;Social protection
+area_of_activity;REHABILITATION;REH;LegalEntityExtenedStructure;BusinessAreaForm;Rehabilit√¢cija;Rehabilitation
+area_of_activity;REHABILITATION_OF_OFFENDERS;LRE;LegalEntityExtenedStructure;BusinessAreaForm;Likump√¢rk√¢p√ßju rehabilit√¢cija;Rehabilitation of offenders
+area_of_activity;RESEARCH_MEDICINE;MED;LegalEntityExtenedStructure;BusinessAreaForm;Medic√Ænisk√¢ p√ßtniec√Æba;Research on medicine
+area_of_activity;RESEARCH_SOCIAL_SCIENCES;SZP;LegalEntityExtenedStructure;BusinessAreaForm;Soci√¢l√¢s zin√¢tnes, sociolo√¨isk√¢ un politikas p√ßtniec√Æba;Research on social sciences and humanities, sociology, and politics
+area_of_activity;SCIENCE_TECHNOLOGY;ZUT;LegalEntityExtenedStructure;BusinessAreaForm;Zin√¢tne un tehnolo√¨ijas;Science and technology
+area_of_activity;SOCIAL_PROTECTION;SOC;LegalEntityExtenedStructure;BusinessAreaForm;Soci√¢l√¢ aizsardz√Æba;Social protection
 area_of_activity;SPORTS_CENTER;SPC;LegalEntityExtenedStructure;BusinessAreaForm;Sporta centrs;Sports center
 area_of_activity;SPORTS_CLUB;SPK;LegalEntityExtenedStructure;BusinessAreaForm;Sporta klubs;Sports club
-area_of_activity;SPORTS_EDUCATION;SPI;LegalEntityExtenedStructure;BusinessAreaForm;Sporta izglÓtÓba;Sports education
+area_of_activity;SPORTS_EDUCATION;SPI;LegalEntityExtenedStructure;BusinessAreaForm;Sporta izgl√Æt√Æba;Sports education
 area_of_activity;SPORTS_SUPPORT;SAT;LegalEntityExtenedStructure;BusinessAreaForm;Sporta atbalsts;Support to sports
-area_of_activity;SPORTS_UNION;SPA;LegalEntityExtenedStructure;BusinessAreaForm;Sporta apvienÓba un sporta feder‚cija;Sports union and sports federation
-area_of_activity;SUPPORT_FAMILIES_CHILDREN;AGB;LegalEntityExtenedStructure;BusinessAreaForm;Atbalsts ÏimenÁm un bÁrniem;Support to families and children
+area_of_activity;SPORTS_UNION;SPA;LegalEntityExtenedStructure;BusinessAreaForm;Sporta apvien√Æba un sporta feder√¢cija;Sports union and sports federation
+area_of_activity;SUPPORT_FAMILIES_CHILDREN;AGB;LegalEntityExtenedStructure;BusinessAreaForm;Atbalsts √¨imen√ßm un b√ßrniem;Support to families and children
 area_of_activity;SUPPORT_TO_VICTIMS_OF_CRIME;ANU;LegalEntityExtenedStructure;BusinessAreaForm;Atbalsts noziegumu upuriem;Support to victims of crime
-area_of_activity;TRADE_UNION;ARB;LegalEntityExtenedStructure;BusinessAreaForm;ArodbiedrÓba;Trade Union
-area_of_activity;TV_CHANNEL;TVK;LegalEntityExtenedStructure;BusinessAreaForm;TV kan‚ls;TV channel
-area_of_activity;VETERINARY_SERVICES;VET;LegalEntityExtenedStructure;BusinessAreaForm;Veterin‚rie pakalpojumi;Veterinary services
-area_of_activity;VISUAL_ARTS;VIZ;LegalEntityExtenedStructure;BusinessAreaForm;Vizu‚l‚ m‚ksla;Visual arts
-area_of_activity;VOLUNTEER_FIRE_ORGANIZATION;BUO;LegalEntityExtenedStructure;BusinessAreaForm;BrÓvpr‚tÓgo ugunsdzÁsÁju organiz‚cija;Volunteer fire organization
+area_of_activity;TRADE_UNION;ARB;LegalEntityExtenedStructure;BusinessAreaForm;Arodbiedr√Æba;Trade Union
+area_of_activity;TV_CHANNEL;TVK;LegalEntityExtenedStructure;BusinessAreaForm;TV kan√¢ls;TV channel
+area_of_activity;VETERINARY_SERVICES;VET;LegalEntityExtenedStructure;BusinessAreaForm;Veterin√¢rie pakalpojumi;Veterinary services
+area_of_activity;VISUAL_ARTS;VIZ;LegalEntityExtenedStructure;BusinessAreaForm;Vizu√¢l√¢ m√¢ksla;Visual arts
+area_of_activity;VOLUNTEER_FIRE_ORGANIZATION;BUO;LegalEntityExtenedStructure;BusinessAreaForm;Br√Ævpr√¢t√Ægo ugunsdz√ßs√ßju organiz√¢cija;Volunteer fire organization
 authority;CHANCERY_OF_PRESIDENT;;;;Valsts prezidenta kanceleja;Chancery of the President of Latvia
 authority;COURT;;;;Tiesa ;Court
-authority;DERIVED_PUBLIC_PERSON;;;;Atvasin‚ta publiska persona;Derived public person
-authority;INSTITUTION_OF_DIRECT_ADMINISTRATION;;;;Tie‚s p‚rvaldes iest‚de;Institution of direct administration
-authority;INSTITUTION_OF_INDIRECT_ADMINISTRATION;;;;Pastarpin‚t‚s p‚rvaldes iest‚de;Institution of indirect administration
-authority;OTHER_AUTHORITY;;;;Cita valsts iest‚de;Other public authority
+authority;DERIVED_PUBLIC_PERSON;;;;Atvasin√¢ta publiska persona;Derived public person
+authority;INSTITUTION_OF_DIRECT_ADMINISTRATION;;;;Tie√∞√¢s p√¢rvaldes iest√¢de;Institution of direct administration
+authority;INSTITUTION_OF_INDIRECT_ADMINISTRATION;;;;Pastarpin√¢t√¢s p√¢rvaldes iest√¢de;Institution of indirect administration
+authority;OTHER_AUTHORITY;;;;Cita valsts iest√¢de;Other public authority
 authority;PARLIAMENT;;;;Latvijas Republikas Saeima;Latvian Parliament
-authority;PROSECUTION_OFFICE;;;;Prokurat˚ra;Prosecution Office
-capital;CONDITIONAL_EQUITY;NOS;LegalEntityExtenedStructure;CapitalForm;NosacÓtais pamatkapit‚ls;Conditional equity
-capital;EQUITY_KB;PKB;LegalEntityExtenedStructure;CapitalForm;Pamatkapit‚ls (KB);Equity†of KB (Co-operative Society)
-capital;FOUNDING_AS;DIB;LegalEntityExtenedStructure;CapitalForm;Dibin‚anas kapit‚ls (AS);Founding capital of AS (PLC)
-capital;HISTORICAL_EQUITY;OBC;LegalEntityExtenedStructure;CapitalForm;Pamatkapit‚ls (vÁsture);Equity (history)
-capital;INVESTMENT;KOM;LegalEntityExtenedStructure;CapitalForm;IeguldÓjums;Investment
-capital;MINIMUM_RESERVES;OBL;LegalEntityExtenedStructure;CapitalForm;Oblig‚t‚ rezerve;Minimum reserves
-capital;PAID_UP_EQUITY;APM;LegalEntityExtenedStructure;CapitalForm;Apmaks‚tais pamatkapit‚ls;Paid-up equity
-capital;REGISTERED_AS;RGP;LegalEntityExtenedStructure;CapitalForm;ReÏistrÁtais kapit‚ls (AS);Registered capital of AS (PLC)
-capital;REGISTERED_EQUITY;REG;LegalEntityExtenedStructure;CapitalForm;ReÏistrÁtais pamatkapit‚ls;Registered equity
-change;ACTIVITY;dv;LegalEntityExtenedStructure;ChangesRecord;DarbÓbas veidu maiÚa;Change of activity
-change;ADDRESS;adrese;LegalEntityExtenedStructure;ChangesRecord;Adreses maiÚa;Change of legal address
-change;BENEFICIAL_OWNER;plg;LegalEntityExtenedStructure;ChangesRecord;IzmaiÚas patiesajos labuma guvÁjos;Change in beneficial owners
-change;BRANCH;fil;LegalEntityExtenedStructure;ChangesRecord;IzmaiÚas fili‚lÁs;Change in branches
-change;EQUITY_CAPITAL;pk;LegalEntityExtenedStructure;ChangesRecord;Pamatkapit‚la maiÚa;Change of equity capital
-change;LIQUIDATION;;;;IzmaiÚas saistÓb‚ ar likvid‚cijas procesu;Change concerning liquidation proceedings
-change;MEMBER;dibin;LegalEntityExtenedStructure;ChangesRecord;IzamiÚas dalÓbniekos;Change in members
-change;NAME;nosaukumi;LegalEntityExtenedStructure;ChangesRecord;Nosaukuma maiÚa;Change of legal name
-change;NEW;;;;ReÏistrÁts jauns subjekts;New entity was registered
-change;OFFICER;pers;LegalEntityExtenedStructure;ChangesRecord;IzmaiÚas amatperson‚s;Change in officers
-change;OTHER_CHANGE;others;LegalEntityExtenedStructure;ChangesRecord;Citas izmaiÚas;Unidentified type of change
-change;PROCURATION;prok;LegalEntityExtenedStructure;ChangesRecord;IzmaiÚas prokuristos;Change in procurations
-change;REMOVAL;;;;Subjekts no reÏistra izslÁgts;Entity was removed
-change;REORGANIZATION;;;;IzmaiÚas saistÓb‚ ar reorganiz‚cijas procesu;Change concerning reorganisation proceedings
-change;REREGISTRATION;reg;LegalEntityExtenedStructure;ChangesRecord;ReÏistra maiÚa;Change of register
-change;SECURING_MEASURE;arests;LegalEntityExtenedStructure;ChangesRecord;Nodroin‚juma lÓdzekÔu maiÚa;Change in securing measures
-change_reason;ADDRESS_UPDATED;K;LegalEntityExtenedStructure;ChangeReason;"AktualizÁts, pamatojoties uz likuma ""Par Latvijas Republikas UzÚÁmumu reÏistru"" 4.4panta treo daÔu";Updated on the basis of Paragraph three, Article 4.4 of the Law on the Enterprise Register of the Republic of Latvia
-change_reason;ANNULLED;A;LegalEntityExtenedStructure;ChangeReason;AnulÁts;Entry annulled
-change_reason;EQUITY_RECALCULATED;C;LegalEntityExtenedStructure;ChangeReason;Pamatkapit‚ls p‚rrÁÌin‚ts, pamatojoties uz Komerclikuma p‚rejas noteikumu 52.p;The equity capital recalculated in conformity†with Paragraph 52 of the transitional provisions of the†Commercial Law
-change_reason;LATVIAN_IN_UPDATED;P;LegalEntityExtenedStructure;ChangeReason;AktualizÁts personas kods, pamatojoties uz IedzÓvot‚ju reÏistra datiem;Latvian identity number updated according to data from the Latvian Population Register
-decisive_influence;GROUP_OF_COMPANIES_CONTRACT;K;LegalEntityExtenedStructure;InfluenceForm;Koncernu lÓgums;Group of Companies Contract
-decisive_influence;PARTICIPATION;L;LegalEntityExtenedStructure;InfluenceForm;LÓdzdalÓba;Participation
-decisive_influence_details;CONTROL;V;LegalEntityExtenedStructure;BaseGroupForm;P‚rvaldes lÓgums;Control Agreement
-decisive_influence_details;CONTROL_AND_PROFIT_TRANSFER;A;LegalEntityExtenedStructure;BaseGroupForm;P‚rvaldes un peÔÚas nodoanas lÓgums;Control and Profit Transfer Agreement 
-decisive_influence_details;HAS_EXERCISED_RIGHTS;G;LegalEntityExtenedStructure;BaseGroupForm;uzÚÁmums ir sabiedrÓbas dalÓbnieks un, izmantojot vienÓgi savas dalÓbnieka tiesÓbas, p‚rskata gada laik‚ ir iecÁlis sabiedrÓbas izpildinstit˚cijas vai p‚rraudzÓbas instit˚cijas locekÔu vair‚kumu;Undertaking is a shareholder of the company and has only exercised its shareholderís rights to elect the majority of members of the companyís executive body or supervisory body during the accounting year
-decisive_influence_details;HAS_MAJORITY;B;LegalEntityExtenedStructure;BaseGroupForm;uzÚÁmumam sabiedrÓb‚ ir balsstiesÓbu vair‚kums;Undertaking has the majority of votes in the company
-decisive_influence_details;HAS_RIGHTS;P;LegalEntityExtenedStructure;BaseGroupForm;uzÚÁmumam k‚ sabiedrÓbas dalÓbniekam ir tiesÓbas iecelt vai atcelt sabiedrÓbas izpildinstit˚cijas vai p‚rraudzÓbas instit˚cijas locekÔu vair‚kumu;Undertaking as a shareholder of the company has the right to elect or dismiss the majority of members of the companyís executive body or supervisory body
-decisive_influence_details;HAS_SOLE_CONTROL;K;LegalEntityExtenedStructure;BaseGroupForm;uzÚÁmums ir sabiedrÓbas dalÓbnieks un, pamatojoties uz vienoanos ar citiem dalÓbniekiem, viens pats kontrolÁ balsstiesÓbu vair‚kumu sabiedrÓb‚;Undertaking is a shareholder of the company and has sole control over the majority of voting rights in the company based on the agreement with other shareholders
-decisive_influence_details;PROFIT_TRANSFER;P;LegalEntityExtenedStructure;BaseGroupForm;PeÔÚas nodoanas lÓgums;Profit Transfer Agreement
-governing_body;ADMINISTRATION;ADM;LegalEntityExtenedStructure;Institution;Administr‚cija;Administration
-governing_body;AUDIT_COMMITTEE;RVZ;LegalEntityExtenedStructure;Institution;RevÓzijas komisija;Audit Committee
+authority;PROSECUTION_OFFICE;;;;Prokurat√ªra;Prosecution Office
+capital;CONDITIONAL_EQUITY;NOS;LegalEntityExtenedStructure;CapitalForm;Nosac√Ætais pamatkapit√¢ls;Conditional equity
+capital;EQUITY_KB;PKB;LegalEntityExtenedStructure;CapitalForm;Pamatkapit√¢ls (KB);Equity¬†of KB (Co-operative Society)
+capital;FOUNDING_AS;DIB;LegalEntityExtenedStructure;CapitalForm;Dibin√¢√∞anas kapit√¢ls (AS);Founding capital of AS (PLC)
+capital;HISTORICAL_EQUITY;OBC;LegalEntityExtenedStructure;CapitalForm;Pamatkapit√¢ls (v√ßsture);Equity (history)
+capital;INVESTMENT;KOM;LegalEntityExtenedStructure;CapitalForm;Ieguld√Æjums;Investment
+capital;MINIMUM_RESERVES;OBL;LegalEntityExtenedStructure;CapitalForm;Oblig√¢t√¢ rezerve;Minimum reserves
+capital;PAID_UP_EQUITY;APM;LegalEntityExtenedStructure;CapitalForm;Apmaks√¢tais pamatkapit√¢ls;Paid-up equity
+capital;REGISTERED_AS;RGP;LegalEntityExtenedStructure;CapitalForm;Re√¨istr√ßtais kapit√¢ls (AS);Registered capital of AS (PLC)
+capital;REGISTERED_EQUITY;REG;LegalEntityExtenedStructure;CapitalForm;Re√¨istr√ßtais pamatkapit√¢ls;Registered equity
+change;ACTIVITY;dv;LegalEntityExtenedStructure;ChangesRecord;Darb√Æbas veidu mai√≤a;Change of activity
+change;ADDRESS;adrese;LegalEntityExtenedStructure;ChangesRecord;Adreses mai√≤a;Change of legal address
+change;BENEFICIAL_OWNER;plg;LegalEntityExtenedStructure;ChangesRecord;Izmai√≤as patiesajos labuma guv√ßjos;Change in beneficial owners
+change;BRANCH;fil;LegalEntityExtenedStructure;ChangesRecord;Izmai√≤as fili√¢l√ßs;Change in branches
+change;EQUITY_CAPITAL;pk;LegalEntityExtenedStructure;ChangesRecord;Pamatkapit√¢la mai√≤a;Change of equity capital
+change;LIQUIDATION;;;;Izmai√≤as saist√Æb√¢ ar likvid√¢cijas procesu;Change concerning liquidation proceedings
+change;MEMBER;dibin;LegalEntityExtenedStructure;ChangesRecord;Izami√≤as dal√Æbniekos;Change in members
+change;NAME;nosaukumi;LegalEntityExtenedStructure;ChangesRecord;Nosaukuma mai√≤a;Change of legal name
+change;NEW;;;;Re√¨istr√ßts jauns subjekts;New entity was registered
+change;OFFICER;pers;LegalEntityExtenedStructure;ChangesRecord;Izmai√≤as amatperson√¢s;Change in officers
+change;OTHER_CHANGE;others;LegalEntityExtenedStructure;ChangesRecord;Citas izmai√≤as;Unidentified type of change
+change;PROCURATION;prok;LegalEntityExtenedStructure;ChangesRecord;Izmai√≤as prokuristos;Change in procurations
+change;REMOVAL;;;;Subjekts no re√¨istra izsl√ßgts;Entity was removed
+change;REORGANIZATION;;;;Izmai√≤as saist√Æb√¢ ar reorganiz√¢cijas procesu;Change concerning reorganisation proceedings
+change;REREGISTRATION;reg;LegalEntityExtenedStructure;ChangesRecord;Re√¨istra mai√≤a;Change of register
+change;SECURING_MEASURE;arests;LegalEntityExtenedStructure;ChangesRecord;Nodro√∞in√¢juma l√Ædzek√Øu mai√≤a;Change in securing measures
+change_reason;ADDRESS_UPDATED;K;LegalEntityExtenedStructure;ChangeReason;Aktualiz√ßts, pamatojoties uz likuma "Par Latvijas Republikas Uz√≤√ßmumu re√¨istru" 4.4panta tre√∞o da√Øu;Updated on the basis of Paragraph three, Article 4.4 of the Law on the Enterprise Register of the Republic of Latvia
+change_reason;ANNULLED;A;LegalEntityExtenedStructure;ChangeReason;Anul√ßts;Entry annulled
+change_reason;EQUITY_RECALCULATED;C;LegalEntityExtenedStructure;ChangeReason;Pamatkapit√¢ls p√¢rr√ß√≠in√¢ts, pamatojoties uz Komerclikuma p√¢rejas noteikumu 52.p;The equity capital recalculated in conformity¬†with Paragraph 52 of the transitional provisions of the¬†Commercial Law
+change_reason;LATVIAN_IN_UPDATED;P;LegalEntityExtenedStructure;ChangeReason;Aktualiz√ßts personas kods, pamatojoties uz Iedz√Ævot√¢ju re√¨istra datiem;Latvian identity number updated according to data from the Latvian Population Register
+decisive_influence;GROUP_OF_COMPANIES_CONTRACT;K;LegalEntityExtenedStructure;InfluenceForm;Koncernu l√Ægums;Group of Companies Contract
+decisive_influence;PARTICIPATION;L;LegalEntityExtenedStructure;InfluenceForm;L√Ædzdal√Æba;Participation
+decisive_influence_details;CONTROL;V;LegalEntityExtenedStructure;BaseGroupForm;P√¢rvaldes l√Ægums;Control Agreement
+decisive_influence_details;CONTROL_AND_PROFIT_TRANSFER;A;LegalEntityExtenedStructure;BaseGroupForm;P√¢rvaldes un pe√Ø√≤as nodo√∞anas l√Ægums;Control and Profit Transfer Agreement 
+decisive_influence_details;HAS_EXERCISED_RIGHTS;G;LegalEntityExtenedStructure;BaseGroupForm;uz√≤√ßmums ir sabiedr√Æbas dal√Æbnieks un, izmantojot vien√Ægi savas dal√Æbnieka ties√Æbas, p√¢rskata gada laik√¢ ir iec√ßlis sabiedr√Æbas izpildinstit√ªcijas vai p√¢rraudz√Æbas instit√ªcijas locek√Øu vair√¢kumu;Undertaking is a shareholder of the company and has only exercised its shareholder¬ís rights to elect the majority of members of the company¬ís executive body or supervisory body during the accounting year
+decisive_influence_details;HAS_MAJORITY;B;LegalEntityExtenedStructure;BaseGroupForm;uz√≤√ßmumam sabiedr√Æb√¢ ir balssties√Æbu vair√¢kums;Undertaking has the majority of votes in the company
+decisive_influence_details;HAS_RIGHTS;P;LegalEntityExtenedStructure;BaseGroupForm;uz√≤√ßmumam k√¢ sabiedr√Æbas dal√Æbniekam ir ties√Æbas iecelt vai atcelt sabiedr√Æbas izpildinstit√ªcijas vai p√¢rraudz√Æbas instit√ªcijas locek√Øu vair√¢kumu;Undertaking as a shareholder of the company has the right to elect or dismiss the majority of members of the company¬ís executive body or supervisory body
+decisive_influence_details;HAS_SOLE_CONTROL;K;LegalEntityExtenedStructure;BaseGroupForm;uz√≤√ßmums ir sabiedr√Æbas dal√Æbnieks un, pamatojoties uz vieno√∞anos ar citiem dal√Æbniekiem, viens pats kontrol√ß balssties√Æbu vair√¢kumu sabiedr√Æb√¢;Undertaking is a shareholder of the company and has sole control over the majority of voting rights in the company based on the agreement with other shareholders
+decisive_influence_details;PROFIT_TRANSFER;P;LegalEntityExtenedStructure;BaseGroupForm;Pe√Ø√≤as nodo√∞anas l√Ægums;Profit Transfer Agreement
+governing_body;ADMINISTRATION;ADM;LegalEntityExtenedStructure;Institution;Administr√¢cija;Administration
+governing_body;AUDIT_COMMITTEE;RVZ;LegalEntityExtenedStructure;Institution;Rev√Æzijas komisija;Audit Committee
 governing_body;AUDITOR;REV;LegalEntityExtenedStructure;Institution;Revidents;Auditor
 governing_body;BOARD_DIRECTORS;DVL;LegalEntityExtenedStructure;Institution;Direktoru valde;Board of Directors
-governing_body;CENTRAL_COMMITTEE;CKM;LegalEntityExtenedStructure;Institution;Centr‚lkomiteja;Central Committee
+governing_body;CENTRAL_COMMITTEE;CKM;LegalEntityExtenedStructure;Institution;Centr√¢lkomiteja;Central Committee
 governing_body;CITY_COUNCIL;DOM;LegalEntityExtenedStructure;Institution;Dome;City Council
-governing_body;COLLEGIUM;KOL;LegalEntityExtenedStructure;Institution;KolÁÏija;Collegium
+governing_body;COLLEGIUM;KOL;LegalEntityExtenedStructure;Institution;Kol√ß√¨ija;Collegium
 governing_body;COMMITTEE;KOM;LegalEntityExtenedStructure;Institution;Komiteja;Committee
 governing_body;CONFERENCE;KNF;LegalEntityExtenedStructure;Institution;Konference;Conference
 governing_body;CONGRESS;KNG;LegalEntityExtenedStructure;Institution;Kongress;Congress
 governing_body;CONVENTION;KNV;LegalEntityExtenedStructure;Institution;Konvents;Convention
-governing_body;COORDINATION_COUNCIL;KPD;LegalEntityExtenedStructure;Institution;Koordin‚cijas padome;Coordination Council
+governing_body;COORDINATION_COUNCIL;KPD;LegalEntityExtenedStructure;Institution;Koordin√¢cijas padome;Coordination Council
 governing_body;COUNCIL_DIRECTORS;DPD;LegalEntityExtenedStructure;Institution;Direktoru padome;Council of Directors
 governing_body;DIRECTORATE;DIR;LegalEntityExtenedStructure;Institution;Direkcija;Directorate
 governing_body;EXECUTIVE_BOARD;VAL;LegalEntityExtenedStructure;Institution;Valde;Executive Board
-governing_body;EXECUTIVE_BODY;IZN;LegalEntityExtenedStructure;Institution;Izpildinstit˚cija;Executive Body
+governing_body;EXECUTIVE_BODY;IZN;LegalEntityExtenedStructure;Institution;Izpildinstit√ªcija;Executive Body
 governing_body;EXECUTIVE_COMMITTEE;IKM;LegalEntityExtenedStructure;Institution;Izpildkomiteja;Executive Committee
 governing_body;GENERAL_MEETING;KOP;LegalEntityExtenedStructure;Institution;Kopsapulce;General Meeting
-governing_body;LIQUIDATION_COMMITTEE;LKK;LegalEntityExtenedStructure;Institution;Likvid‚cijas komisija;Liquidation Committee
-governing_body;MANAGEMENT_BODY;VIN;LegalEntityExtenedStructure;Institution;VadÓbas instit˚cija;Management Body
+governing_body;LIQUIDATION_COMMITTEE;LKK;LegalEntityExtenedStructure;Institution;Likvid√¢cijas komisija;Liquidation Committee
+governing_body;MANAGEMENT_BODY;VIN;LegalEntityExtenedStructure;Institution;Vad√Æbas instit√ªcija;Management Body
 governing_body;PRESIDIUM;PRZ;LegalEntityExtenedStructure;Institution;Prezidijs;Presidium
-governing_body;SECRETARIAT;SKR;LegalEntityExtenedStructure;Institution;Sekretari‚ts;Secretariat
-governing_body;SENATE;SNT;LegalEntityExtenedStructure;Institution;Sen‚ts;Senate
+governing_body;SECRETARIAT;SKR;LegalEntityExtenedStructure;Institution;Sekretari√¢ts;Secretariat
+governing_body;SENATE;SNT;LegalEntityExtenedStructure;Institution;Sen√¢ts;Senate
 governing_body;STAFF_COMMITTEE;ARK;LegalEntityExtenedStructure;Institution;Arodkomiteja;Staff Committee
 governing_body;SUPERVISORY_BOARD;PAD;LegalEntityExtenedStructure;Institution;Padome;Supervisory Board
-identity_document;DRIVING_LICENCE;VA;LegalEntityExtenedStructure;DocumentType;VadÓt‚ja apliecÓba;Driving Licence
-identity_document;FOREIGN_PASSPORT;AP;LegalEntityExtenedStructure;DocumentType;¬rzemju pase;Foreign Passport
-identity_document;IDENTITY_CARD;IK;LegalEntityExtenedStructure;DocumentType;Identifik‚cijas karte;Identification Card
+identity_document;DRIVING_LICENCE;VA;LegalEntityExtenedStructure;DocumentType;Vad√Æt√¢ja apliec√Æba;Driving Licence
+identity_document;FOREIGN_PASSPORT;AP;LegalEntityExtenedStructure;DocumentType;√Çrzemju pase;Foreign Passport
+identity_document;IDENTITY_CARD;IK;LegalEntityExtenedStructure;DocumentType;Identifik√¢cijas karte;Identification Card
 identity_document;OTHER_DOCUMENT;CT;LegalEntityExtenedStructure;DocumentType;Cits dokuments;Other document
 identity_document;PASSPORT;PS;LegalEntityExtenedStructure;DocumentType;Pase;Passport
-legal_act;DECISION;;;;LÁmums;Decision
+legal_act;DECISION;;;;L√ßmums;Decision
 legal_act;LAW;;;;Likums;Law
-legal_act;ORDER;;;;RÓkojums;Order
+legal_act;ORDER;;;;R√Ækojums;Order
 legal_act;OTHER_LEGAL_ACT;;;;Cits;Other
 legal_act;PROTOCOL;;;;Protokols;Protocol
 legal_act;RULES;;;;Noteikumi;Rules
-legal_form;ADDITIONAL_LIABILITY_COMPANY_PAP;PAP;LegalEntityExtenedStructure;LegalForm;SabiedrÓba ar papildu atbildÓbu  (vÁsturiska forma);Additional Liability Company (historical form)
-legal_form;ALLIANCE_OF_POLITICAL_PARTIES_PPA;PPA;LegalEntityExtenedStructure;LegalForm;Politisko partiju apvienÓba;Alliance of Political Parties
-legal_form;ARBITRATION_COURT_SKT;SKT;LegalEntityExtenedStructure;LegalForm;–ÌÓrÁjtiesa;Arbitration Court
-legal_form;ASSOCIATION_BDR;BDR;LegalEntityExtenedStructure;LegalForm;BiedrÓba;Association
-legal_form;ASSOCIATION_OF_PUBLIC_ORGANISATIONS_SAA;SAA;LegalEntityExtenedStructure;LegalForm;Sabiedrisko organiz‚ciju apvienÓba (vÁsturiska forma);Association of Public Organisations (historical form)
-legal_form;ASSOCIATION_OF_PUBLIC_SPORTS_ORGANISATIONS_SPA;SPA;LegalEntityExtenedStructure;LegalForm;Sporta sabiedrisko organiz‚ciju apvienÓba (vÁsturiska forma);Association of Public Sports Organisations (historical form)
-legal_form;ASSOCIATION_OF_TRADE_UNIONS_ARA;ARA;LegalEntityExtenedStructure;LegalForm;ArodbiedrÓbu apvienÓba;Association of Trade Unions
-legal_form;BRANCH_FIL;FIL;LegalEntityExtenedStructure;LegalForm;Fili‚le;Branch
-legal_form;BRANCH_OF_EUROPEAN_ECONOMIC_INTEREST_GROUPING_EGF;EGF;LegalEntityExtenedStructure;LegalForm;Eiropas ekonomisko intereu grupas fili‚le;Branch of European Economic Interest Grouping
-legal_form;BRANCH_OF_FOREIGN_COMPANY_AKF;AKF;LegalEntityExtenedStructure;LegalForm;¬rvalsts komersanta fili‚le;Branch of Foreign Company
-legal_form;CHURCH_BAZ;BAZ;LegalEntityExtenedStructure;LegalForm;BaznÓca;Church
+legal_form;ADDITIONAL_LIABILITY_COMPANY_PAP;PAP;LegalEntityExtenedStructure;LegalForm;Sabiedr√Æba ar papildu atbild√Æbu  (v√ßsturiska forma);Additional Liability Company (historical form)
+legal_form;ALLIANCE_OF_POLITICAL_PARTIES_PPA;PPA;LegalEntityExtenedStructure;LegalForm;Politisko partiju apvien√Æba;Alliance of Political Parties
+legal_form;ARBITRATION_COURT_SKT;SKT;LegalEntityExtenedStructure;LegalForm;√ê√≠√Ær√ßjtiesa;Arbitration Court
+legal_form;ASSOCIATION_BDR;BDR;LegalEntityExtenedStructure;LegalForm;Biedr√Æba;Association
+legal_form;ASSOCIATION_OF_PUBLIC_ORGANISATIONS_SAA;SAA;LegalEntityExtenedStructure;LegalForm;Sabiedrisko organiz√¢ciju apvien√Æba (v√ßsturiska forma);Association of Public Organisations (historical form)
+legal_form;ASSOCIATION_OF_PUBLIC_SPORTS_ORGANISATIONS_SPA;SPA;LegalEntityExtenedStructure;LegalForm;Sporta sabiedrisko organiz√¢ciju apvien√Æba (v√ßsturiska forma);Association of Public Sports Organisations (historical form)
+legal_form;ASSOCIATION_OF_TRADE_UNIONS_ARA;ARA;LegalEntityExtenedStructure;LegalForm;Arodbiedr√Æbu apvien√Æba;Association of Trade Unions
+legal_form;BRANCH_FIL;FIL;LegalEntityExtenedStructure;LegalForm;Fili√¢le;Branch
+legal_form;BRANCH_OF_EUROPEAN_ECONOMIC_INTEREST_GROUPING_EGF;EGF;LegalEntityExtenedStructure;LegalForm;Eiropas ekonomisko intere√∞u grupas fili√¢le;Branch of European Economic Interest Grouping
+legal_form;BRANCH_OF_FOREIGN_COMPANY_AKF;AKF;LegalEntityExtenedStructure;LegalForm;√Çrvalsts komersanta fili√¢le;Branch of Foreign Company
+legal_form;CHURCH_BAZ;BAZ;LegalEntityExtenedStructure;LegalForm;Bazn√Æca;Church
 legal_form;CONGREGATION_DRZ;DRZ;LegalEntityExtenedStructure;LegalForm;Draudze;Congregation
-legal_form;COOPERATIVE_SHARE_COMPANY_PAJ;PAJ;LegalEntityExtenedStructure;LegalForm;Paju sabiedrÓba  (vÁsturiska forma);Co-operative Share Company (historical form)
-legal_form;COOPERATIVE_SOCIETIES_COMPANY_KBU;KBU;LegalEntityExtenedStructure;LegalForm;KooperatÓvo biedrÓbu uzÚÁmums (vÁsturiska forma);Undertaking of Co-operative Societies †(historical form)
-legal_form;COOPERATIVE_SOCIETY_KB;KB;LegalEntityExtenedStructure;LegalForm;KooperatÓv‚ sabiedrÓba;Co-operative Society
-legal_form;DEACONATE_INSTITUTION_DIS;DIS;LegalEntityExtenedStructure;LegalForm;Diakonijas iest‚de (vÁsturiska forma);Deaconate Institution (historical form)
-legal_form;DIOCESE_DIE;DIE;LegalEntityExtenedStructure;LegalForm;DiecÁze;Diocese
-legal_form;EDUCATION_INSTITUTION_FOR_ECCLESIASTICS_GPM;GPM;LegalEntityExtenedStructure;LegalForm;GarÓg‚ person‚la m‚cÓbu iest‚de (vÁsturiska forma);Education Institution for Ecclesiastics (historical form)
-legal_form;EUROPEAN_COMPANY_SE;SE;LegalEntityExtenedStructure;LegalForm;Eiropas komercsabiedrÓba;European Company†
-legal_form;EUROPEAN_COOPERATIVE_SOCIETY_SCE;SCE;LegalEntityExtenedStructure;LegalForm;Eiropas kooperatÓv‚ sabiedrÓba;European Cooperative Society
-legal_form;EUROPEAN_ECONOMIC_INTEREST_GROUPING_EIG;EIG;LegalEntityExtenedStructure;LegalForm;Eiropas ekonomisko intereu grupa;European Economic Interest Grouping
-legal_form;FAMILY_UNDERTAKING_GIM;GIM;LegalEntityExtenedStructure;LegalForm;Ãimenes uzÚÁmums †(vÁsturiska forma);Family Undertaking (historical form)
-legal_form;FARM_ZEM;ZEM;LegalEntityExtenedStructure;LegalForm;Zemnieku saimniecÓba;Farm
-legal_form;FISHING_UNDERTAKING_ZVJ;ZVJ;LegalEntityExtenedStructure;LegalForm;Zvejnieku saimniecÓba;Fishing Undertaking
-legal_form;FOREIGN_REPRESENTATIVE_OFFICE_AKP;AKP;LegalEntityExtenedStructure;LegalForm;¬rvalsts komersanta p‚rst‚vniecÓba (vÁsturiska forma);Foreign Representative Office (historical form)
-legal_form;FOREIGN_REPRESENTATIVE_OFFICE_PAR;PAR;LegalEntityExtenedStructure;LegalForm;¬rvalsts komersanta p‚rst‚vniecÓba;Foreign Representative Office†
-legal_form;FOUNDATION_NOD;NOD;LegalEntityExtenedStructure;LegalForm;Nodibin‚jums;Foundation
-legal_form;FULL_LIABILITY_PARTNERSHIP_LIG;LIG;LegalEntityExtenedStructure;LegalForm;LÓgumsabiedrÓba ar pilnu atbildÓbu (vÁsturiska forma);Full Liability Partnership (historical form)
-legal_form;GENERAL_PARTNERSHIP_PS;PS;LegalEntityExtenedStructure;LegalForm;PilnsabiedrÓba;General Partnership
-legal_form;INDIVIDUAL_UNDERTAKING_IND;IND;LegalEntityExtenedStructure;LegalForm;Individu‚lais uzÚÁmums;Individual Undertaking
-legal_form;INSTITUTION_OF_RELIGIOUS_ORGANISATION_ROI;ROI;LegalEntityExtenedStructure;LegalForm;Iest‚de;Institution of Religious Organisation
-legal_form;JURIDIC_PERSON_UNDER_CANON_LAW_KAT;KAT;LegalEntityExtenedStructure;LegalForm;KatoÔu baznÓcas publisko tiesÓbu juridisk‚ persona;Juridic person governed by the Canon law of the Catholic Church
-legal_form;LIMITED_LIABILITY_COMPANY_SIA;SIA;LegalEntityExtenedStructure;LegalForm;SabiedrÓba ar ierobe˛otu atbildÓbu;Limited Liability Company
-legal_form;LIMITED_PARTNERSHIP_KS;KS;LegalEntityExtenedStructure;LegalForm;KomandÓtsabiedrÓba;Limited Partnership
-legal_form;MISSION_MIS;MIS;LegalEntityExtenedStructure;LegalForm;Misija (vÁsturiska forma);Mission †(historical form)
-legal_form;MONASTERY_KLO;KLO;LegalEntityExtenedStructure;LegalForm;Klosteris (vÁsturiska forma);Monastery (historical form)
-legal_form;MUNICIPAL_COMPANY_PSV;PSV;LegalEntityExtenedStructure;LegalForm;PavaldÓbas uzÚÁmums (vÁsturiska forma);Municipal Company (historical form)
-legal_form;NEW_CONGREGATION_DRJ;DRJ;LegalEntityExtenedStructure;LegalForm;Draudze (jaun‚);Congregation (new)
-legal_form;OPEN_PUBLIC_FUND_ASF;ASF;LegalEntityExtenedStructure;LegalForm;Atkl‚tais sabiedriskais fonds (vÁsturiska forma);Open Public Fund †(historical form)
-legal_form;PERMANENT_UNIT_OF_TRADE_UNION_ARV;ARV;LegalEntityExtenedStructure;LegalForm;ArodbiedrÓbas patst‚vÓg‚ vienÓba;Permanent Unit of Trade Union
-legal_form;POLITICAL_ORGANISATION_PARTY_POL;POL;LegalEntityExtenedStructure;LegalForm;Politiska organiz‚cija, partija (vÁsturiska forma);Political Organisation, Party (historical form)
-legal_form;POLITICAL_PARTY_PP;PP;LegalEntityExtenedStructure;LegalForm;Politisk‚ partija;Political Party
-legal_form;PROFESSIONAL_CORPORATION_KOR;KOR;LegalEntityExtenedStructure;LegalForm;Korpor‚cija, profesion‚l‚ biedrÓba (vÁsturiska forma);Corporation, Professional Association (historical form)
-legal_form;PROFESSIONAL_CREATIVE_ORGANISATION_PRO;PRO;LegalEntityExtenedStructure;LegalForm;Profesion‚l‚ rado‚ organiz‚cija (vÁsturiska forma);Trade Union (historical form)
-legal_form;PUBLIC_BODY;PPI;LegalEntityExtenedStructure;LegalForm;Publisk‚ persona vai iest‚de;Public person or authority
-legal_form;PUBLIC_LIMITED_COMPANY_AS;AS;LegalEntityExtenedStructure;LegalForm;Akciju sabiedrÓba;Public Limited Company
-legal_form;PUBLIC_ORGANISATION_ENTERPRISE_SOU;SOU;LegalEntityExtenedStructure;LegalForm;Sabiedrisk‚s organiz‚cijas uzÚÁmums (vÁsturiska forma);Undertaking of Public Organisation (historical form)
-legal_form;PUBLIC_ORGANISATION_SAB;SAB;LegalEntityExtenedStructure;LegalForm;Sabiedrisk‚ organiz‚cija (vÁsturiska forma);Public Organisation †(historical form)
-legal_form;PUBLIC_SPORTS_ORGANISATION_SPO;SPO;LegalEntityExtenedStructure;LegalForm;Sporta sabiedrisk‚ organiz‚cija  (vÁsturiska forma);Public Sports Organisation (historical form)
-legal_form;RELIGIOUS_ASSOCIATION_BIE;BIE;LegalEntityExtenedStructure;LegalForm;BiedrÓba rel.  (vÁsturiska forma);Religious Association (historical form)
-legal_form;RELIGIOUS_ORGANISATION_ENTERPRISE_REL;REL;LegalEntityExtenedStructure;LegalForm;ReliÏiskas organiz‚cijas uzÚÁmums (vÁsturiska forma);Undertaking of Religious Organisation †(historical form)
-legal_form;RELIGIOUS_UNION_SAV;SAV;LegalEntityExtenedStructure;LegalForm;SavienÓba;Religious Union
-legal_form;REPRESENTATIVE_OFFICE_OF_FOREIGN_ORGANISATION_POR;POR;LegalEntityExtenedStructure;LegalForm;¬rvalsts organiz‚cijas p‚rst‚vniecÓba;Representative Office of Foreign Organisation
-legal_form;REPRESENTATIVE_OFFICE_PAR;PAR;LegalEntityExtenedStructure;LegalForm;P‚rst‚vniecÓba (vÁsturiska forma);Representative Office (historical form)
-legal_form;REPRESENTATIVE_PRV;PRV;LegalEntityExtenedStructure;LegalForm;P‚rst‚vis (vÁsturiska forma);Representative (historical form)
-legal_form;SOLE_TRADER_IK;IK;LegalEntityExtenedStructure;LegalForm;Individu‚lais komersants;Sole trader
-legal_form;SPIRITUAL_CENTRE_CEN;CEN;LegalEntityExtenedStructure;LegalForm;Centrs  (vÁsturiska forma);Spiritual Centre (historical form)
-legal_form;STATE_OWNED_ENTERPRISE_VU;VU;LegalEntityExtenedStructure;LegalForm;Valsts uzÚÁmums  (vÁsturiska forma);State-owned Enterprise (historical form)
-legal_form;TRADE_UNION_ARB;ARB;LegalEntityExtenedStructure;LegalForm;ArodbiedrÓba;Trade Union
-legal_form;TRADE_UNION_HISTORICAL_ARB;ARB;LegalEntityExtenedStructure;LegalForm;ArodbiedrÓba (vÁsturiska forma);Trade Union (historical form)
-legal_form;UNDERTAKING_OF_COMPANY_UZN;UZN;LegalEntityExtenedStructure;LegalForm;UzÚÁmÁjsabiedrÓbas uzÚÁmums (vÁsturiska forma);Undertaking of Company (historical form)
-legal_form;UNION_OF_COOPERATIVE_SOCIETIES_COMPANY_KSS;KSS;LegalEntityExtenedStructure;LegalForm;KooperatÓvo biedrÓbu savienÓbas uzÚÁmums  (vÁsturiska forma);Undertaking of Union of Co-operative Societies (historical form)
-legal_form;UNION_OF_COOPRATIVE_SOCIETIES_KBS;KBS;LegalEntityExtenedStructure;LegalForm;KooperatÓvo biedrÓbu savienÓba  (vÁsturiska forma);Union of Co-oprative Societies †(historical form)
-liquidation_suspension_prohibition;ACTIVITY_CONTINUED;L2;LegalEntityExtenedStructure;LiquidationForm;DarbÓbas turpin‚ana;Activity continued
-liquidation_suspension_prohibition;ACTIVITY_OF_RELIGIOUS_ORGANISATION_TERMINATED;RR;LegalEntityExtenedStructure;LiquidationForm;ReliÏiskas organiz‚cijas darbÓbas izbeigana;Activity of a Religious Organisation terminated
-liquidation_suspension_prohibition;ACTIVITY_RESTORED;L9;LegalEntityExtenedStructure;LiquidationForm;DarbÓbas atjaunoana;Activity restored
-liquidation_suspension_prohibition;ACTIVITY_SUSPENDED;L1;LegalEntityExtenedStructure;LiquidationForm;DarbÓbas apturÁana;Activity suspended 
-liquidation_suspension_prohibition;ACTIVITY_SUSPENDED_BY_COURT;LB;LegalEntityExtenedStructure;LiquidationForm;DarbÓbas apturÁana uz tiesas lÁmuma pamata;Activity suspended by a court decision
-liquidation_suspension_prohibition;ACTIVITY_TERMINATED;LD;LegalEntityExtenedStructure;LiquidationForm;DarbÓbas izbeigana;Activity terminated 
-liquidation_suspension_prohibition;ACTIVITY_TERMINATED_BY_COURT;LC;LegalEntityExtenedStructure;LiquidationForm;DarbÓbas izbeigana uz tiesas lÁmuma pamata;Activity terminated by a court decision
-liquidation_suspension_prohibition;ECONOMIC_ACTIVITY_RESTORED;L8;LegalEntityExtenedStructure;LiquidationForm;Saimniecisk‚s darbÓbas atjaunoana;Economic activity restored
-liquidation_suspension_prohibition;ECONOMIC_ACTIVITY_SUSPENDED;L7;LegalEntityExtenedStructure;LiquidationForm;Saimniecisk‚s darbÓbas apturÁana;Economic activity suspended
-liquidation_suspension_prohibition;EEIG_DECLARED_TO_BE_NONEXISTENT;LA;LegalEntityExtenedStructure;LiquidationForm;EEIG atzÓta par neesou;EEIG declared to be non-existent
-liquidation_suspension_prohibition;LIQUIDATION;LI;LegalEntityExtenedStructure;LiquidationForm;Likvid‚cijas process;Liquidation proceeding
-liquidation_suspension_prohibition;NON_REREGISTRATION;RK;LegalEntityExtenedStructure;LiquidationForm;Nep‚rreÏistr‚cija;Non Re-registration
-liquidation_suspension_prohibition;PROHIBITION_ON_BUSINESS_ACTIVITY;L5;LegalEntityExtenedStructure;LiquidationForm;Aizliegums veikt uzÚÁmÁjdarbÓbu;Prohibition on business activity
-liquidation_suspension_prohibition;PROHIBITION_ON_BUSINESS_ACTIVITY_REMOVED;L6;LegalEntityExtenedStructure;LiquidationForm;Aizlieguma veikt uzÚÁmÁjdarbÓbu atcelana;Prohibition on business activity removed
-liquidation_suspension_prohibition;PROHIBITION_ON_PUBLIC_ACTIVITY;L3;LegalEntityExtenedStructure;LiquidationForm;Publisk‚s darbÓbas vai citas darbÓbas aizliegums;Prohibition on public activity or other activity
-liquidation_suspension_prohibition;PROHIBITION_ON_PUBLIC_ACTIVITY_REMOVED;L4;LegalEntityExtenedStructure;LiquidationForm;Publisk‚s darbÓbas vai citas darb. aizlieg. atc.;Prohibition on public activity or other activity removed
-liquidation_suspension_prohibition;REFORM_OF_ASSOCIATIONS;RB;LegalEntityExtenedStructure;LiquidationForm;BiedrÓbu reforma;Reform of Associations
+legal_form;COOPERATIVE_SHARE_COMPANY_PAJ;PAJ;LegalEntityExtenedStructure;LegalForm;Paju sabiedr√Æba  (v√ßsturiska forma);Co-operative Share Company (historical form)
+legal_form;COOPERATIVE_SOCIETIES_COMPANY_KBU;KBU;LegalEntityExtenedStructure;LegalForm;Kooperat√Ævo biedr√Æbu uz√≤√ßmums (v√ßsturiska forma);Undertaking of Co-operative Societies ¬†(historical form)
+legal_form;COOPERATIVE_SOCIETY_KB;KB;LegalEntityExtenedStructure;LegalForm;Kooperat√Æv√¢ sabiedr√Æba;Co-operative Society
+legal_form;DEACONATE_INSTITUTION_DIS;DIS;LegalEntityExtenedStructure;LegalForm;Diakonijas iest√¢de (v√ßsturiska forma);Deaconate Institution (historical form)
+legal_form;DIOCESE_DIE;DIE;LegalEntityExtenedStructure;LegalForm;Diec√ßze;Diocese
+legal_form;EDUCATION_INSTITUTION_FOR_ECCLESIASTICS_GPM;GPM;LegalEntityExtenedStructure;LegalForm;Gar√Æg√¢ person√¢la m√¢c√Æbu iest√¢de (v√ßsturiska forma);Education Institution for Ecclesiastics (historical form)
+legal_form;EUROPEAN_COMPANY_SE;SE;LegalEntityExtenedStructure;LegalForm;Eiropas komercsabiedr√Æba;European Company¬†
+legal_form;EUROPEAN_COOPERATIVE_SOCIETY_SCE;SCE;LegalEntityExtenedStructure;LegalForm;Eiropas kooperat√Æv√¢ sabiedr√Æba;European Cooperative Society
+legal_form;EUROPEAN_ECONOMIC_INTEREST_GROUPING_EIG;EIG;LegalEntityExtenedStructure;LegalForm;Eiropas ekonomisko intere√∞u grupa;European Economic Interest Grouping
+legal_form;FAMILY_UNDERTAKING_GIM;GIM;LegalEntityExtenedStructure;LegalForm;√åimenes uz√≤√ßmums ¬†(v√ßsturiska forma);Family Undertaking (historical form)
+legal_form;FARM_ZEM;ZEM;LegalEntityExtenedStructure;LegalForm;Zemnieku saimniec√Æba;Farm
+legal_form;FISHING_UNDERTAKING_ZVJ;ZVJ;LegalEntityExtenedStructure;LegalForm;Zvejnieku saimniec√Æba;Fishing Undertaking
+legal_form;FOREIGN_REPRESENTATIVE_OFFICE_AKP;AKP;LegalEntityExtenedStructure;LegalForm;√Çrvalsts komersanta p√¢rst√¢vniec√Æba (v√ßsturiska forma);Foreign Representative Office (historical form)
+legal_form;FOREIGN_REPRESENTATIVE_OFFICE_PAR;PAR;LegalEntityExtenedStructure;LegalForm;√Çrvalsts komersanta p√¢rst√¢vniec√Æba;Foreign Representative Office¬†
+legal_form;FOUNDATION_NOD;NOD;LegalEntityExtenedStructure;LegalForm;Nodibin√¢jums;Foundation
+legal_form;FULL_LIABILITY_PARTNERSHIP_LIG;LIG;LegalEntityExtenedStructure;LegalForm;L√Ægumsabiedr√Æba ar pilnu atbild√Æbu (v√ßsturiska forma);Full Liability Partnership (historical form)
+legal_form;GENERAL_PARTNERSHIP_PS;PS;LegalEntityExtenedStructure;LegalForm;Pilnsabiedr√Æba;General Partnership
+legal_form;INDIVIDUAL_UNDERTAKING_IND;IND;LegalEntityExtenedStructure;LegalForm;Individu√¢lais uz√≤√ßmums;Individual Undertaking
+legal_form;INSTITUTION_OF_RELIGIOUS_ORGANISATION_ROI;ROI;LegalEntityExtenedStructure;LegalForm;Iest√¢de;Institution of Religious Organisation
+legal_form;JURIDIC_PERSON_UNDER_CANON_LAW_KAT;KAT;LegalEntityExtenedStructure;LegalForm;Kato√Øu bazn√Æcas publisko ties√Æbu juridisk√¢ persona;Juridic person governed by the Canon law of the Catholic Church
+legal_form;LIMITED_LIABILITY_COMPANY_SIA;SIA;LegalEntityExtenedStructure;LegalForm;Sabiedr√Æba ar ierobe√æotu atbild√Æbu;Limited Liability Company
+legal_form;LIMITED_PARTNERSHIP_KS;KS;LegalEntityExtenedStructure;LegalForm;Komand√Ætsabiedr√Æba;Limited Partnership
+legal_form;MISSION_MIS;MIS;LegalEntityExtenedStructure;LegalForm;Misija (v√ßsturiska forma);Mission ¬†(historical form)
+legal_form;MONASTERY_KLO;KLO;LegalEntityExtenedStructure;LegalForm;Klosteris (v√ßsturiska forma);Monastery (historical form)
+legal_form;MUNICIPAL_COMPANY_PSV;PSV;LegalEntityExtenedStructure;LegalForm;Pa√∞vald√Æbas uz√≤√ßmums (v√ßsturiska forma);Municipal Company (historical form)
+legal_form;NEW_CONGREGATION_DRJ;DRJ;LegalEntityExtenedStructure;LegalForm;Draudze (jaun√¢);Congregation (new)
+legal_form;OPEN_PUBLIC_FUND_ASF;ASF;LegalEntityExtenedStructure;LegalForm;Atkl√¢tais sabiedriskais fonds (v√ßsturiska forma);Open Public Fund ¬†(historical form)
+legal_form;PERMANENT_UNIT_OF_TRADE_UNION_ARV;ARV;LegalEntityExtenedStructure;LegalForm;Arodbiedr√Æbas patst√¢v√Æg√¢ vien√Æba;Permanent Unit of Trade Union
+legal_form;POLITICAL_ORGANISATION_PARTY_POL;POL;LegalEntityExtenedStructure;LegalForm;Politiska organiz√¢cija, partija (v√ßsturiska forma);Political Organisation, Party (historical form)
+legal_form;POLITICAL_PARTY_PP;PP;LegalEntityExtenedStructure;LegalForm;Politisk√¢ partija;Political Party
+legal_form;PROFESSIONAL_CORPORATION_KOR;KOR;LegalEntityExtenedStructure;LegalForm;Korpor√¢cija, profesion√¢l√¢ biedr√Æba (v√ßsturiska forma);Corporation, Professional Association (historical form)
+legal_form;PROFESSIONAL_CREATIVE_ORGANISATION_PRO;PRO;LegalEntityExtenedStructure;LegalForm;Profesion√¢l√¢ rado√∞√¢ organiz√¢cija (v√ßsturiska forma);Trade Union (historical form)
+legal_form;PUBLIC_BODY;PPI;LegalEntityExtenedStructure;LegalForm;Publisk√¢ persona vai iest√¢de;Public person or authority
+legal_form;PUBLIC_LIMITED_COMPANY_AS;AS;LegalEntityExtenedStructure;LegalForm;Akciju sabiedr√Æba;Public Limited Company
+legal_form;PUBLIC_ORGANISATION_ENTERPRISE_SOU;SOU;LegalEntityExtenedStructure;LegalForm;Sabiedrisk√¢s organiz√¢cijas uz√≤√ßmums (v√ßsturiska forma);Undertaking of Public Organisation (historical form)
+legal_form;PUBLIC_ORGANISATION_SAB;SAB;LegalEntityExtenedStructure;LegalForm;Sabiedrisk√¢ organiz√¢cija (v√ßsturiska forma);Public Organisation ¬†(historical form)
+legal_form;PUBLIC_SPORTS_ORGANISATION_SPO;SPO;LegalEntityExtenedStructure;LegalForm;Sporta sabiedrisk√¢ organiz√¢cija  (v√ßsturiska forma);Public Sports Organisation (historical form)
+legal_form;RELIGIOUS_ASSOCIATION_BIE;BIE;LegalEntityExtenedStructure;LegalForm;Biedr√Æba rel.  (v√ßsturiska forma);Religious Association (historical form)
+legal_form;RELIGIOUS_ORGANISATION_ENTERPRISE_REL;REL;LegalEntityExtenedStructure;LegalForm;Reli√¨iskas organiz√¢cijas uz√≤√ßmums (v√ßsturiska forma);Undertaking of Religious Organisation ¬†(historical form)
+legal_form;RELIGIOUS_UNION_SAV;SAV;LegalEntityExtenedStructure;LegalForm;Savien√Æba;Religious Union
+legal_form;REPRESENTATIVE_OFFICE_OF_FOREIGN_ORGANISATION_POR;POR;LegalEntityExtenedStructure;LegalForm;√Çrvalsts organiz√¢cijas p√¢rst√¢vniec√Æba;Representative Office of Foreign Organisation
+legal_form;REPRESENTATIVE_OFFICE_PAR;PAR;LegalEntityExtenedStructure;LegalForm;P√¢rst√¢vniec√Æba (v√ßsturiska forma);Representative Office (historical form)
+legal_form;REPRESENTATIVE_PRV;PRV;LegalEntityExtenedStructure;LegalForm;P√¢rst√¢vis (v√ßsturiska forma);Representative (historical form)
+legal_form;SOLE_TRADER_IK;IK;LegalEntityExtenedStructure;LegalForm;Individu√¢lais komersants;Sole trader
+legal_form;SPIRITUAL_CENTRE_CEN;CEN;LegalEntityExtenedStructure;LegalForm;Centrs  (v√ßsturiska forma);Spiritual Centre (historical form)
+legal_form;STATE_OWNED_ENTERPRISE_VU;VU;LegalEntityExtenedStructure;LegalForm;Valsts uz√≤√ßmums  (v√ßsturiska forma);State-owned Enterprise (historical form)
+legal_form;TRADE_UNION_ARB;ARB;LegalEntityExtenedStructure;LegalForm;Arodbiedr√Æba;Trade Union
+legal_form;TRADE_UNION_HISTORICAL_ARB;ARB;LegalEntityExtenedStructure;LegalForm;Arodbiedr√Æba (v√ßsturiska forma);Trade Union (historical form)
+legal_form;UNDERTAKING_OF_COMPANY_UZN;UZN;LegalEntityExtenedStructure;LegalForm;Uz√≤√ßm√ßjsabiedr√Æbas uz√≤√ßmums (v√ßsturiska forma);Undertaking of Company (historical form)
+legal_form;UNION_OF_COOPERATIVE_SOCIETIES_COMPANY_KSS;KSS;LegalEntityExtenedStructure;LegalForm;Kooperat√Ævo biedr√Æbu savien√Æbas uz√≤√ßmums  (v√ßsturiska forma);Undertaking of Union of Co-operative Societies (historical form)
+legal_form;UNION_OF_COOPRATIVE_SOCIETIES_KBS;KBS;LegalEntityExtenedStructure;LegalForm;Kooperat√Ævo biedr√Æbu savien√Æba  (v√ßsturiska forma);Union of Co-oprative Societies ¬†(historical form)
+liquidation_suspension_prohibition;ACTIVITY_CONTINUED;L2;LegalEntityExtenedStructure;LiquidationForm;Darb√Æbas turpin√¢√∞ana;Activity continued
+liquidation_suspension_prohibition;ACTIVITY_OF_RELIGIOUS_ORGANISATION_TERMINATED;RR;LegalEntityExtenedStructure;LiquidationForm;Reli√¨iskas organiz√¢cijas darb√Æbas izbeig√∞ana;Activity of a Religious Organisation terminated
+liquidation_suspension_prohibition;ACTIVITY_RESTORED;L9;LegalEntityExtenedStructure;LiquidationForm;Darb√Æbas atjauno√∞ana;Activity restored
+liquidation_suspension_prohibition;ACTIVITY_SUSPENDED;L1;LegalEntityExtenedStructure;LiquidationForm;Darb√Æbas aptur√ß√∞ana;Activity suspended 
+liquidation_suspension_prohibition;ACTIVITY_SUSPENDED_BY_COURT;LB;LegalEntityExtenedStructure;LiquidationForm;Darb√Æbas aptur√ß√∞ana uz tiesas l√ßmuma pamata;Activity suspended by a court decision
+liquidation_suspension_prohibition;ACTIVITY_TERMINATED;LD;LegalEntityExtenedStructure;LiquidationForm;Darb√Æbas izbeig√∞ana;Activity terminated 
+liquidation_suspension_prohibition;ACTIVITY_TERMINATED_BY_COURT;LC;LegalEntityExtenedStructure;LiquidationForm;Darb√Æbas izbeig√∞ana uz tiesas l√ßmuma pamata;Activity terminated by a court decision
+liquidation_suspension_prohibition;ECONOMIC_ACTIVITY_RESTORED;L8;LegalEntityExtenedStructure;LiquidationForm;Saimniecisk√¢s darb√Æbas atjauno√∞ana;Economic activity restored
+liquidation_suspension_prohibition;ECONOMIC_ACTIVITY_SUSPENDED;L7;LegalEntityExtenedStructure;LiquidationForm;Saimniecisk√¢s darb√Æbas aptur√ß√∞ana;Economic activity suspended
+liquidation_suspension_prohibition;EEIG_DECLARED_TO_BE_NONEXISTENT;LA;LegalEntityExtenedStructure;LiquidationForm;EEIG atz√Æta par neeso√∞u;EEIG declared to be non-existent
+liquidation_suspension_prohibition;LIQUIDATION;LI;LegalEntityExtenedStructure;LiquidationForm;Likvid√¢cijas process;Liquidation proceeding
+liquidation_suspension_prohibition;NON_REREGISTRATION;RK;LegalEntityExtenedStructure;LiquidationForm;Nep√¢rre√¨istr√¢cija;Non Re-registration
+liquidation_suspension_prohibition;PROHIBITION_ON_BUSINESS_ACTIVITY;L5;LegalEntityExtenedStructure;LiquidationForm;Aizliegums veikt uz√≤√ßm√ßjdarb√Æbu;Prohibition on business activity
+liquidation_suspension_prohibition;PROHIBITION_ON_BUSINESS_ACTIVITY_REMOVED;L6;LegalEntityExtenedStructure;LiquidationForm;Aizlieguma veikt uz√≤√ßm√ßjdarb√Æbu atcel√∞ana;Prohibition on business activity removed
+liquidation_suspension_prohibition;PROHIBITION_ON_PUBLIC_ACTIVITY;L3;LegalEntityExtenedStructure;LiquidationForm;Publisk√¢s darb√Æbas vai citas darb√Æbas aizliegums;Prohibition on public activity or other activity
+liquidation_suspension_prohibition;PROHIBITION_ON_PUBLIC_ACTIVITY_REMOVED;L4;LegalEntityExtenedStructure;LiquidationForm;Publisk√¢s darb√Æbas vai citas darb. aizlieg. atc.;Prohibition on public activity or other activity removed
+liquidation_suspension_prohibition;REFORM_OF_ASSOCIATIONS;RB;LegalEntityExtenedStructure;LiquidationForm;Biedr√Æbu reforma;Reform of Associations
 liquidation_suspension_prohibition;REFORM_OF_POLITICAL_PARTIES;RP;LegalEntityExtenedStructure;LiquidationForm;Polistiko partiju reforma;Reform of Political Parties
-liquidation_suspension_prohibition_result;ACTIVITY_CONTINUED;U;LegalEntityExtenedStructure;Result;DarbÓbas turpin‚ana;Activity continued
-liquidation_suspension_prohibition_result;ACTIVITY_RESTORED;E;LegalEntityExtenedStructure;Result;DarbÓbas atjaunoana;Activity restored
-liquidation_suspension_prohibition_result;ACTIVITY_TERMINATED;D;LegalEntityExtenedStructure;Result;DarbÓba izbeigta;Activity terminated
-liquidation_suspension_prohibition_result;ANNULLED_PROCEEDING;A;LegalEntityExtenedStructure;Result;AnulÁts;Annulled
-liquidation_suspension_prohibition_result;CANCELLED;P;LegalEntityExtenedStructure;Result;P‚rtraukts;Cancelled
-liquidation_suspension_prohibition_result;ECONOMIC_ACTIVITY_RESTORED;J;LegalEntityExtenedStructure;Result;Saimniecisk‚s darbÓbas atjaunoana;Economic activity restored
-liquidation_suspension_prohibition_result;IN_PROGRESS;R;LegalEntityExtenedStructure;Result;Process risin‚s;In progress
-liquidation_suspension_prohibition_result;IN_REHABILITATION;S;LegalEntityExtenedStructure;Result;SanÁts;In rehabilitation
-liquidation_suspension_prohibition_result;LIQUIDATED;L;LegalEntityExtenedStructure;Result;LikvidÁts;Liquidated
-liquidation_suspension_prohibition_result;PROHIBITON_ON_BUSINESS_ACTIVITY_REMOVED;I;LegalEntityExtenedStructure;Result;Aizlieguma veikt uzÚÁmÁjdarbÓbu atcelana;Prohibition on business activity removed
-liquidation_suspension_prohibition_result;PROHIBITON_ON_PUBLIC_ACTIVITY_REMOVED;T;LegalEntityExtenedStructure;Result;Publisk‚s darbÓbas vai citas darbÓbas aizlieguma atcelana;Prohibition on public activity or other activity removed
-nature_of_control;AS_COOPERATIVE_MEMBER;KK;LegalEntityExtenedStructure;NatureOfControl;k‚ kooperatÓv‚s sabiedrÓbas biedrs;as a cooperative society member
-nature_of_control;AS_FOUNDATION_FOUNDER;KN;LegalEntityExtenedStructure;NatureOfControl;k‚ nodibin‚juma dibin‚t‚js;as a foundation founder
-nature_of_control;AS_MEMBER;KD;LegalEntityExtenedStructure;NatureOfControl;k‚ dalÓbnieks;as a member
-nature_of_control;AS_OWNER;KS;LegalEntityExtenedStructure;NatureOfControl;k‚ Ópanieks;as the owner
-nature_of_control;AS_PARTNERSHIP_MEMBER;KP;LegalEntityExtenedStructure;NatureOfControl;k‚ person‚lsabiedrÓbas biedrs;as a partnership member
-nature_of_control;AS_REPRESENTATIVE;KI;LegalEntityExtenedStructure;NatureOfControl;k‚ izpildinstit˚cijas vai p‚rvaldes instit˚cijas p‚rst‚vis;as a representative of the executive institution or of the administrative body
-nature_of_control;AS_SHAREHOLDER;KA;LegalEntityExtenedStructure;NatureOfControl;k‚ akcion‚rs;as a shareholder
-nature_of_control;AS_SOCIETY_MEMBER;KB;LegalEntityExtenedStructure;NatureOfControl;k‚ biedrÓbas biedrs;as a society member
-nature_of_control;ON_GROUNDS_OF_AUTHORIZATION;PP;LegalEntityExtenedStructure;NatureOfControl;uz pilnvarojuma lÓguma pamata;on grounds of the Power of Attorney
-nature_of_control;ON_GROUNDS_OF_BUSINESS_RELATIONS;CA;LegalEntityExtenedStructure;NatureOfControl;uz darÓjuma attiecÓbu pamata;on grounds of the business relations
-nature_of_control;ON_GROUNDS_OF_PROPERTY_RIGHT;IP;LegalEntityExtenedStructure;NatureOfControl;uz ÓpaumtiesÓbu pamata;on grounds of the property right
+liquidation_suspension_prohibition_result;ACTIVITY_CONTINUED;U;LegalEntityExtenedStructure;Result;Darb√Æbas turpin√¢√∞ana;Activity continued
+liquidation_suspension_prohibition_result;ACTIVITY_RESTORED;E;LegalEntityExtenedStructure;Result;Darb√Æbas atjauno√∞ana;Activity restored
+liquidation_suspension_prohibition_result;ACTIVITY_TERMINATED;D;LegalEntityExtenedStructure;Result;Darb√Æba izbeigta;Activity terminated
+liquidation_suspension_prohibition_result;ANNULLED_PROCEEDING;A;LegalEntityExtenedStructure;Result;Anul√ßts;Annulled
+liquidation_suspension_prohibition_result;CANCELLED;P;LegalEntityExtenedStructure;Result;P√¢rtraukts;Cancelled
+liquidation_suspension_prohibition_result;ECONOMIC_ACTIVITY_RESTORED;J;LegalEntityExtenedStructure;Result;Saimniecisk√¢s darb√Æbas atjauno√∞ana;Economic activity restored
+liquidation_suspension_prohibition_result;IN_PROGRESS;R;LegalEntityExtenedStructure;Result;Process risin√¢s;In progress
+liquidation_suspension_prohibition_result;IN_REHABILITATION;S;LegalEntityExtenedStructure;Result;San√ßts;In rehabilitation
+liquidation_suspension_prohibition_result;LIQUIDATED;L;LegalEntityExtenedStructure;Result;Likvid√ßts;Liquidated
+liquidation_suspension_prohibition_result;PROHIBITON_ON_BUSINESS_ACTIVITY_REMOVED;I;LegalEntityExtenedStructure;Result;Aizlieguma veikt uz√≤√ßm√ßjdarb√Æbu atcel√∞ana;Prohibition on business activity removed
+liquidation_suspension_prohibition_result;PROHIBITON_ON_PUBLIC_ACTIVITY_REMOVED;T;LegalEntityExtenedStructure;Result;Publisk√¢s darb√Æbas vai citas darb√Æbas aizlieguma atcel√∞ana;Prohibition on public activity or other activity removed
+nature_of_control;AS_COOPERATIVE_MEMBER;KK;LegalEntityExtenedStructure;NatureOfControl;k√¢ kooperat√Æv√¢s sabiedr√Æbas biedrs;as a cooperative society member
+nature_of_control;AS_FOUNDATION_FOUNDER;KN;LegalEntityExtenedStructure;NatureOfControl;k√¢ nodibin√¢juma dibin√¢t√¢js;as a foundation founder
+nature_of_control;AS_MEMBER;KD;LegalEntityExtenedStructure;NatureOfControl;k√¢ dal√Æbnieks;as a member
+nature_of_control;AS_OWNER;KS;LegalEntityExtenedStructure;NatureOfControl;k√¢ √Æpa√∞nieks;as the owner
+nature_of_control;AS_PARTNERSHIP_MEMBER;KP;LegalEntityExtenedStructure;NatureOfControl;k√¢ person√¢lsabiedr√Æbas biedrs;as a partnership member
+nature_of_control;AS_REPRESENTATIVE;KI;LegalEntityExtenedStructure;NatureOfControl;k√¢ izpildinstit√ªcijas vai p√¢rvaldes instit√ªcijas p√¢rst√¢vis;as a representative of the executive institution or of the administrative body
+nature_of_control;AS_SHAREHOLDER;KA;LegalEntityExtenedStructure;NatureOfControl;k√¢ akcion√¢rs;as a shareholder
+nature_of_control;AS_SOCIETY_MEMBER;KB;LegalEntityExtenedStructure;NatureOfControl;k√¢ biedr√Æbas biedrs;as a society member
+nature_of_control;ON_GROUNDS_OF_AUTHORIZATION;PP;LegalEntityExtenedStructure;NatureOfControl;uz pilnvarojuma l√Æguma pamata;on grounds of the Power of Attorney
+nature_of_control;ON_GROUNDS_OF_BUSINESS_RELATIONS;CA;LegalEntityExtenedStructure;NatureOfControl;uz dar√Æjuma attiec√Æbu pamata;on grounds of the business relations
+nature_of_control;ON_GROUNDS_OF_PROPERTY_RIGHT;IP;LegalEntityExtenedStructure;NatureOfControl;uz √Æpa√∞umties√Æbu pamata;on grounds of the property right
 nature_of_control;OTHER_TYPE_OF_CONTROL;C;LegalEntityExtenedStructure;NatureOfControl;cits;other
-nature_of_control;VIA_ARRANGEMENT_AS_AUTHORIZING_PERSON;CP;LegalEntityExtenedStructure;NatureOfControl;caur juridisko veidojumu k‚ pilnvarot‚js;via legal arrangement as the authorizing person
-nature_of_control;VIA_ARRANGEMENT_AS_FOUNDER;CD;LegalEntityExtenedStructure;NatureOfControl;caur juridisko veidojumu k‚ dibin‚t‚js;via legal arrangement as the founder
-nature_of_control;VIA_ARRANGEMENT_AS_MANAGING_PERSON;CR;LegalEntityExtenedStructure;NatureOfControl;caur juridisko veidojumu k‚ p‚rvaldÓt‚js;via legal arrangement as the managing person
-position;ADMINISTRATIVE_MANAGER;;;;AdministratÓvais vadÓt‚js;Administrative Manager
+nature_of_control;VIA_ARRANGEMENT_AS_AUTHORIZING_PERSON;CP;LegalEntityExtenedStructure;NatureOfControl;caur juridisko veidojumu k√¢ pilnvarot√¢js;via legal arrangement as the authorizing person
+nature_of_control;VIA_ARRANGEMENT_AS_FOUNDER;CD;LegalEntityExtenedStructure;NatureOfControl;caur juridisko veidojumu k√¢ dibin√¢t√¢js;via legal arrangement as the founder
+nature_of_control;VIA_ARRANGEMENT_AS_MANAGING_PERSON;CR;LegalEntityExtenedStructure;NatureOfControl;caur juridisko veidojumu k√¢ p√¢rvald√Æt√¢js;via legal arrangement as the managing person
+position;ADMINISTRATIVE_MANAGER;;;;Administrat√Ævais vad√Æt√¢js;Administrative Manager
 position;ADMINISTRATOR;ADM;LegalEntityExtenedStructure;Position;Administrators;Administrator
 position;ARBITRATOR;SKT;LegalEntityExtenedStructure;Position;Tiesnesis;Arbitrator
 position;AUDITOR;RVD;LegalEntityExtenedStructure;Position;Revidents;Auditor
-position;AUTHORISED_REPRESENTATIVE;PVP;LegalEntityExtenedStructure;Position;Pilnvarotais p‚rst‚vis;Authorised representative
+position;AUTHORISED_REPRESENTATIVE;PVP;LegalEntityExtenedStructure;Position;Pilnvarotais p√¢rst√¢vis;Authorised representative
 position;BOARD_MEMBER;VLO;LegalEntityExtenedStructure;Position;Valdes loceklis;Member of the Board
-position;BRANCH_REPRESENTATIVE;FIL;LegalEntityExtenedStructure;Position;Persona, kura pilnvarota p‚rst‚vÁt komersantu darbÓb‚s, kas saistÓtas ar fili‚li;A person authorized to represent the merchant in activities related to a branch
-position;CHAIR_OF_BOARD;VPR;LegalEntityExtenedStructure;Position;Valdes prieksÁdÁt‚js;Chairperson of the Board
-position;CHAIR_OF_SUPERVISORY_BOARD;PPR;LegalEntityExtenedStructure;Position;Padomes prieksÁdÁt‚js;Chairman of the Supervisory Board
-position;CO_OWNER;LIP;LegalEntityExtenedStructure;Position;LÓdzÓpanieks;Co-owner
-position;DEPUTY_CHAIR_OF_SUPERVISORY_BOARD;PPV;LegalEntityExtenedStructure;Position;Padomes prieksÁdÁt‚ja vietnieks;Deputy Chairman of the Supervisory Board
-position;ESTATE_TRUSTEE;MAG;LegalEntityExtenedStructure;Position;Mantojuma aizg‚dnis;Estate Trustee
-position;GENERAL_MANAGER;;;;VadÓt‚js;General Manager
+position;BRANCH_REPRESENTATIVE;FIL;LegalEntityExtenedStructure;Position;Persona, kura pilnvarota p√¢rst√¢v√ßt komersantu darb√Æb√¢s, kas saist√Ætas ar fili√¢li;A person authorized to represent the merchant in activities related to a branch
+position;CHAIR_OF_BOARD;VPR;LegalEntityExtenedStructure;Position;Valdes priek√∞s√ßd√ßt√¢js;Chairperson of the Board
+position;CHAIR_OF_SUPERVISORY_BOARD;PPR;LegalEntityExtenedStructure;Position;Padomes priek√∞s√ßd√ßt√¢js;Chairman of the Supervisory Board
+position;CO_OWNER;LIP;LegalEntityExtenedStructure;Position;L√Ædz√Æpa√∞nieks;Co-owner
+position;DEPUTY_CHAIR_OF_SUPERVISORY_BOARD;PPV;LegalEntityExtenedStructure;Position;Padomes priek√∞s√ßd√ßt√¢ja vietnieks;Deputy Chairman of the Supervisory Board
+position;ESTATE_TRUSTEE;MAG;LegalEntityExtenedStructure;Position;Mantojuma aizg√¢dnis;Estate Trustee
+position;GENERAL_MANAGER;;;;Vad√Æt√¢js;General Manager
 position;GUARDIAN;ABD;LegalEntityExtenedStructure;Position;Aizbildnis;Guardian of a minor
 position;LIQUIDATOR;LKV;LegalEntityExtenedStructure;Position;Likvidators;Liquidator
-position;MANAGER;VAD;LegalEntityExtenedStructure;Position;VadÓt‚js;Manager
-position;MANAGING_DIRECTOR;RDR;LegalEntityExtenedStructure;Position;RÓkot‚jdirektors;Managing Director
+position;MANAGER;VAD;LegalEntityExtenedStructure;Position;Vad√Æt√¢js;Manager
+position;MANAGING_DIRECTOR;RDR;LegalEntityExtenedStructure;Position;R√Ækot√¢jdirektors;Managing Director
 position;MEMBER;BDR;LegalEntityExtenedStructure;Position;Biedrs;Member
-position;OWNER;IPN;LegalEntityExtenedStructure;Position;Œpanieks;Owner
+position;OWNER;IPN;LegalEntityExtenedStructure;Position;√épa√∞nieks;Owner
 position;PRESIDENT;PRZ;LegalEntityExtenedStructure;Position;Prezidents;President
-position;REPRESENTATIVE_MANAGER;PAR;LegalEntityExtenedStructure;Position;P‚rvaldnieks;Representative manager
-position;REPRESENTATIVE_OF_THE_LIQUIDATOR;LKP;LegalEntityExtenedStructure;Position;Likvidatora p‚rst‚vis;Representative of the Liquidator
+position;REPRESENTATIVE_MANAGER;PAR;LegalEntityExtenedStructure;Position;P√¢rvaldnieks;Representative manager
+position;REPRESENTATIVE_OF_THE_LIQUIDATOR;LKP;LegalEntityExtenedStructure;Position;Likvidatora p√¢rst√¢vis;Representative of the Liquidator
 position;SUPERVISORY_BOARD_MEMBER;PLO;LegalEntityExtenedStructure;Position;Padomes loceklis;Member of the Supervisory Board
-register;ARBITRAGE;T;LegalEntityExtenedStructure;Register;–ÌÓrÁjtiesu reÏistrs;Arbitrage Register
-register;ASSOCIATIONS_AND_FOUNDATIONS;B;LegalEntityExtenedStructure;Register;BiedrÓbu un nodibin‚jumu reÏistrs;Register of Associations and Foundations
-register;COMMERCIAL;K;LegalEntityExtenedStructure;Register;KomercreÏistrs;Commercial Register
-register;COMMERCIAL_PLEDGES;KK;LegalEntityExtenedStructure;Register;KomercÌÓlu reÏistrs;Register of Commercial Pledges
-register;ENTERPRISE_REGISTER_JOURNAL;U;LegalEntityExtenedStructure;Register;UzÚÁmumu reÏistra ˛urn‚ls;Enterprise Register Journal
-register;EUROPEAN_ECONOMIC_INTEREST_GROUPINGS;E;LegalEntityExtenedStructure;Register;Eiropas ekonomisko intereu grupu reÏistrs;Register of European Economic Interest Groupings
-register;INSOLVENCY;MN;LegalEntityExtenedStructure;Register;Maks‚tnespÁjas reÏistrs;Insolvency register
-register;MASS_MEDIA;M;LegalEntityExtenedStructure;Register;Masu inform‚cijas lÓdzekÔu reÏistrs;Mass Media Register
-register;POLITICAL_ORGANISATIONS;O;LegalEntityExtenedStructure;Register;Politisko organiz‚ciju un to apvienÓbu reÏistrs;Register of Political Organisations (historical)
-register;POLITICAL_PARTIES;P;LegalEntityExtenedStructure;Register;Politisko partiju reÏistrs;Register of Political Parties
-register;PUBLIC_ORGANISATIONS;S;LegalEntityExtenedStructure;Register;Sabiedrisko organiz‚ciju reÏistrs;Register of Public Organisations (historical)
-register;PUBLIC_PERSONS_INSTITUTIONS;I;LegalEntityExtenedStructure;Register;Publisko personu un iest‚˛u saraksts;List of public persons and authorities
-register;PUBLIC_PRIVATE_PARTNERSHIP_CONTRACTS;PL;LegalEntityExtenedStructure;Register;Publisk‚s un priv‚t‚s partnerÓbas lÓgumu reÏistrs;Register of Public and Private Partnership Contracts
-register;RELIGIOUS_ORGANISATIONS_AND_INSTITUTIONS;R;LegalEntityExtenedStructure;Register;ReliÏisko organiz‚ciju un to iest‚˛u reÏistrs;Register of Religious Organisations and Institutions Thereof
-register;REPRESENTATIVE_OFFICES;C;LegalEntityExtenedStructure;Register;P‚rst‚vniecÓbu reÏistrs;Register of Representative Offices
-register;SPOUSAL_PROPERTY_RELATIONS;LM;LegalEntityExtenedStructure;Register;Laul‚to mantisko attiecÓbu reÏistrs;Spousal Property Relations Register
-register;TRADE_UNIONS;A;LegalEntityExtenedStructure;Register;ArodbiedrÓbu reÏistrs;Register of Trade Unions (historical)
-registration_removal_reason;ADDRESS_UPDATE;K;LegalEntityExtenedStructure;Reason;Adreses aktualiz‚cija;Address update
-registration_removal_reason;ANNULLED;A;LegalEntityExtenedStructure;Reason;AnulÁts;Annulled
-registration_removal_reason;DATA_CHANGES;L;LegalEntityExtenedStructure;Reason;Datu izmaiÚas;Data changes
+register;ARBITRAGE;T;LegalEntityExtenedStructure;Register;√ê√≠√Ær√ßjtiesu re√¨istrs;Arbitrage Register
+register;ASSOCIATIONS_AND_FOUNDATIONS;B;LegalEntityExtenedStructure;Register;Biedr√Æbu un nodibin√¢jumu re√¨istrs;Register of Associations and Foundations
+register;COMMERCIAL;K;LegalEntityExtenedStructure;Register;Komercre√¨istrs;Commercial Register
+register;COMMERCIAL_PLEDGES;KK;LegalEntityExtenedStructure;Register;Komerc√≠√Ælu re√¨istrs;Register of Commercial Pledges
+register;ENTERPRISE_REGISTER_JOURNAL;U;LegalEntityExtenedStructure;Register;Uz√≤√ßmumu re√¨istra √æurn√¢ls;Enterprise Register Journal
+register;EUROPEAN_ECONOMIC_INTEREST_GROUPINGS;E;LegalEntityExtenedStructure;Register;Eiropas ekonomisko intere√∞u grupu re√¨istrs;Register of European Economic Interest Groupings
+register;INSOLVENCY;MN;LegalEntityExtenedStructure;Register;Maks√¢tnesp√ßjas re√¨istrs;Insolvency register
+register;MASS_MEDIA;M;LegalEntityExtenedStructure;Register;Masu inform√¢cijas l√Ædzek√Øu re√¨istrs;Mass Media Register
+register;POLITICAL_ORGANISATIONS;O;LegalEntityExtenedStructure;Register;Politisko organiz√¢ciju un to apvien√Æbu re√¨istrs;Register of Political Organisations (historical)
+register;POLITICAL_PARTIES;P;LegalEntityExtenedStructure;Register;Politisko partiju re√¨istrs;Register of Political Parties
+register;PUBLIC_ORGANISATIONS;S;LegalEntityExtenedStructure;Register;Sabiedrisko organiz√¢ciju re√¨istrs;Register of Public Organisations (historical)
+register;PUBLIC_PERSONS_INSTITUTIONS;I;LegalEntityExtenedStructure;Register;Publisko personu un iest√¢√æu saraksts;List of public persons and authorities
+register;PUBLIC_PRIVATE_PARTNERSHIP_CONTRACTS;PL;LegalEntityExtenedStructure;Register;Publisk√¢s un priv√¢t√¢s partner√Æbas l√Ægumu re√¨istrs;Register of Public and Private Partnership Contracts
+register;RELIGIOUS_ORGANISATIONS_AND_INSTITUTIONS;R;LegalEntityExtenedStructure;Register;Reli√¨isko organiz√¢ciju un to iest√¢√æu re√¨istrs;Register of Religious Organisations and Institutions Thereof
+register;REPRESENTATIVE_OFFICES;C;LegalEntityExtenedStructure;Register;P√¢rst√¢vniec√Æbu re√¨istrs;Register of Representative Offices
+register;SPOUSAL_PROPERTY_RELATIONS;LM;LegalEntityExtenedStructure;Register;Laul√¢to mantisko attiec√Æbu re√¨istrs;Spousal Property Relations Register
+register;TRADE_UNIONS;A;LegalEntityExtenedStructure;Register;Arodbiedr√Æbu re√¨istrs;Register of Trade Unions (historical)
+registration_removal_reason;ADDRESS_UPDATE;K;LegalEntityExtenedStructure;Reason;Adreses aktualiz√¢cija;Address update
+registration_removal_reason;ANNULLED;A;LegalEntityExtenedStructure;Reason;Anul√ßts;Annulled
+registration_removal_reason;DATA_CHANGES;L;LegalEntityExtenedStructure;Reason;Datu izmai√≤as;Data changes
 registration_removal_reason;DECEASED;M;LegalEntityExtenedStructure;Reason;Miris;Deceased
-registration_removal_reason;ERROR_CORRECTION;O;LegalEntityExtenedStructure;Reason;KÔ˚das laboana;Error correction
-registration_removal_reason;INFORMATION_REMOVED;Z;LegalEntityExtenedStructure;Reason;ZiÚas izslÁgtas 10.04.2006;Information removed on 10.04.2006
-registration_removal_reason;REMOVED_BY_CSN_DECISION;V;LegalEntityExtenedStructure;Reason;IzslÁgts, pamatojoties uz GVN lÁmumu;Removed by Chief State Notar (CSN) decision
-registration_removal_reason;RESTORED;J;LegalEntityExtenedStructure;Reason;DarbÓba atjaunota;Restored
-registration_removal_reason;RESTORED_BY_CSN_DECISION;G;LegalEntityExtenedStructure;Reason;Atjaunots, pamatojoties uz GVN lÁmumu;Restored by Chief State Notar (CSN) decision
-registration_removal_reason;SUSPENDED;D;LegalEntityExtenedStructure;Reason;DarbÓba apturÁta;Suspended
-religious_affiliation;ADVENTIST;43;LegalEntityExtenedStructure;ReligiouseAffilation;SeptÓt‚s Dienas Adventistu;Seventh-day Adventist Church
-religious_affiliation;ANGLICAN;11;LegalEntityExtenedStructure;ReligiouseAffilation;Anglik‚Úu;Anglican Communion
-religious_affiliation;APOSTOLIC;12;LegalEntityExtenedStructure;ReligiouseAffilation;Apustulisk‚;Apostolic Church
-religious_affiliation;ARMENIAN;42;LegalEntityExtenedStructure;ReligiouseAffilation;Senaustrumu Apustulisk‚;Armenian Apostolic Church
-religious_affiliation;AUGSBURG;13;LegalEntityExtenedStructure;ReligiouseAffilation;Augsburgas (luter‚Úu);Augsburg Confession
+registration_removal_reason;ERROR_CORRECTION;O;LegalEntityExtenedStructure;Reason;K√Ø√ªdas labo√∞ana;Error correction
+registration_removal_reason;INFORMATION_REMOVED;Z;LegalEntityExtenedStructure;Reason;Zi√≤as izsl√ßgtas 10.04.2006;Information removed on 10.04.2006
+registration_removal_reason;REMOVED_BY_CSN_DECISION;V;LegalEntityExtenedStructure;Reason;Izsl√ßgts, pamatojoties uz GVN l√ßmumu;Removed by Chief State Notar (CSN) decision
+registration_removal_reason;RESTORED;J;LegalEntityExtenedStructure;Reason;Darb√Æba atjaunota;Restored
+registration_removal_reason;RESTORED_BY_CSN_DECISION;G;LegalEntityExtenedStructure;Reason;Atjaunots, pamatojoties uz GVN l√ßmumu;Restored by Chief State Notar (CSN) decision
+registration_removal_reason;SUSPENDED;D;LegalEntityExtenedStructure;Reason;Darb√Æba aptur√ßta;Suspended
+religious_affiliation;ADVENTIST;43;LegalEntityExtenedStructure;ReligiouseAffilation;Sept√Æt√¢s Dienas Adventistu;Seventh-day Adventist Church
+religious_affiliation;ANGLICAN;11;LegalEntityExtenedStructure;ReligiouseAffilation;Anglik√¢√≤u;Anglican Communion
+religious_affiliation;APOSTOLIC;12;LegalEntityExtenedStructure;ReligiouseAffilation;Apustulisk√¢;Apostolic Church
+religious_affiliation;ARMENIAN;42;LegalEntityExtenedStructure;ReligiouseAffilation;Senaustrumu Apustulisk√¢;Armenian Apostolic Church
+religious_affiliation;AUGSBURG;13;LegalEntityExtenedStructure;ReligiouseAffilation;Augsburgas (luter√¢√≤u);Augsburg Confession
 religious_affiliation;BAHAI;14;LegalEntityExtenedStructure;ReligiouseAffilation;Bahai;Baha'i
 religious_affiliation;BAPTIST;15;LegalEntityExtenedStructure;ReligiouseAffilation;Baptistu;Baptist
 religious_affiliation;BRANHAMISM;2189;LegalEntityExtenedStructure;ReligiouseAffilation;Branhamistu;Branhamism
 religious_affiliation;BUDDHIST;16;LegalEntityExtenedStructure;ReligiouseAffilation;Budistu;Buddhist
-religious_affiliation;CATHOLIC;29;LegalEntityExtenedStructure;ReligiouseAffilation;KatoÔu;Roman Catholic
-religious_affiliation;CHRISTIAN_SCIENCE;31;LegalEntityExtenedStructure;ReligiouseAffilation;KristÓg‚s Zin‚tnes;Christian Science
-religious_affiliation;DE_LUTHERAN;32;LegalEntityExtenedStructure;ReligiouseAffilation;V‚cu luter‚Úu;German Lutheran
-religious_affiliation;DENOMINATIONAL_BODY;30;LegalEntityExtenedStructure;ReligiouseAffilation;Konfesiju Iest‚de;Denominational body
+religious_affiliation;CATHOLIC;29;LegalEntityExtenedStructure;ReligiouseAffilation;Kato√Øu;Roman Catholic
+religious_affiliation;CHRISTIAN_SCIENCE;31;LegalEntityExtenedStructure;ReligiouseAffilation;Krist√Æg√¢s Zin√¢tnes;Christian Science
+religious_affiliation;DE_LUTHERAN;32;LegalEntityExtenedStructure;ReligiouseAffilation;V√¢cu luter√¢√≤u;German Lutheran
+religious_affiliation;DENOMINATIONAL_BODY;30;LegalEntityExtenedStructure;ReligiouseAffilation;Konfesiju Iest√¢de;Denominational body
 religious_affiliation;HINDU;23;LegalEntityExtenedStructure;ReligiouseAffilation;Hinduisti;Hindu
-religious_affiliation;INTERFAITH;45;LegalEntityExtenedStructure;ReligiouseAffilation;Starpkonfesion‚la;Inter-faith
-religious_affiliation;ISLAM;36;LegalEntityExtenedStructure;ReligiouseAffilation;MusulmaÚu;Islam / Muslims
+religious_affiliation;INTERFAITH;45;LegalEntityExtenedStructure;ReligiouseAffilation;Starpkonfesion√¢la;Inter-faith
+religious_affiliation;ISLAM;36;LegalEntityExtenedStructure;ReligiouseAffilation;Musulma√≤u;Islam / Muslims
 religious_affiliation;JEHOVAHS_WITNESSES;27;LegalEntityExtenedStructure;ReligiouseAffilation;Jehovas Liecinieku;Jehovah's Witnesses
-religious_affiliation;JEWISH;28;LegalEntityExtenedStructure;ReligiouseAffilation;J˚du (Mozus) TicÓgo;Jewish
+religious_affiliation;JEWISH;28;LegalEntityExtenedStructure;ReligiouseAffilation;J√ªdu (Mozus) Tic√Ægo;Jewish
 religious_affiliation;LV_DIEVTURI;18;LegalEntityExtenedStructure;ReligiouseAffilation;Dievturu;Latvian Dievturi
-religious_affiliation;LV_EVANGELICAL;22;LegalEntityExtenedStructure;ReligiouseAffilation;EvaÚÏÁlisko Kristieu;Latvian Evangelical Christians
-religious_affiliation;LV_EVANGELICAL_FAITH;20;LegalEntityExtenedStructure;ReligiouseAffilation;EvaÚÏÁlisk‚s TicÓbas Kristieu;Latvian Christians of Evangelical Faith
-religious_affiliation;LV_EVANGELICAL_GOD;19;LegalEntityExtenedStructure;ReligiouseAffilation;EvaÚÏÁlisk‚ Dieva;Latvian Congregation of Evangelical God 
-religious_affiliation;LV_EVANGELICAL_MESSIAH;21;LegalEntityExtenedStructure;ReligiouseAffilation;EvaÚÏÁlisko Mesijas Sekot‚ju;Latvian Evangelical Messiah-Followers
-religious_affiliation;LV_EVANGELICAL_NG;24;LegalEntityExtenedStructure;ReligiouseAffilation;EvaÚÏÁlisko kristieu (Jaun‚ Paaudze);Latvian Evangelical Christions (New Generation)
-religious_affiliation;LV_YOUTH_CHRISTIAN;26;LegalEntityExtenedStructure;ReligiouseAffilation;Jaunatnes KristÓg‚ SavienÓba;Latvian Youth Christian Association
-religious_affiliation;LV_LUTHERAN;33;LegalEntityExtenedStructure;ReligiouseAffilation;Luter‚Úu;Latvian Lutheran
+religious_affiliation;LV_EVANGELICAL;22;LegalEntityExtenedStructure;ReligiouseAffilation;Eva√≤√¨√ßlisko Kristie√∞u;Latvian Evangelical Christians
+religious_affiliation;LV_EVANGELICAL_FAITH;20;LegalEntityExtenedStructure;ReligiouseAffilation;Eva√≤√¨√ßlisk√¢s Tic√Æbas Kristie√∞u;Latvian Christians of Evangelical Faith
+religious_affiliation;LV_EVANGELICAL_GOD;19;LegalEntityExtenedStructure;ReligiouseAffilation;Eva√≤√¨√ßlisk√¢ Dieva;Latvian Congregation of Evangelical God 
+religious_affiliation;LV_EVANGELICAL_MESSIAH;21;LegalEntityExtenedStructure;ReligiouseAffilation;Eva√≤√¨√ßlisko Mesijas Sekot√¢ju;Latvian Evangelical Messiah-Followers
+religious_affiliation;LV_EVANGELICAL_NG;24;LegalEntityExtenedStructure;ReligiouseAffilation;Eva√≤√¨√ßlisko kristie√∞u (Jaun√¢ Paaudze);Latvian Evangelical Christions (New Generation)
+religious_affiliation;LV_YOUTH_CHRISTIAN;26;LegalEntityExtenedStructure;ReligiouseAffilation;Jaunatnes Krist√Æg√¢ Savien√Æba;Latvian Youth Christian Association
+religious_affiliation;LV_LUTHERAN;33;LegalEntityExtenedStructure;ReligiouseAffilation;Luter√¢√≤u;Latvian Lutheran
 religious_affiliation;METHODIST;34;LegalEntityExtenedStructure;ReligiouseAffilation;Metodistu;Methodist
-religious_affiliation;MORMON;35;LegalEntityExtenedStructure;ReligiouseAffilation;PÁdÁjo dienu svÁto (mormoÚu);The Church of Jesus Christ of Latter-day Saints
-religious_affiliation;NEW_APOSTOLIC;25;LegalEntityExtenedStructure;ReligiouseAffilation;Jaunapustulisko kristieu;New Apostolic Church
-religious_affiliation;OLD_BELIEVER;49;LegalEntityExtenedStructure;ReligiouseAffilation;VecticÓbnieku;Old Believer
-religious_affiliation;ORTHODOX;37;LegalEntityExtenedStructure;ReligiouseAffilation;PareizticÓgo;Easterm Orthodox
-religious_affiliation;PENTACOSTAL;48;LegalEntityExtenedStructure;ReligiouseAffilation;VasarsvÁtku;Pentacostal
-religious_affiliation;PRESBYTERIAN;39;LegalEntityExtenedStructure;ReligiouseAffilation;Presbiter‚Úu;Presbyterian†
+religious_affiliation;MORMON;35;LegalEntityExtenedStructure;ReligiouseAffilation;P√ßd√ßjo dienu sv√ßto (mormo√≤u);The Church of Jesus Christ of Latter-day Saints
+religious_affiliation;NEW_APOSTOLIC;25;LegalEntityExtenedStructure;ReligiouseAffilation;Jaunapustulisko kristie√∞u;New Apostolic Church
+religious_affiliation;OLD_BELIEVER;49;LegalEntityExtenedStructure;ReligiouseAffilation;Vectic√Æbnieku;Old Believer
+religious_affiliation;ORTHODOX;37;LegalEntityExtenedStructure;ReligiouseAffilation;Pareiztic√Ægo;Easterm Orthodox
+religious_affiliation;PENTACOSTAL;48;LegalEntityExtenedStructure;ReligiouseAffilation;Vasarsv√ßtku;Pentacostal
+religious_affiliation;PRESBYTERIAN;39;LegalEntityExtenedStructure;ReligiouseAffilation;Presbiter√¢√≤u;Presbyterian¬†
 religious_affiliation;PROTESTANT;40;LegalEntityExtenedStructure;ReligiouseAffilation;Protestantu;Protestant
-religious_affiliation;REFORMED;41;LegalEntityExtenedStructure;ReligiouseAffilation;Reform‚tu;Reformed Church
-religious_affiliation;SALVATION_ARMY;38;LegalEntityExtenedStructure;ReligiouseAffilation;PestÓanas Armija;The Salvation Army
+religious_affiliation;REFORMED;41;LegalEntityExtenedStructure;ReligiouseAffilation;Reform√¢tu;Reformed Church
+religious_affiliation;SALVATION_ARMY;38;LegalEntityExtenedStructure;ReligiouseAffilation;Pest√Æ√∞anas Armija;The Salvation Army
 religious_affiliation;SHINTO;44;LegalEntityExtenedStructure;ReligiouseAffilation;Sintoisti;Shinto
-religious_affiliation;SUKIYO_MAHIKARI;46;LegalEntityExtenedStructure;ReligiouseAffilation;S˚kjo Mahikari;Sukyo Mahikari
-religious_affiliation;UNITARIANISM;52;LegalEntityExtenedStructure;ReligiouseAffilation;KristÓgais unit‚risms;Christian Unitarianism
-religious_affiliation;VAISHNAVISM;47;LegalEntityExtenedStructure;ReligiouseAffilation;Vainavu;Vaishnavism
-religious_affiliation;VISSARION;51;LegalEntityExtenedStructure;ReligiouseAffilation;PÁdÁj‚s derÓbas;Church of the Last Testament
-reorganization;ACQUISITION;PIE;LegalEntityExtenedStructure;ReorganizationForm;Pievienoana;Acquisition
-reorganization;DIVISION;SAD;LegalEntityExtenedStructure;ReorganizationForm;SaÌelana;Division by splitting up
-reorganization;MERGER;APV;LegalEntityExtenedStructure;ReorganizationForm;Sapl˚ana;Merger with consolidation
+religious_affiliation;SUKIYO_MAHIKARI;46;LegalEntityExtenedStructure;ReligiouseAffilation;S√ªkjo Mahikari;Sukyo Mahikari
+religious_affiliation;UNITARIANISM;52;LegalEntityExtenedStructure;ReligiouseAffilation;Krist√Ægais unit√¢risms;Christian Unitarianism
+religious_affiliation;VAISHNAVISM;47;LegalEntityExtenedStructure;ReligiouseAffilation;Vai√∞navu;Vaishnavism
+religious_affiliation;VISSARION;51;LegalEntityExtenedStructure;ReligiouseAffilation;P√ßd√ßj√¢s der√Æbas;Church of the Last Testament
+reorganization;ACQUISITION;PIE;LegalEntityExtenedStructure;ReorganizationForm;Pievieno√∞ana;Acquisition
+reorganization;DIVISION;SAD;LegalEntityExtenedStructure;ReorganizationForm;Sa√∞√≠el√∞ana;Division by splitting up
+reorganization;MERGER;APV;LegalEntityExtenedStructure;ReorganizationForm;Sapl√ª√∞ana;Merger with consolidation
 reorganization;OTHER;CIT;LegalEntityExtenedStructure;ReorganizationForm;Cits;Other
-reorganization;REORGANISATION;REO;LegalEntityExtenedStructure;ReorganizationForm;Reorganiz‚cija;Reorganisation
-reorganization;SEPARATION;ATD;LegalEntityExtenedStructure;ReorganizationForm;NodalÓana;Divestiture separation
-reorganization;TRANSFORMATION;UDF;LegalEntityExtenedStructure;ReorganizationForm;P‚rveidoana;Transformation, change of †form or restructuring
-rights_of_representation;INDIVIDUALLY;1;LegalEntityExtenedStructure;RepresentationMode;TiesÓbas p‚rst‚vÁt atseviÌi;Right to represent individually
-rights_of_representation;NO_RIGHT;0;LegalEntityExtenedStructure;RepresentationMode;Nav tiesÓbu p‚rst‚vÁt;No right of representation
-rights_of_representation;SIGNATORY_POWER;9;LegalEntityExtenedStructure;RepresentationMode;Paraksta tiesÓbas;Signatory power
-rights_of_representation;WITH_ALL;3;LegalEntityExtenedStructure;RepresentationMode;Kop‚ ar visiem;Jointly with all persons entitled to represent
-rights_of_representation;WITH_AT_LEAST;2;LegalEntityExtenedStructure;RepresentationMode;Kop‚ ar vismaz;Jointly with at least {withAtLeast} persons entitled to represent
-rights_of_representation;WITH_CHAIR;4;LegalEntityExtenedStructure;RepresentationMode;Kop‚ ar valdes prieksÁdÁt‚ju;Jointly with  the Chairperson of the Board
-rights_of_representation;WITH_DEPUTY_CHAIR;6;LegalEntityExtenedStructure;RepresentationMode;KopÓgi ar valdes prieksÁdÁt‚ja vietnieku;Jointly with the Deputy Chairperson of the Board
-rights_of_representation;WITH_PROKURIST;5;LegalEntityExtenedStructure;RepresentationMode;KopÓgi ar prok˚ristu;"Jointly with  the ""prokurist"""
-rights_to_land;OWNERSHIP;I;LegalEntityExtenedStructure;ActForm;Akt‚ noteikt‚s tiesÓbas uz zemi: Ópauma;Right to the land under the deed: ownership
-rights_to_land;USE;L;LegalEntityExtenedStructure;ActForm;Akt‚ noteikt‚s tiesÓbas uz zemi: lietoanas;Right to the land under the deed: use
+reorganization;REORGANISATION;REO;LegalEntityExtenedStructure;ReorganizationForm;Reorganiz√¢cija;Reorganisation
+reorganization;SEPARATION;ATD;LegalEntityExtenedStructure;ReorganizationForm;Nodal√Æ√∞ana;Divestiture separation
+reorganization;TRANSFORMATION;UDF;LegalEntityExtenedStructure;ReorganizationForm;P√¢rveido√∞ana;Transformation, change of ¬†form or restructuring
+rights_of_representation;INDIVIDUALLY;1;LegalEntityExtenedStructure;RepresentationMode;Ties√Æbas p√¢rst√¢v√ßt atsevi√∞√≠i;Right to represent individually
+rights_of_representation;NO_RIGHT;0;LegalEntityExtenedStructure;RepresentationMode;Nav ties√Æbu p√¢rst√¢v√ßt;No right of representation
+rights_of_representation;SIGNATORY_POWER;9;LegalEntityExtenedStructure;RepresentationMode;Paraksta ties√Æbas;Signatory power
+rights_of_representation;WITH_ALL;3;LegalEntityExtenedStructure;RepresentationMode;Kop√¢ ar visiem;Jointly with all persons entitled to represent
+rights_of_representation;WITH_AT_LEAST;2;LegalEntityExtenedStructure;RepresentationMode;Kop√¢ ar vismaz;Jointly with at least {withAtLeast} persons entitled to represent
+rights_of_representation;WITH_CHAIR;4;LegalEntityExtenedStructure;RepresentationMode;Kop√¢ ar valdes priek√∞s√ßd√ßt√¢ju;Jointly with  the Chairperson of the Board
+rights_of_representation;WITH_DEPUTY_CHAIR;6;LegalEntityExtenedStructure;RepresentationMode;Kop√Ægi ar valdes priek√∞s√ßd√ßt√¢ja vietnieku;Jointly with the Deputy Chairperson of the Board
+rights_of_representation;WITH_PROKURIST;5;LegalEntityExtenedStructure;RepresentationMode;Kop√Ægi ar prok√ªristu;"Jointly with  the ""prokurist"""
+rights_to_land;OWNERSHIP;I;LegalEntityExtenedStructure;ActForm;Akt√¢ noteikt√¢s ties√Æbas uz zemi: √Æpa√∞uma;Right to the land under the deed: ownership
+rights_to_land;USE;L;LegalEntityExtenedStructure;ActForm;Akt√¢ noteikt√¢s ties√Æbas uz zemi: lieto√∞anas;Right to the land under the deed: use
 securing_measure;ATTACHMENT;A;LegalEntityExtenedStructure;SecurityMeansForm;Arests;Attachment
-securing_measure;LIEN;K;LegalEntityExtenedStructure;SecurityMeansForm;ApÌÓl‚jums;Lien
+securing_measure;LIEN;K;LegalEntityExtenedStructure;SecurityMeansForm;Ap√≠√Æl√¢jums;Lien
 securing_measure;PROHIBITION;L;LegalEntityExtenedStructure;SecurityMeansForm;Aizliegums;Prohibition
-status;ANNULLED;A;LegalEntityExtenedStructure;Status;AnulÁts;Annulled
-status;REGISTERED;;;;ReÏistrÁts;Registered
-status;REMOVED;L;LegalEntityExtenedStructure;Status;IzslÁgts no reÏistra;Removed from the register
-status_details;IN_LIQUIDATION;;;;AktÓvs likvid‚cijas process;Pending liquidation proceeding
-status_details;REORGANIZED;R;LegalEntityExtenedStructure;Status;IzslÁgts reorganiz‚cijas rezult‚t‚;Removed from the register as a result of reorganization
-subordination;CONTROL;;;;PakÔautÓb‚ ;Under control
-subordination;SUPERVISION;;;;P‚rraudzÓb‚;Under supervision
-various_notice;ADDRESS_TRANSFER_PROPOSAL;AMPR;LegalEntityExtenedStructure;EventType;Adreses maiÚas prieklikums;The address transfer proposal
-various_notice;AMENDMENTS_TO_DECISION_ON_REORGANISATION;RLGR;LegalEntityExtenedStructure;EventType;GrozÓjumi reorganiz‚cijas lÁmuma projekt‚;Amendments to the decision on reorganisation
-various_notice;AMENDMENTS_TO_PLAN_FOR_EXTINGUISHING_OBLIGATIONS;SDGR;LegalEntityExtenedStructure;EventType;SaistÓbu dzÁanas pl‚na grozÓjumi;Amendments to the plan for extinguishing the obligations
-various_notice;AMENDMENTS_TO_PLAN_FOR_PROPERTY_SALE_AND_SETTLING_OF_CLAIMS;MKGR;LegalEntityExtenedStructure;EventType;Mantas p‚rdoanas un kreditoru prasÓjumu apmierin‚anas pl‚na grozÓjumi;Amendments to the plan for property sale and settling of creditorsí claims
-various_notice;AMENDMENTS_TO_REORGANISATION_DRAFT_AGREEMENT;RCGR;LegalEntityExtenedStructure;EventType;GrozÓjumi reorganiz‚cijas lÓguma projekt‚;Amendments to the Reorganisation draft agreement 
-various_notice;CONFIRMATION_THAT_ARBITRATORS_UPDATED;ASSA;LegalEntityExtenedStructure;EventType;Apliecin‚jums par ÌÓrÁjtiesneu saraksta aktualit‚ti;Confirmation that the list of arbitrators is updated (historical)
-various_notice;CONFIRMATION_UNDER_ARTICLE_8_5A_OF_ARBITRATION_LAW;ASL5;LegalEntityExtenedStructure;EventType;Apliecin‚jums atbilstoi –ÌÓrÁjtiesu likuma 8.panta piektajai prim daÔai;Confirmation under Paragraph 5', Article 8 of the Arbitration Law
-various_notice;CONFIRMATION_UNDER_ARTICLE_8_6_OF_ARBITRATION_LAW;ASL6;LegalEntityExtenedStructure;EventType;Apliecin‚jums atbilstoi –ÌÓrÁjtiesu likuma 8.panta sestajai daÔai;Confirmation under Paragraph 6, Article 8 of the Arbitration Law 
-various_notice;CORRECTED_PLAN_FOR_PROPERTY_SALE;MPGR;LegalEntityExtenedStructure;EventType;PrecizÁts mantas p‚rdoanas pl‚ns;Corrected plan for property sale
-various_notice;DECISION_ON_CHANGE_OF_ADDRESS;LADR;LegalEntityExtenedStructure;EventType;LÁmums par adreses maiÚu;Decision on the change of address
-various_notice;DECISION_ON_CHANGE_OF_CANNONICAL_SUBORDINATION;LKAN;LegalEntityExtenedStructure;EventType;LÁmums par kanonisk‚s pakÔautÓbas maiÚu;Decision on the change of canonical subordination
-various_notice;DECISION_ON_CHANGE_OF_THE_NAME;LNOS;LegalEntityExtenedStructure;EventType;LÁmums par nosaukuma maiÚu;Decision on the change of the name
-various_notice;DECISION_ON_LIQUIDATION;LLIK;LegalEntityExtenedStructure;EventType;LÁmums par likvidÁanu;Decision on the liquidation
-various_notice;DECISION_ON_RECOGNITION;LATZ;LegalEntityExtenedStructure;EventType;LÁmums par atzÓanu;Decision on the recognition
-various_notice;DECISION_ON_REORGANISATION;LREO;LegalEntityExtenedStructure;EventType;LÁmums par reorganiz‚ciju;Decision on the reorganisation
-various_notice;DIVISION_OF_REGISTER_OF_SHAREHOLDERS;DRND;LegalEntityExtenedStructure;EventType;DalÓbnieku reÏistra nodalÓjums;Division of the Register of Shareholders
-various_notice;DRAFT_DECISION_ON_REORGANISATION;RLPR;LegalEntityExtenedStructure;EventType;Reorganiz‚cijas lÁmuma projekts;Draft decision on reorganisation
-various_notice;LIST_OF_ARBITRATORS;SKTS;LegalEntityExtenedStructure;EventType;–ÌÓrÁjtiesneu saraksts;List of arbitrators (historical)
-various_notice;NOTIFICATION_ON_COMPLIANCE_WITH_CONDITIONS_ON_SIGNIFICANCE_TO_NATIONAL_SECURITY;PNDS;LegalEntityExtenedStructure;EventType;PaziÚojums par komercsabiedrÓbas atbilstÓbu nacion‚lajai droÓbai nozÓmÓgas komercsabiedrÓbas nosacÓjumiem;Notification on compliance of the commercial company with conditions on commercial companies significant for national security
-various_notice;NOTIFICATION_ON_EXPIRY_OF_COMPLIANCE_WITH_CONDITIONS_ON_SIGNIFICANCE_TO_NATIONAL_SECURITY;PNDB;LegalEntityExtenedStructure;EventType;PaziÚojums par komercsabiedrÓbas atbilstÓbas nacion‚lajai droÓbai nozÓmÓgas komercsabiedrÓbas nosacÓjumiem izbeiganos;Notification on expiry of compliance of the commercial company with conditions on commercial companies significant for national security
-various_notice;NOTIFICATION_ON_REDUCTION_IN_EQUITY_CAPITAL;PPKS;LegalEntityExtenedStructure;EventType;PaziÚojums par pamatkapit‚la samazin‚anu;Notification on reduction in the equity capital
-various_notice;PLAN_FOR_EXTINGUISHING_OBLIGATIONS;SDPL;LegalEntityExtenedStructure;EventType;SaistÓbu dzÁanas pl‚ns;Plan for extinguishing the obligations
-various_notice;PLAN_FOR_PROPERTY_SALE;MPPL;LegalEntityExtenedStructure;EventType;Mantas p‚rdoanas pl‚ns;Plan for property sale
-various_notice;PLAN_FOR_PROPERTY_SALE_AND_SETTLING_OF_CLAIMS;MKPL;LegalEntityExtenedStructure;EventType;Mantas p‚rdoanas un kreditoru prasÓjumu apmierin‚anas pl‚ns;Plan for property sale and settling of creditors' claims
-various_notice;PROPOSAL_ON_TRANSFERRING_ADDRESS_OF_EEIG;EGAD;LegalEntityExtenedStructure;EventType;Prieklikums mainÓt Eiropas ekonomisko intereu grupas juridisko adresi;Proposal on transferring the legal address of the European Economic Interest Grouping
-various_notice;PROPOSAL_ON_TRANSFERRING_ADDRESS_OF_SCE;ECAD;LegalEntityExtenedStructure;EventType;Prieklikums mainÓt Eiropas kooperatÓv‚s sabiedrÓbas juridisko adresi;Proposal on transferring the legal address of the European cooperative society
-various_notice;PROPOSAL_ON_TRANSFERRING_ADDRESS_OF_SE;EMAD;LegalEntityExtenedStructure;EventType;Prieklikums mainÓt Eiropas komercsabiedrÓbas juridisko adresi;Proposal on transferring the legal address of the European Sompany
-various_notice;REGISTER_OF_SHAREHOLDERS;DREG;LegalEntityExtenedStructure;EventType;DalÓbnieku reÏistrs;Register of Shareholders (historical)
-various_notice;REORGANISATION_DRAFT_AGREEMENT;RCPR;LegalEntityExtenedStructure;EventType;Reorganiz‚cijas lÓguma projekts;Reorganisation draft agreement 
+status;ANNULLED;A;LegalEntityExtenedStructure;Status;Anul√ßts;Annulled
+status;REGISTERED;;;;Re√¨istr√ßts;Registered
+status;REMOVED;L;LegalEntityExtenedStructure;Status;Izsl√ßgts no re√¨istra;Removed from the register
+status_details;IN_LIQUIDATION;;;;Akt√Ævs likvid√¢cijas process;Pending liquidation proceeding
+status_details;REORGANIZED;R;LegalEntityExtenedStructure;Status;Izsl√ßgts reorganiz√¢cijas rezult√¢t√¢;Removed from the register as a result of reorganization
+subordination;CONTROL;;;;Pak√Øaut√Æb√¢ ;Under control
+subordination;SUPERVISION;;;;P√¢rraudz√Æb√¢;Under supervision
+various_notice;ADDRESS_TRANSFER_PROPOSAL;AMPR;LegalEntityExtenedStructure;EventType;Adreses mai√≤as priek√∞likums;The address transfer proposal
+various_notice;AMENDMENTS_TO_DECISION_ON_REORGANISATION;RLGR;LegalEntityExtenedStructure;EventType;Groz√Æjumi reorganiz√¢cijas l√ßmuma projekt√¢;Amendments to the decision on reorganisation
+various_notice;AMENDMENTS_TO_PLAN_FOR_EXTINGUISHING_OBLIGATIONS;SDGR;LegalEntityExtenedStructure;EventType;Saist√Æbu dz√ß√∞anas pl√¢na groz√Æjumi;Amendments to the plan for extinguishing the obligations
+various_notice;AMENDMENTS_TO_PLAN_FOR_PROPERTY_SALE_AND_SETTLING_OF_CLAIMS;MKGR;LegalEntityExtenedStructure;EventType;Mantas p√¢rdo√∞anas un kreditoru pras√Æjumu apmierin√¢√∞anas pl√¢na groz√Æjumi;Amendments to the plan for property sale and settling of creditors¬í claims
+various_notice;AMENDMENTS_TO_REORGANISATION_DRAFT_AGREEMENT;RCGR;LegalEntityExtenedStructure;EventType;Groz√Æjumi reorganiz√¢cijas l√Æguma projekt√¢;Amendments to the Reorganisation draft agreement 
+various_notice;CONFIRMATION_THAT_ARBITRATORS_UPDATED;ASSA;LegalEntityExtenedStructure;EventType;Apliecin√¢jums par √∞√≠√Ær√ßjtiesne√∞u saraksta aktualit√¢ti;Confirmation that the list of arbitrators is updated (historical)
+various_notice;CONFIRMATION_UNDER_ARTICLE_8_5A_OF_ARBITRATION_LAW;ASL5;LegalEntityExtenedStructure;EventType;Apliecin√¢jums atbilsto√∞i √ê√≠√Ær√ßjtiesu likuma 8.panta piektajai prim da√Øai;Confirmation under Paragraph 5', Article 8 of the Arbitration Law
+various_notice;CONFIRMATION_UNDER_ARTICLE_8_6_OF_ARBITRATION_LAW;ASL6;LegalEntityExtenedStructure;EventType;Apliecin√¢jums atbilsto√∞i √ê√≠√Ær√ßjtiesu likuma 8.panta sestajai da√Øai;Confirmation under Paragraph 6, Article 8 of the Arbitration Law 
+various_notice;CORRECTED_PLAN_FOR_PROPERTY_SALE;MPGR;LegalEntityExtenedStructure;EventType;Preciz√ßts mantas p√¢rdo√∞anas pl√¢ns;Corrected plan for property sale
+various_notice;DECISION_ON_CHANGE_OF_ADDRESS;LADR;LegalEntityExtenedStructure;EventType;L√ßmums par adreses mai√≤u;Decision on the change of address
+various_notice;DECISION_ON_CHANGE_OF_CANNONICAL_SUBORDINATION;LKAN;LegalEntityExtenedStructure;EventType;L√ßmums par kanonisk√¢s pak√Øaut√Æbas mai√≤u;Decision on the change of canonical subordination
+various_notice;DECISION_ON_CHANGE_OF_THE_NAME;LNOS;LegalEntityExtenedStructure;EventType;L√ßmums par nosaukuma mai√≤u;Decision on the change of the name
+various_notice;DECISION_ON_LIQUIDATION;LLIK;LegalEntityExtenedStructure;EventType;L√ßmums par likvid√ß√∞anu;Decision on the liquidation
+various_notice;DECISION_ON_RECOGNITION;LATZ;LegalEntityExtenedStructure;EventType;L√ßmums par atz√Æ√∞anu;Decision on the recognition
+various_notice;DECISION_ON_REORGANISATION;LREO;LegalEntityExtenedStructure;EventType;L√ßmums par reorganiz√¢ciju;Decision on the reorganisation
+various_notice;DIVISION_OF_REGISTER_OF_SHAREHOLDERS;DRND;LegalEntityExtenedStructure;EventType;Dal√Æbnieku re√¨istra nodal√Æjums;Division of the Register of Shareholders
+various_notice;DRAFT_DECISION_ON_REORGANISATION;RLPR;LegalEntityExtenedStructure;EventType;Reorganiz√¢cijas l√ßmuma projekts;Draft decision on reorganisation
+various_notice;LIST_OF_ARBITRATORS;SKTS;LegalEntityExtenedStructure;EventType;√ê√≠√Ær√ßjtiesne√∞u saraksts;List of arbitrators (historical)
+various_notice;NOTIFICATION_ON_COMPLIANCE_WITH_CONDITIONS_ON_SIGNIFICANCE_TO_NATIONAL_SECURITY;PNDS;LegalEntityExtenedStructure;EventType;Pazi√≤ojums par komercsabiedr√Æbas atbilst√Æbu nacion√¢lajai dro√∞√Æbai noz√Æm√Ægas komercsabiedr√Æbas nosac√Æjumiem;Notification on compliance of the commercial company with conditions on commercial companies significant for national security
+various_notice;NOTIFICATION_ON_EXPIRY_OF_COMPLIANCE_WITH_CONDITIONS_ON_SIGNIFICANCE_TO_NATIONAL_SECURITY;PNDB;LegalEntityExtenedStructure;EventType;Pazi√≤ojums par komercsabiedr√Æbas atbilst√Æbas nacion√¢lajai dro√∞√Æbai noz√Æm√Ægas komercsabiedr√Æbas nosac√Æjumiem izbeig√∞anos;Notification on expiry of compliance of the commercial company with conditions on commercial companies significant for national security
+various_notice;NOTIFICATION_ON_REDUCTION_IN_EQUITY_CAPITAL;PPKS;LegalEntityExtenedStructure;EventType;Pazi√≤ojums par pamatkapit√¢la samazin√¢√∞anu;Notification on reduction in the equity capital
+various_notice;PLAN_FOR_EXTINGUISHING_OBLIGATIONS;SDPL;LegalEntityExtenedStructure;EventType;Saist√Æbu dz√ß√∞anas pl√¢ns;Plan for extinguishing the obligations
+various_notice;PLAN_FOR_PROPERTY_SALE;MPPL;LegalEntityExtenedStructure;EventType;Mantas p√¢rdo√∞anas pl√¢ns;Plan for property sale
+various_notice;PLAN_FOR_PROPERTY_SALE_AND_SETTLING_OF_CLAIMS;MKPL;LegalEntityExtenedStructure;EventType;Mantas p√¢rdo√∞anas un kreditoru pras√Æjumu apmierin√¢√∞anas pl√¢ns;Plan for property sale and settling of creditors' claims
+various_notice;PROPOSAL_ON_TRANSFERRING_ADDRESS_OF_EEIG;EGAD;LegalEntityExtenedStructure;EventType;Priek√∞likums main√Æt Eiropas ekonomisko intere√∞u grupas juridisko adresi;Proposal on transferring the legal address of the European Economic Interest Grouping
+various_notice;PROPOSAL_ON_TRANSFERRING_ADDRESS_OF_SCE;ECAD;LegalEntityExtenedStructure;EventType;Priek√∞likums main√Æt Eiropas kooperat√Æv√¢s sabiedr√Æbas juridisko adresi;Proposal on transferring the legal address of the European cooperative society
+various_notice;PROPOSAL_ON_TRANSFERRING_ADDRESS_OF_SE;EMAD;LegalEntityExtenedStructure;EventType;Priek√∞likums main√Æt Eiropas komercsabiedr√Æbas juridisko adresi;Proposal on transferring the legal address of the European Sompany
+various_notice;REGISTER_OF_SHAREHOLDERS;DREG;LegalEntityExtenedStructure;EventType;Dal√Æbnieku re√¨istrs;Register of Shareholders (historical)
+various_notice;REORGANISATION_DRAFT_AGREEMENT;RCPR;LegalEntityExtenedStructure;EventType;Reorganiz√¢cijas l√Æguma projekts;Reorganisation draft agreement 
 various_notice;RULES_OF_PROCEDURE;REGL;LegalEntityExtenedStructure;EventType;Reglaments;Rules of procedure
-various_status;BENEFICIAL_OWNER_CANNOT_BE_IDENTIFIED;P;LegalEntityExtenedStructure;SpecialStatus;Juridisk‚s personas patieso labuma guvÁju noskaidrot nav iespÁjams;The beneficial owner of a legal person cannot be identified
-various_status;BENEFICIAL_OWNER_CONTROL_RESULTS_FROM_SHAREHOLDERS_STATUS;B;LegalEntityExtenedStructure;SpecialStatus;Patiesais labuma guvÁjs ir akcion‚rs t‚d‚ akciju sabiedrÓb‚, kuras akcijas ir iekÔautas regulÁtaj‚ tirg˚, un veids, k‚d‚ tiek Óstenota kontrole p‚r juridisko personu, izriet tikai no akcion‚ra statusa;The beneficial owner is a shareholder of a public company with shares admitted for trading on a regulated market, and control over the legal person only results from the shareholderís status
-various_status;SIGNIFICANT_TO_NATIONAL_SECURITY;N;LegalEntityExtenedStructure;SpecialStatus;Nacion‚lajai droÓbai nozÓmÓga komercsabiedrÓba;A commercial company of significance to national security
+various_status;BENEFICIAL_OWNER_CANNOT_BE_IDENTIFIED;P;LegalEntityExtenedStructure;SpecialStatus;Juridisk√¢s personas patieso labuma guv√ßju noskaidrot nav iesp√ßjams;The beneficial owner of a legal person cannot be identified
+various_status;BENEFICIAL_OWNER_CONTROL_RESULTS_FROM_SHAREHOLDERS_STATUS;B;LegalEntityExtenedStructure;SpecialStatus;Patiesais labuma guv√ßjs ir akcion√¢rs t√¢d√¢ akciju sabiedr√Æb√¢, kuras akcijas ir iek√Øautas regul√ßtaj√¢ tirg√ª, un veids, k√¢d√¢ tiek √Æstenota kontrole p√¢r juridisko personu, izriet tikai no akcion√¢ra statusa;The beneficial owner is a shareholder of a public company with shares admitted for trading on a regulated market, and control over the legal person only results from the shareholder¬ís status
+various_status;SIGNIFICANT_TO_NATIONAL_SECURITY;N;LegalEntityExtenedStructure;SpecialStatus;Nacion√¢lajai dro√∞√Æbai noz√Æm√Æga komercsabiedr√Æba;A commercial company of significance to national security
