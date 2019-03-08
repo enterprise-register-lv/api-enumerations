@@ -1,3 +1,0 @@
-"type","public_code","ur_code_legacy","XML_root_legacy","XML_element_legacy","description_LV","description_EN"
-"area_of_activity","ADVOCACY","IAO","LegalEntityExtenedStructure","BusinessAreaForm","Interešu aizstāvības organizāciju darbība","Advocacy work"
-"area_of_activity","ARCHITECTURE_RESTORATION","ARH","LegalEntityExtenedStructure","BusinessAreaForm","Arhitektūra un restaurācija","Architecture and restoration"
