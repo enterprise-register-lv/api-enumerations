@@ -1,0 +1,704 @@
+type	public_code	description_LV	description_EN
+area_of_activity	ADVOCACY	Interešu aizstāvības organizāciju darbība	Advocacy work
+area_of_activity	ARCHITECTURE_RESTORATION	Arhitektūra un restaurācija	Architecture and restoration
+area_of_activity	ASSOCIATION_OF_EMPLOYERS_ORGANISATIONS	Darba devēju organizāciju apvienība	Association of Employers' Organisations
+area_of_activity	BOOK_PUBLISHING	Grāmatu izdošana	Book publishing
+area_of_activity	CONSERVATION_OF_NATURAL_RESOURCES	Dabas resursu aizsardzība un ilgtspējīga izmantošana	Conservation and sustainable use of natural resources
+area_of_activity	CRIME_PREVENTION	Noziegumu profilakse	Crime prevention
+area_of_activity	CULTURE_EXCHANGE	Kultūras apmaiņa	Culture exchange
+area_of_activity	CUSTOMER_RIGHTS_PROTECTION	Patērētāju tiesību aizsardzība	Customer rights protection
+area_of_activity	DESIGN	Dizains	Design
+area_of_activity	DEVELOPMENT_COOPERATION	Attīstības sadarbība	Development cooperation
+area_of_activity	DIRECTORY_PUBLISHING	Izziņu katalogu izdošana	Publishing of directories and mailing lists 
+area_of_activity	ECONOMIC_DEVELOPMENT	Ekonomiskā attīstība	Economic development
+area_of_activity	EDUCATION	Izglītība	Education
+area_of_activity	EMPLOYERS_ORGANISATION	Darba devēju organizācija	Employers' Organisation
+area_of_activity	ENVIRONMENTAL_AWARENESS	Vides apziņa	Environmental awareness
+area_of_activity	ENVIRONMENTAL_CLEANING	Vides sakopšana	Environmental cleaning
+area_of_activity	ENVIRONMENTAL_PROTECTION	Vides aizsardzība. Piesārņojuma samazināšana un kontrole	Environmental protection. Pollution prevention and control
+area_of_activity	FILMMAKING	Filmu producēšana	Motion picture production activities 
+area_of_activity	FOLK_ART	Tautas māksla un nemateriālais mantojums	Folk art and intangible heritage
+area_of_activity	GENDER_EQUALITY	Dzimumu līdztiesība	Gender equality
+area_of_activity	HEALTH_EDUCATION	Sabiedrības veselība un veselības izglītība	Public health and health education
+area_of_activity	HOUSING_MANAGEMENT	Mājokļu apsaimniekošana	Housing management
+area_of_activity	HUMANITIES	Vēsture un humanitārās zinātnes	Humanities, incl. history
+area_of_activity	INTERNATIONAL_AID_TO_COUNTRIES_AFFECTED_BY_DISASTERS	Starptautiska palīdzības līdzekļu nodrošināšana katastrofās cietušām valstīm	Providing of international assistance to countries affected by disasters
+area_of_activity	INTERNATIONAL_DISASTER_RESPONSE_AND_RELIEF	Starptautiska katastrofu seku likvidēšana un palīdzība	International disaster response and relief
+area_of_activity	INTERNATIONAL_HUMAN_RIGHTS_AND_PEACEKEEPING	Starptautiskās cilvēktiesības un miera uzturēšana	International human rights and peacekeeping
+area_of_activity	YOUTH_ASSOCIATION_FOUNDATION	Jaunatnes biedrība vai nodibinājums	Youth association or foundation
+area_of_activity	LEGAL_ADVISORY	Juridiskā palīdzība	Legal advisory
+area_of_activity	LIBRARY_OPERATION	Bibliotēku darbība	Library operation
+area_of_activity	MAGAZINE_PUBLISHING	Žurnālu izdošana	Publishing of magazines
+area_of_activity	MUSEUMS	Muzeji	Museums
+area_of_activity	MUSIC_DANCE_THEATRE	Mūzika, deja, teātris	Music, dance, theatre
+area_of_activity	MUSIC_DANCE_THEATRE_SUPPORT	Mūzikas, dejas un teātra atbalsts	Music, dance, theatre support
+area_of_activity	NATURE_PROTECTION	Dabas aizsardzība	Nature protection
+area_of_activity	NEC_ACTIVITY	Citur neklasificēta biedrība vai nodibinājums	Not elsewhere classified activity of society or foundation
+area_of_activity	NEIGHBORHOOD_DEVELOPMENT	Kopienas un apkaimes attīstība	Community and neighborhood development
+area_of_activity	NEWSPAPER_PUBLISHING	Laikrakstu izdošana	Publishing of newspapers
+area_of_activity	ORGANIZATION_OF_SPORTS_EVENTS	Sporta pasākumu organizēšana	Organization of sports events
+area_of_activity	OTHER_CULTURAL_ACTIVITIES	Cita kultūras darbība	Other activities in culture field 
+area_of_activity	OTHER_HEALTH_ACTIVITIES	Cita ar veselību saistīta darbība	Other rehabilitation-related activities
+area_of_activity	OTHER_RECREATION_ACTIVITIES	Cita izklaides un atpūtas darbība	Other amusement and recreation activities
+area_of_activity	PHILANTHROPIC_INTERMEDIATION	Filantropijas starpniecība	Philanthropic intermediation
+area_of_activity	PROFESSIONAL_ASSOCIATION_FOUNDATION	Profesionālā biedrība vai nodibinājums	Professional association or foundation
+area_of_activity	PROMOTION_OF_EMPLOYMENT	Nodarbinātības veicināšana	Promotion of employment
+area_of_activity	PROMOTION_OF_VOLUNTARY_WORK	Brīvprātīgā darba veicināšana	Promotion of voluntary work
+area_of_activity	PROTECTION_OF_ANIMALS	Dzīvnieku aizsardzība un labklājība	Protection and welfare of animals
+area_of_activity	PROTECTION_OF_HUMAN_RIGHTS	Pilsonisko tiesību un cilvēktiesību aizsardzība	Protection of citizen and human rights
+area_of_activity	RADIO_STATION	Radiostacija	Radio station
+area_of_activity	REHABILITATION	Rehabilitācija	Rehabilitation
+area_of_activity	REHABILITATION_OF_OFFENDERS	Likumpārkāpēju rehabilitācija	Rehabilitation of offenders
+area_of_activity	RESEARCH_MEDICINE	Medicīniskā pētniecība	Research on medicine
+area_of_activity	RESEARCH_SOCIAL_SCIENCES	Sociālās zinātnes, socioloģiskā un politikas pētniecība	Research on social sciences and humanities, sociology, and politics
+area_of_activity	SCIENCE_TECHNOLOGY	Zinātne un tehnoloģijas	Science and technology
+area_of_activity	SOCIAL_PROTECTION	Sociālā aizsardzība	Social protection
+area_of_activity	SPORTS_CENTER	Sporta centrs	Sports center
+area_of_activity	SPORTS_CLUB	Sporta klubs	Sports club
+area_of_activity	SPORTS_EDUCATION	Sporta izglītība	Sports education
+area_of_activity	SPORTS_SUPPORT	Sporta atbalsts	Support to sports
+area_of_activity	SPORTS_UNION	Sporta apvienība un sporta federācija	Sports union and sports federation
+area_of_activity	SUPPORT_FAMILIES_CHILDREN	Atbalsts ģimenēm un bērniem	Support to families and children
+area_of_activity	SUPPORT_TO_VICTIMS_OF_CRIME	Atbalsts noziegumu upuriem	Support to victims of crime
+area_of_activity	TRADE_UNION	Arodbiedrība	Trade Union
+area_of_activity	TV_CHANNEL	TV kanāls	TV channel
+area_of_activity	VETERINARY_SERVICES	Veterinārie pakalpojumi	Veterinary services
+area_of_activity	VISUAL_ARTS	Vizuālā māksla	Visual arts
+area_of_activity	VOLUNTEER_FIRE_ORGANIZATION	Brīvprātīgo ugunsdzēsēju organizācija	Volunteer fire organization
+authority	CHANCERY_OF_PRESIDENT	Valsts prezidenta kanceleja	Chancery of the President of Latvia
+authority	COURT	Tiesa 	Court
+authority	DERIVED_PUBLIC_PERSON	Atvasināta publiska persona	Derived public person
+authority	INSTITUTION_OF_DIRECT_ADMINISTRATION	Tiešās pārvaldes iestāde	Institution of direct administration
+authority	INSTITUTION_OF_INDIRECT_ADMINISTRATION	Pastarpinātās pārvaldes iestāde	Institution of indirect administration
+authority	OTHER_AUTHORITY	Cita valsts iestāde	Other public authority
+authority	PARLIAMENT	Latvijas Republikas Saeima	Latvian Parliament
+authority	PROSECUTION_OFFICE	Prokuratūra	Prosecution Office
+capital	CONDITIONAL_EQUITY	Nosacītais pamatkapitāls	Conditional equity
+capital	EQUITY_KB	Pamatkapitāls (KB)	Equity of KB (Co-operative Society)
+capital	FOUNDING_AS	Dibināšanas kapitāls (AS)	Founding capital of AS (PLC)
+capital	HISTORICAL_EQUITY	Pamatkapitāls (vēsture)	Equity (history)
+capital	INVESTMENT	Ieguldījums	Investment
+capital	MINIMUM_RESERVES	Obligātā rezerve	Minimum reserves
+capital	PAID_UP_EQUITY	Apmaksātais pamatkapitāls	Paid-up equity
+capital	REGISTERED_AS	Reģistrētais kapitāls (AS)	Registered capital of AS (PLC)
+capital	REGISTERED_EQUITY	Reģistrētais pamatkapitāls	Registered equity
+certificate_form	ELEVEN_DIGIT_REGISTRATION_NUMBER	Reģistrācijas apliecība, uz kuras norādīts vienotais vienpadsmitzīmju reģistrācijas kods	Registration certificate showing the unified eleven-digit registration number
+change	ACTIVITY	Darbības veidu maiņa	Change of activity
+change	ADDRESS	Adreses maiņa	Change of legal address
+change	BENEFICIAL_OWNER	Izmaiņas patiesajos labuma guvējos	Change in beneficial owners
+change	BRANCH	Izmaiņas filiālēs	Change in branches
+change	EQUITY_CAPITAL	Pamatkapitāla maiņa	Change of equity capital
+change	LIQUIDATION	Izmaiņas saistībā ar likvidācijas procesu	Change concerning liquidation proceedings
+change	MEMBER	Izamiņas dalībniekos	Change in members
+change	NAME	Nosaukuma maiņa	Change of legal name
+change	NEW	Reģistrēts jauns subjekts	New entity was registered
+change	OFFICER	Izmaiņas amatpersonās	Change in officers
+change	OTHER_CHANGE	Citas izmaiņas	Unidentified type of change
+change	PROCURATION	Izmaiņas prokuristos	Change in procurations
+change	REMOVAL	Subjekts no reģistra izslēgts	Entity was removed
+change	REORGANIZATION	Izmaiņas saistībā ar reorganizācijas procesu	Change concerning reorganisation proceedings
+change	REREGISTRATION	Reģistra maiņa	Change of register
+change	SECURING_MEASURE	Nodrošinājuma līdzekļu maiņa	Change in securing measures
+change_reason	ADDRESS_UPDATED	"Aktualizēts, pamatojoties uz likuma ""Par Latvijas Republikas Uzņēmumu reģistru"" 4.4panta trešo daļu"	Updated on the basis of Paragraph three, Article 4.4 of the Law on the Enterprise Register of the Republic of Latvia
+change_reason	ANNULLED	Anulēts	Entry annulled
+change_reason	EQUITY_RECALCULATED	Pamatkapitāls pārrēķināts, pamatojoties uz Komerclikuma pārejas noteikumu 52.p	The equity capital recalculated in conformity with Paragraph 52 of the transitional provisions of the Commercial Law
+change_reason	LATVIAN_IN_UPDATED	Aktualizēts personas kods, pamatojoties uz Iedzīvotāju reģistra datiem	Latvian identity number updated according to data from the Latvian Population Register
+cooperative_form	AGRICULTURAL_SERVICES	lauksaimniecības pakalpojumu kooperatīvā sabiedrība	Agricultural Services Cooperative Society
+cooperative_form	APARTMENT_OWNERS	dzīvokļu īpašnieku kooperatīvā sabiedrība	Apartment Owners Cooperative Society
+cooperative_form	BOAT_GARAGE_OWNERS	laivu garāžu īpašnieku kooperatīvā sabiedrība	Boat Garage Owners Cooperative Society
+cooperative_form	CAR_GARAGE_OWNERS	automašīnu garāžu īpašnieku kooperatīvā sabiedrība	Car Garage Owners Cooperative Society
+cooperative_form	HORTICULTURE	dārzkopības kooperatīvā sabiedrība	Horticulture Cooperative Society
+cooperative_form	OTHER_TYPE	cits kooperatīvās sabiedrības veids	Other Type of Cooperative Society
+decisive_influence	GROUP_OF_COMPANIES_CONTRACT	Koncernu līgums	Group of Companies Contract
+decisive_influence	PARTICIPATION	Līdzdalība	Participation
+decisive_influence_details	CONTROL	Pārvaldes līgums	Control Agreement
+decisive_influence_details	CONTROL_AND_PROFIT_TRANSFER	Pārvaldes un peļņas nodošanas līgums	Control and Profit Transfer Agreement 
+decisive_influence_details	HAS_EXERCISED_RIGHTS	uzņēmums ir sabiedrības dalībnieks un, izmantojot vienīgi savas dalībnieka tiesības, pārskata gada laikā ir iecēlis sabiedrības izpildinstitūcijas vai pārraudzības institūcijas locekļu vairākumu	Undertaking is a shareholder of the company and has only exercised its shareholder’s rights to elect the majority of members of the company’s executive body or supervisory body during the accounting year
+decisive_influence_details	HAS_MAJORITY	uzņēmumam sabiedrībā ir balsstiesību vairākums	Undertaking has the majority of votes in the company
+decisive_influence_details	HAS_RIGHTS	uzņēmumam kā sabiedrības dalībniekam ir tiesības iecelt vai atcelt sabiedrības izpildinstitūcijas vai pārraudzības institūcijas locekļu vairākumu	Undertaking as a shareholder of the company has the right to elect or dismiss the majority of members of the company’s executive body or supervisory body
+decisive_influence_details	HAS_SOLE_CONTROL	uzņēmums ir sabiedrības dalībnieks un, pamatojoties uz vienošanos ar citiem dalībniekiem, viens pats kontrolē balsstiesību vairākumu sabiedrībā	Undertaking is a shareholder of the company and has sole control over the majority of voting rights in the company based on the agreement with other shareholders
+decisive_influence_details	PROFIT_TRANSFER	Peļņas nodošanas līgums	Profit Transfer Agreement
+document	""	Kreditoru sapulces protokols/lēmums	Minutes/decision of the creditors’ meeting
+document	ACCEPTANCE_CONVEYANCE_ACT	Pieņemšanas-nodošanas akti	Acceptance-conveyance act
+document	AGENDA_CREDITORS_MEETING	Kreditoru sapulces darba kārtība	Agenda of the creditors’ meeting
+document	AGREEMENT_BETWEEN_FOUNDER_AND_PUBLISHER	Līgums starp dibinātāju un izdevēju (MIL)	Agreement between a founder and a publisher (MIL)
+document	AMENDMENTS_TO_AOA	Statūtu grozījumi / projekti	Amendments to the Articles of Association / drafts
+document	AMENDMENTS_TO_PLAN_FOR_SALE_OF_PROPERTY_OF_NP	Fiziskās personas mantas pārdošanas un kreditoru prasījumu apmierināšanas plāna grozījumi	Amendments to the plan for the sale of the property of a natural person and for settling the claims of creditors 
+document	AMENDMENTS_TO_PLAN_OF_MEASURES_OF_EXTRAJUDICIAL_LEGAL_PROTECTION_PROCEEDING	Ārpustiesas tiesiskās aizsardzības procesa pasākumu plāna grozījumi	Amendments to the plan of measures of the out-of-court legal protection proceedings
+document	AMENDMENTS_TO_PLAN_OF_MEASURES_OF_LEGAL_PROTECTION_PROCEEDING	Tiesiskās aizsardzības procesa pasākumu plāna grozījumi	Amendments to the plan of measures of the legal protection proceedings
+document	AMENDMENTS_TO_REHABILITATION_PLAN	Sanācijas plāna grozījumi	Amendments to the Rehabilitation Plan
+document	AMENDMENTS_TO_RULES_OF_PROCEDURE	Reglamenta grozījumi	Amendments to the Rules of procedure
+document	AMENDMENTS_TO_SETTLEMENT_APPROVED	Apstiprināti izlīguma grozījumi	Amendments to the settlement approved
+document	ANNEX_TO_RULES	Reglamenta pielikums	Annex to the Rules of procedure
+document	ANNOUNCEMENT_CREDITORS_MEETING	Paziņojums par kreditoru sapulci	Announcement of the creditors’ meeting
+document	ANNOUNCEMENT_REGARDING_CREDITORS_MEETING_AGENDA	Paziņojums par kreditoru sapulci un sapulces darba kārtība	Announcement regarding the creditors’ meeting and the agenda of the meeting
+document	ANNOUNCEMENT_REGARDING_LEGAL_ADDRESS	Paziņojums par juridisko adresi	Announcement regarding the legal address
+document	ANNOUNCEMENT_REGARDING_REORGANISATION	Paziņojums par reorganizāciju	Announcement regarding the reorganisation
+document	ANNOUNCEMENT_TO_CREDITORS	Paziņojums kreditoriem	Announcement to creditors
+document	ANNUAL_REPORT	Gada pārskats (viss)	Annual report (full)
+document	AOA	Statūti	Articles of Association
+document	AOA_OF_FOREIGN_COMPANY	Ārvalstu komersantu statūti	Articles of association of foreign companies
+document	AOA_OF_FOREIGN_ORGANISATIONS	Ārvalstu organizāciju statūti un to tulkojumi	Articles of association of foreign organisations and translations thereof
+document	APPLICATION	Pieteikums	Application
+document	APPLICATION_FOR_SHARE_ACQUISITION	Dalībnieku vai trešo personu pieteikumi daļu iegūšanai	Application of shareholders or third persons for the acquisition of shares 
+document	APPLICATION_FOR_TERMINATION_OF_ACTIVITIES	Iesniegums par darbības izbeigšanu	Application for the termination of the activities
+document	APPLICATION_IN_INSOLVENCY_PROCEEDING	Iesniegums	Application in Insolvency proceedings
+document	APPLICATION_REGARDING_AUCTION	Pieteikums ieraksta izdarīšanai maksātnespējas reģistrā par izsoles norisi	Application for making an entry in the Insolvency Register regarding the auction process
+document	APPLICATION_REGARDING_CREDITORS_MEETING	Pieteikums ieraksta izdarīšanai maksātnespējas reģistrā par kreditoru sapulci	Application for making an entry in the Insolvency Register regarding the creditors’ meeting
+document	APPLICATION_REGARDING_CROSS_BORDER_INSOLVENCY	Pieteikums ieraksta izdarīšanai maksātnespējas reģistrā par pārrobežu maksātnespējas procesu	Application for making an entry in the Insolvency Register regarding the cross-border insolvency proceedings
+document	APPRAISAL_REPORT	Atzinumi par mantisko ieguldījumu	Appraisal reports
+document	ATTESTATION_SHARE_TRANSFER	Dokumenti, kas apliecina daļu pāreju	Documents attesting the transfer of shares 
+document	AUDITOR_REPORT	Revidenta ziņojums	Auditor’s report
+document	AUDITORS_OPINION	Revidenta atzinums	Auditor’s opinion
+document	BALANCE_SHEET	Bilance	Balance sheet
+document	BANK_STATEMENT_REGARDING_PAYMENT_OF_EQUITY	Bankas izziņas vai cits dokuments par daļas apmaksu	Bank statements or other document regarding the payment of the equity 
+document	BOARD_MEMBER_RESIGNATION	Valdes locekļa paziņojums par amata atstāšanu	Notice of a member of the Board regarding the resignation
+document	BOARD_STATEMENT_REGARDING_EQUITY	Valdes paziņojumi par pamatkapitāla apmaksas stāvokli	Statement of the Board regarding the payment of the equity
+document	CERTIFIED_COPY_DECLARATION_OF_INSOLVENCY	Nolēmuma par maksātnespējas procesa pasludināšanu un likvidatora iecelšanu apliecināts noraksts	Certified copy of the decision on the declaration of insolvency proceedings and the appointment of the liquidator
+document	CERTIFIED_TRANSLATION_DECLARATION_OF_INSOLVENCY	Nolēmuma par maksātnespējas procesa pasludināšanu un likvidatora iecelšanu apliecināts tulkojums valsts valodā	Certified translation of the decision on the declaration of insolvency proceedings and the appointment of the liquidator into the official language
+document	CESSION_AGREEMENT	Cesijas līgums	Cession agreement
+document	COMPOSITION_OF_GROUP_OF_COMPANIES	Koncernu veidojošo uzņēmumu saraksts	List of companies forming a group of companies
+document	CONFIRMATION_OF_ARBITRATION_COURT	Šķīrējtiesas apliecinājums	Confirmation of the arbitration court
+document	CONFIRMATION_OF_COMMERCIAL_PLEDGE	Komercķīlas apliecinājums	Confirmation of commercial pledge
+document	CONFIRMATION_OF_LEGAL_ADDRESS	Apliecinājums vai piekrišana par juridisko adresi	Confirmation or consent to legal address
+document	CONFIRMATION_THAT_ARBITRATORS_UPDATED	Apliecinājums par šķīrējtiesnešu saraksta aktualitāti	Confirmation that the list of arbitrators is updated
+document	CONSENT_OF_AUDITOR	Revidenta piekrišana	Consent of the auditor
+document	CONSENT_OF_BOARD_MEMBER	Valdes locekļa / rīkotājdirektora piekrišana	Consent of a member of the Board / executive director
+document	CONSENT_OF_LIQUIDATOR	Likvidatora piekrišana	Consent of the liquidator
+document	CONSENT_OF_SUPERVISORY_BOARD	Padomes locekļu piekrišana	Consent of members of the supervisory board
+document	CONSOLIDATED_STATEMENT	Konsolidētais gada pārskats	Consolidated financial statement
+document	CONTRACT_BASIS_FOR_CLAIM_TO_BE_SECURED	Līgums, no kura izriet nodrošināmais prasījums	Contract which is the basis for the claim to be secured
+document	CONTRACT_COMMERCIAL_PLEDGE	Līgums, komercķīlas	Contract, commercial pledge
+document	COPY_OF_PASSPORT	Pases kopijas	Copies of the passport
+document	COURT_COVER_LETTER	Tiesas pavadvēstule	Court cover letter
+document	COURT_DECISION	Tiesas lēmums/spriedums	Court decision/judgement
+document	COURT_DECISION_ON_TERMINATION_OF_ACTIVITIES	Tiesas lēmums par sabiedrības darbības izbeigšanu	Court decision on the termination of the company’s activities
+document	COVER_LETTER	Pavadvēstule	Cover letter
+document	DECISION_OF_BOARD_OF_RELIGIOUS_AFFAIRS	TM/RLP amatpersonu lēmumi	Decisions of the Board of Religious Affairs
+document	DECISION_OF_COURT_AND_LAW_ENFORCEMENT_AUTHORITY	Tiesu un citu tiesībsargājošo institūciju nolēmumi / spriedumi	Decisions / judgements of courts and other law enforcement authorities
+document	DECISION_OF_PROSECUTING_AUTHORITY	Procesa virzītāju lēmumi - Policijas vēstules.prokuratūras vēstules	Decisions of the prosecuting authority - Police letters, letters from the prosecutor’s office
+document	DECISION_ON_GRANTING_LAND_PLOT_FOR_USE	Pašvaldības padomes vai zemes komisijas lēmumi par zemes gabala piešķiršanu lietošanā	Decisions of the local government council or the land commission on granting a land plot for use
+document	DECISION_ON_SETTLEMENT_POSSIBILITY	Lēmums par izlīguma iespēju	Decision on the settlement possibility
+document	DEPENDENCY_STATEMENT	Atkarības pārskats	Economic dependecy statement
+document	DOCUMENTS_CONFIRMING_REGISTRATION_OF_FOREIGN_COMPANY	Ārvalstu komersanta reģistrāciju apliecinoši dokumenti (izziņa no reģistra) un to tulkojumi	Documents confirming the registration of a foreign company (statement from the register) and translations thereof 
+document	DOCUMENTS_CONFIRMING_REGISTRATION_OF_FOREIGN_ORGANISATION	Ārvalstu organizācijas reģistrāciju apliecinoši dokumenti (izziņa no reģistra) un to tulkojumi	Documents confirming the registration of a foreign organisation (statement from the register) and translations thereof
+document	DOCUMENTS_IN_INSOLVENCY_PROCEEDINGS	Dokumenti, kas saistīti ar maksātnespējas procesu	Documents related to the insolvency proceedings
+document	DOCUMENT_SUPPORTING_CHANGES_OF_AUTHORISED_PERSONS_IN_AKF	Dokumenti, kas apliecina izmaiņas pilnvaroto personu sastāvā vai to pilnvarojuma apjomā AKF	Documents supporting the changes in the list of authorised person or the scope of their authorisation in AKF
+document	EMPLOYMENT_CONTRACT	Darba līgums	Employment contract 
+document	ER_DECISION_ON_LIQUIDATION_PROCEEDINGS	UR pilnvarotā pārstāvja lēmums par uzņēmuma likvidācijas procesa pabeigšanu	Decision of the Enterprise Register authorised representative on the completion of the company’s liquidation proceedings
+document	ER_ORDER	UR amatpersonas rīkojums	Order of the Enterprise Register official
+document	ER_WARNING_REGARDING_ELIMINATION_OF_FAULTS	UR amatpersonas brīdinājums uzņēmumam par trūkumu novēršanu	Warning of the Enterprise Register official to the company regarding the elimination of faults 
+document	FINANCIAL_REPORT_OF_LIQUIDATION_PROCEEDINGS	Likvidācijas/ bankrota procedūras finanšu pārskats	Financial report of the liquidation/bankruptcy proceedings
+document	GIFT_AGREEMENT	Dāvinājuma līgums	Gift agreement
+document	IP_COVER_LETTER	Administratora pavadvēstule	Insolvency Practitioner’s cover letter
+document	IP_NOTIFICATION_REGARDING_AUCTION	Administratora paziņojums par izsoli	Insolvency Practitioner’s notification regarding the auction
+document	LAND_REGISTER_DEED	Zemesgrāmatu , VZD aktu noraksti un izziņas	Copies and statements of the Land Register and the State Land Service deeds
+document	LETTER	Vēstule	Letter
+document	LIQUIDATION_DEED	Likvidācijas akti	Liquidation deeds
+document	LIST_OF_ARBITRATORS	Šķīrējtiesnešu saraksts	List of arbitrators
+document	LIST_OF_BOARD_MEMBERS	Valdes / padomes locekļu saraksts	List of members of the Board / Supervisory Board
+document	LIST_OF_FOUNDERS	Dibinātāju saraksts	List of founders
+document	MARRIAGE_CONTRACT	Laulības līgums	Marriage contract
+document	MEMORANDUM	Dibināšanas līgums	Memorandum of association
+document	MEMORANDUM_OF_ASSOCIATION	Dibināšanas lēmums	Memorandum of Association
+document	MEMORANDUM_OF_FOREIGN_COMPANY	Ārvalstu komersantu dibināšanas līgumi vai citi līdzīgi dokumenti	Memorandum of association or other equivalent documents of foreign companies
+document	MEMORANDUM_OF_FOREIGN_ORGANISATION	Ārvalstu organizāciju dibināšanas līgumi vai citi līdzīgi dokumenti un to tulkojumi	Memorandum of association or equivalent documents of foreign organisations and translations thereof
+document	MINUTES_CREDITORS_MEETING	Kreditoru sapulču protokols/lēmums	Minutes/decision of the creditors’ meetings
+document	MINUTES_CREDITORS_MEETING_WITH_ANNEXES	Reģistrācijas lietai nepievienojamie kreditoru sapulču protokoli ar pielikumiem	Minutes of the creditors’ meetings with annexes not to be added to the registration files
+document	NOTARIAL_DECISION	Valsts notāru lēmumi / vēstules / protokoli	Decisions / letters / protocols of public notaries
+document	NOTARY_DECISION	Notāra lēmums	Notary’s decision
+document	OFFICER_RESIGNATION_NOTICE	Amatpersonu paziņojumi par amata atstāšanu	Notice of officers regarding the resignation 
+document	OPINION	Atzinums	Opinion
+document	ORDER_OF_BAILIFF	Tiesu izpildītāju rīkojumi/pieprasījums/pavadraksti	Orders/request/cover notes of court bailiffs
+document	OTHER	Citi dokumenti	Other documents
+document	OTHER_INSOLVENCY_DOCUMENT	Citi maksātnespējas dokumenti	Other insolvency documents
+document	OUTTURN_ACCOUNT	Saimnieciskās darbības pārskats	Economic outturn account
+document	OWNER_DECISION	Īpašnieka lēmumi	Owner’s decisions
+document	PLAN_FOR_DIVISION_OF_REMAINING_ASSETS	Sabiedrības atlikušās mantas sadales plāni	Plan for the division of the remaining assets of the company 
+document	PLAN_FOR_EXTINGUISHING_LIABILITIES	Saistību dzēšanas plāns	Plan for extinguishing the liabilities
+document	PLAN_FOR_EXTINGUISHING_LIABILITIES_AMENDMENTS	Saistību dzēšanas plāna grozījumi	Amendments to the plan for extinguishing the liabilities
+document	PLAN_FOR_SALE_OF_DEBTOR_PROPERTY	Parādnieka mantas pārdošanas plāns	Plan for the sale of the debtor’s property
+document	PLAN_FOR_SALE_OF_DEBTOR_PROPERTY_UPDATED	Precizēts parādnieka mantas pārdošanas plāns	Plan for the sale of the debtor’s property updated
+document	PLAN_FOR_SALE_OF_PROPERTY_OF_NP	Fiziskās personas mantas pārdošanas un kreditoru prasījumu apmierināšanas plāns	Plan for the sale of the property of a natural person and for settling the claims of creditors 
+document	PLAN_OF_MEASURES_OF_EXTRAJUDICIAL_LEGAL_PROTECTION_PROCEEDINGS	Ārpustiesas tiesiskās aizsardzības procesa pasākumu plāns	Plan of measures of the out-of-court legal protection proceedings
+document	PLAN_OF_MEASURES_OF_LEGAL_PROTECTION_PROCEEDING	Tiesiskās aizsardzības procesa pasākumu plāns	Plan of measures of the legal protection proceedings
+document	POLITICAL_PARTY_PROGRAMME	Partijas programma	Political Party’s Programme
+document	POWER_OF_ATTORNEY	Pilnvara, pilnvarojuma akts	Power of attorney, act of empowerment
+document	PROPOSAL_TO_TRANSFER_LEGAL_ADDRESS_OF_EEIG	Priekšlikums mainīt Eiropas ekonomisko interešu grupas juridisko adresi	Proposal to transfer the legal address of a European Economic Interest Grouping
+document	PROPOSAL_TO_TRANSFER_LEGAL_ADDRESS_OF_SCE	Priekšlikums mainīt Eiropas kooperatīvās sabiedrības juridisko adresi	Proposal to transfer the legal address of a European Cooperative Society
+document	PROPOSAL_TO_TRANSFER_LEGAL_ADDRESS_OF_SE	Priekšlikums mainīt Eiropas komercsabiedrības juridisko adresi	Proposal to transfer the legal address of a European company
+document	PROTOCOL_OF_COMPANY_OR_ORGANISATION	Sabiedrības/Organizācijas protokoli/lēmumi	Protocols/decisions of a company/organisation
+document	PURCHASE_CONTRACT	Pirkuma līgumi	Purchase contracts
+document	PURCHASE_LEASE_AGREEMENT	Pirkuma/nomas līgums	Purchase/lease agreement
+document	RECEIPT_ON_ENTRY_OF_COMMERCIAL_PLEDGE_IN_OTHER_REGISTER	Kvītis par komercķīlas atzīmi citā reģistrā	Receipt on the entry of commercial pledge in other register
+document	RECEIPT_ON_STATE_FEES	Kvītis par publikāciju un valsts nodevām	Receipts on the publication and state fees
+document	REGISTRATION_CERTIFICATE	Reģistrācijas apliecības	Registration certificates
+document	REGISTRATION_CERTIFICATE_OF_FOREIGN_COMPANY	Ārvalstu komersantu reģistrācijas apliecības	Registration certificates of foreign companies
+document	REGISTRATION_CERTIFICATE_OF_FOREIGN_ORGANISATION	Ārvalstu organizācijas reģistrācijas apliecība un tās tulkojums	Registration certificate of a foreign organisation and translation thereof
+document	REGULATIONS_ON_EQUITY	Pamatkapitāla palielināšanas/samazināšanas noteikumi	Regulations for the increase/reduction of the equity
+document	REHABILITATION_PLAN	Sanācijas plāns	Rehabilitation plan
+document	REORGANISATION_AGREEMENT	Reorganizācijas līgumi/ligumu projekti, to projektu grozījumi	Reorganisation agreement/draft agreements, amendments to the drafts
+document	REQUEST_TO_REMOVE_DUE_TO_TERMINATION_OF_ACTIVITIES	Iesniegums ar lūgumu par izslēgšanu no UR sakarā ar darbības izbeigšanu	Application containing a request to remove from register due to the termination of the activities
+document	RULES_OF_PROCEDURE	Reglaments	Rules of procedure
+document	SAMPLE_REPORT	Paraksta paraugs	Sample report
+document	SET_OF_DOCUMENTS	Dokumentu kopums	Set of documents
+document	SET_OF_DOCUMENTS_OF_FOREIGN_COMPANY	Ārvalsts komersanta dokumentu kopums	Set of documents of a foreign company 
+document	SETTLEMENT_APPROVED	Apstiprināts izlīgums	Settlement approved
+document	SHAREHOLDERS_REGISTER	Dalībnieku reģistrs	Shareholders’ register 
+document	SPECIFIC_POWER_OF_ATTORNEY_FOR_LIQUIDATION	UR izdota speciālpilnvara pilnvarniekam veikt likvidatora funkcijas uzņemumā	Specific power of attorney issued by the Enterprise Register to the attorney to fulfil the duties of the liquidator in a company
+document	SPECIMEN_SIGNATURE	Paraksta paraugs bez personas koda	Specimen signature without Identity number
+document	SRS_STATEMENT	VID lēmumi/vēstules/izziņas	State Revenue Service decisions/letters/statements
+document	STATEMENT	Izziņa	Statement
+document	STATEMENT_FROM_HOLDER_OF_MOVABLE_PROPERTY_REGISTER	Izziņa no kustamo lietu reģistra turētāja	Statement from the holder of the movable property register
+document	STATEMENT_OF_STATE_ARCHIVES	Valsts arhīva izziņa vai tam pielīdzināts dokuments	Statement of the State Archives or an equivalent document
+document	STATEMENT_REGARDING_BENEFICIAL_OWNERS	Paziņojums par patiesajiem labuma guvējiem	Statement regarding the beneficial owners
+document	STATEMENT_REGARDING_ORGANISATION_OF_FOREIGN_COMPANY	Izziņa par ārvalsts komersanta organizāciju	Statement regarding the organisation of a foreign company
+document	STATEMENT_REGARDING_RELIGIOUS_ORGANISATION	Izziņas par RO/RO iestādi	Statement regarding religious organisation or institution
+document	SUBMISSION	Iesniegums	Submission/Application
+document	SUPERVISORY_BOARD_MEMBER_RESIGNATION	Padomes locekļa paziņojums par amata atstāšanu	Notice of a member of the supervisory board regarding the resignation
+document	TRANSLATION_OF_AOA_OF_FOREIGN_COMPANY	Ārvalstu komersantu statūtu tulkojumi	Translations of the articles of association of foreign companies 
+document	TRANSLATION_OF_MEMORANDUM_OF_FOREIGN_COMPANY	Ārvalstu komersantu dibināšanas līgumu vai citu līdzīgu dokumentu tulkojumi	Translations of the memorandum of association or other equivalent documents of a foreign company 
+document	TRANSLATION_OF_REGISTRATION_CERTIFICATE_OF_FOREIGN_COMPANY	Ārvalstu komersantu reģistrācijas apliecību tulkojumi	Translations of registration certificates of foreign companies
+document	VAT_APPLICATION	PVN iesniegums	VAT application
+document	WARNING_FROM_AUTHORITY	Iestādes amatpersonas brīdinājumi	Warning from an official of authority
+governing_body	ADMINISTRATION	Administrācija	Administration
+governing_body	AUDIT_COMMITTEE	Revīzijas komisija	Audit Committee
+governing_body	AUDITOR	Revidents	Auditor
+governing_body	BOARD_DIRECTORS	Direktoru valde	Board of Directors
+governing_body	CENTRAL_COMMITTEE	Centrālkomiteja	Central Committee
+governing_body	CITY_COUNCIL	Dome	City Council
+governing_body	COLLEGIUM	Kolēģija	Collegium
+governing_body	COMMITTEE	Komiteja	Committee
+governing_body	CONFERENCE	Konference	Conference
+governing_body	CONGRESS	Kongress	Congress
+governing_body	CONVENTION	Konvents	Convention
+governing_body	COORDINATION_COUNCIL	Koordinācijas padome	Coordination Council
+governing_body	COUNCIL_DIRECTORS	Direktoru padome	Council of Directors
+governing_body	DIRECTORATE	Direkcija	Directorate
+governing_body	EXECUTIVE_BOARD	Valde	Executive Board
+governing_body	EXECUTIVE_BODY	Izpildinstitūcija	Executive Body
+governing_body	EXECUTIVE_COMMITTEE	Izpildkomiteja	Executive Committee
+governing_body	GENERAL_MEETING	Kopsapulce	General Meeting
+governing_body	LIQUIDATION_COMMITTEE	Likvidācijas komisija	Liquidation Committee
+governing_body	MANAGEMENT_BODY	Vadības institūcija	Management Body
+governing_body	PRESIDIUM	Prezidijs	Presidium
+governing_body	SECRETARIAT	Sekretariāts	Secretariat
+governing_body	SENATE	Senāts	Senate
+governing_body	STAFF_COMMITTEE	Arodkomiteja	Staff Committee
+governing_body	SUPERVISORY_BOARD	Padome	Supervisory Board
+identity_document	DRIVING_LICENCE	Vadītāja apliecība	Driving Licence
+identity_document	FOREIGN_PASSPORT	Ārzemju pase	Foreign Passport
+identity_document	IDENTITY_CARD	Identifikācijas karte	Identification Card
+identity_document	OTHER_DOCUMENT	Cits dokuments	Other document
+identity_document	PASSPORT	Pase	Passport
+insolvency_1996_decision	COURT_DECISION	Tiesas lēmums	Court decision
+insolvency_1996_decision	COURT_JUDGEMENT	Tiesas spriedums	Court judgement
+insolvency_1996_decision	DECISION_OF_CREDITORS_MEETING	Kreditoru sapulces lēmums	Decision of the creditors' meeting
+insolvency_1996_decision	DECISION_OF_POLICE_OFFICER	Policijas amatpersonas lēmums	Decision of a police officer
+insolvency_1996_decision	PROSECUTORS_DECISION	Prokuratūras lēmums	Prosecutor's decision
+insolvency_1996_decision	SRS_DECISION	VID lēmums	State Revenue Service decision
+insolvency_1996_decision	TIK_ORDER	TIK rīkojums	TIK order
+insolvency_1996_decision	TIK_REQUEST	TIK pieprasījums	TIK request
+insolvency_1996_element	DEBT_OBLIGATIONS_OF_DEBTOR_EXCEED_ITS_ASSETS	Parādnieka parādu saistības pārsniedz tā aktīvus.	Debt obligations of the debtor exceed its assets.
+insolvency_1996_element	DEBTOR_STOPPED_TO_SETTLE_DUE_DEBT	Parādnieks ir pārtraucis kārtot parādu saistības, kurām iestājies izpildes termiņš.	The debtor has stopped to settle the debt obligations which have fallen due.
+insolvency_1996_element	DEBTOR_UNABLE_TO_MEET_DEBT_OBLIGATIONS	Parādnieks nespēj vai sakarā ar pierādāmiem apstākļiem nespēs pienācīgi nokārtot savas parādu saistības.	The debtor is unable to meet the debt obligations
+insolvency_1996_element	DESTRUCTION_OF_UNINSURED_PROPERTY	Sakarā ar neapdrošinātas mantas bojāeju.	In the event of destruction of uninsured property.
+insolvency_1996_element	LOSSES_OF_ILLEGAL_ACTS_BY_THIRD_PERSONS	Sakarā ar zaudējumiem, kas nodarīti trešo personu nelikumīgu darbību rezultātā.	In the event of losses incurred as a result of illegal acts by third persons.
+insolvency_1996_element	NO_PAYMENT_RECIEVED_FOR_GOODS_AND_SERVICES	Konstatēts fakts, ka ilgstoši nav saņemta samaksa par precēm un pakalpojumiem.	It is established that no payment has been received for goods and services for a long period of time.
+insolvency_1996_element	THIRD_PERSONS_WITH_DEBT_AND_INSOLVENCY	Konstatēta trešo personu maksātnespēja, kurām ir parādu saistības pret parādnieku.	Determined insolvency of third persons having debt obligations towards the debtor.
+insolvency_1996_event	AMENDMENTS_TO_REHABILITATION_PLAN	Grozījumi sanācijas plānā	Amendments to the rehabilitation plan
+insolvency_1996_event	BANKRUPTCY_COMPLETED_AND_INSOLVENCY_TERMINATED	Bankrota procedūras pabeigšana un maksātnespējas procesa izbeigšana	Bankruptcy proceedings completed and insolvency proceedings terminated
+insolvency_1996_event	BANKRUPTCY_INITIATED	Uzsākta bankrota procedūra	Bankruptcy proceedings initiated
+insolvency_1996_event	INSOLVENCY_ANNOUNCED	Maksātnespējas pasludināšana	Insolvency announced
+insolvency_1996_event	INSOLVENCY_INITIATED	Ierosināta maksātnespējas lieta	Insolvency case initiated
+insolvency_1996_event	INSOLVENCY_TERMINATED	Maksātnespējas procesa izbeigšana	Insolvency proceedings terminated
+insolvency_1996_event	IP_APPOINTED	Administratora iecelšana	Insolvency practitioner appointed
+insolvency_1996_event	IP_DISMISSED	Administratora atcelšana	Insolvency practitioner dismissed
+insolvency_1996_event	OTHER_PROCEEDINGS	Citas tiesas maksātnespējas procesa laikā	Other court proceedings during the insolvency proceedings
+insolvency_1996_event	REHABILITATION_PERIOD_EXTENDED	Sanācijas termiņa pagarināšana	Rehabilitation period extended
+insolvency_1996_event	REHABILITATION_PLAN_APPROVED	Apstiprināts sanācijas plāns	Rehabilitation plan approved
+insolvency_1996_event	REHABILITATION_TERMINATED	Izbeigta sanācija	Rehabilitation terminated
+insolvency_1996_event	SETTLEMENT_APPROVED	Apstiprināts mierizlīgums	Settlement approved
+insolvency_1996_event	SETTLEMENT_CANCELLED	Atcelts mierizlīgums	Settlement cancelled
+insolvency_1996_practitioner	LEGAL_PERSON	Juridiskā persona	Legal person
+insolvency_1996_practitioner	NATURAL_PERSON	Fiziskā persona	Natural person
+insolvency_1996_practitioner	REPRESENTATIVE	Administratora pārstāvis	Representative of the Administrator
+insolvency_1996_result	APPLICATION_FOR_INSOLVENCY_REJECTED	Noraidīts maksātnespējas pieteikums	Application for insolvency rejected
+insolvency_1996_result	BANKRUPTCY_COMPLETED_AND_INSOLVENCY_TERMINATED	Bankrota procedūras pabeigšana un maksātnespējas procesa izbeigšana	Bankruptcy proceedings completed and insolvency proceedings terminated
+insolvency_1996_result	BANKRUPTCY_INITIATED_AND_COMPLETED	Uzsākta un pabeigta bankrota procedūra	Bankruptcy proceedings initiated and completed
+insolvency_1996_result	DEBTOR_SETTLED_ALL_OBLIGATIONS	Parādnieks nokārtojis visas savas saistības	Debtor has settled all of its obligations
+insolvency_1996_result	DEBTOR_SETTLED_ALL_OBLIGATIONS_WHICH_FALLEN_DUE_AND_ASSETS_EXCEED_REMAINING_DEBT	Parādnieks nokārtojis visas savas saistības, kurām iestājies izpildes termiņš un tā aktīvi pārsniedz atlikušo parādu summu	Debtor has settled all of the obligations which have fallen due and its assets exceed the remaining debt amount
+insolvency_1996_result	INSOLVENCY_MATTER_CLOSED_IN_THE_COURT	Izbeigta tiesā maksātnespējas lieta	Insolvency matter closed in the court
+insolvency_1996_result	NO_CREDITOR_HAVE_APPLIED	Līdz izsludinātā termiņa beigām nav pieteicies neviens kreditors	No creditor have applied within the notified period
+insolvency_1996_result	REHABILITATION_PROCEDURE_COMPLETED	Pabeigts sanācijas process	Rehabilitation procedure completed
+insolvency_certificate	A	Sertifikāts	Certificate (until 2018)
+insolvency_certificate	B	Amata apliecība	Certificate (from 2018)
+insolvency_certificate_ending	ANNULLED	Sertifikāta anulēšana	Certificate annulled
+insolvency_certificate_ending	RELEASE_FROM_OFFICE	Atbrīvošana no amata	Release from office
+insolvency_certificate_ending	REMOVAL_FROM_OFFICE	Atcelšana no amata	Removal from office
+insolvency_certificate_ending	TERMINATED	Sertifikāta izbeigšana	Certificate terminated
+insolvency_practice_restriction	DISCHARGE	Atstādināšana no amata	Discharge from office
+insolvency_practice_restriction	SUSPENSION	Amata darbības apturēšana	Suspension from office
+insolvency_proceeding_form	INSOLVENCY	Maksātnespējas process	Insolvency proceeding
+insolvency_proceeding_form	LEGAL_PROTECTION	Tiesiskās aizsardzības process	Legal protection proceeding
+insolvency_proceeding_form	OUT_OF_COURT_LEGAL_PROTECTION	Ārpustiesas tiesiskās aizsardzības process	Out of court legal protection proceeding
+insolvency_proceeding_subtype	MAIN	Galvenā maksātnespējas procedūra	Main insolvency proceeding
+insolvency_proceeding_subtype	SECONDARY	Sekundārā maksātnespējas procedūra	Secondary insolvency proceeding
+insolvency_proceeding_subtype	TERRITORIAL	Teritoriālā maksātnespējas procedūra	Territorial insolvency proceeding
+insolvency_proceeding_type	CROSS_BORDER	Pārrobežu process	Cross-border proceeding
+insolvency_proceeding_type	NATIONAL	Nacionālais process	National proceeding
+instittution_form	ASSOCIATION	Biedrība (Sab.org.)	Association (Public Organisation)
+instittution_form	COMPANY	Uzņēmējsabiedrība	Business Company
+instittution_form	GROUP_OF_PERSONS	Personu grupa	Group of Persons
+instittution_form	IN_PUBLIC_OFFERING	Publiskajā piedāvājumā	In public offering
+instittution_form	LOCAL_AUTHORITY	Pašvaldības iestāde	Local Government Institution
+instittution_form	MINISTRY	Ministrija	Ministry
+instittution_form	MUNICIPALITY	Pašvaldība	Local Government
+instittution_form	NATURAL_PERSON	Fiziska persona	Natural person
+instittution_form	PENSION_FUND	pensiju fonds	Pension Fund
+instittution_form	PLANNING_REGION	Plānošanas reģions	Planning Region
+instittution_form	POLITICAL_ORGANISATION	Politiska organizācija	Political Organisation
+instittution_form	RELIGIOUS_ORGANISATION	Reliģiska organizācija	Religious Organisation
+instittution_form	REPRESENTATIVE_OFFICE	Pārstāvniecība	Representative Office
+instittution_form	STATE	Valsts	State 
+instittution_form	STATE_INSTITUTION	Valsts iestāde	State Institution
+instittution_form	TO_BOARD	Valdei	To Board
+instittution_form	TRADE_UNION	Arodbiedrība	Trade Union
+instittution_form	UNIVERSITY	Universitāte (akadēmija)	University (Academy)
+legal_act	DECISION	Lēmums	Decision
+legal_act	LAW	Likums	Law
+legal_act	ORDER	Rīkojums	Order
+legal_act	OTHER_LEGAL_ACT	Cits	Other
+legal_act	PROTOCOL	Protokols	Protocol
+legal_act	RULES	Noteikumi	Rules
+legal_form	ADDITIONAL_LIABILITY_COMPANY_PAP	Sabiedrība ar papildu atbildību  (vēsturiska forma)	Additional Liability Company (historical form)
+legal_form	ALLIANCE_OF_POLITICAL_PARTIES_PPA	Politisko partiju apvienība	Alliance of Political Parties
+legal_form	ARBITRATION_COURT_SKT	Šķīrējtiesa	Arbitration Court
+legal_form	ASSOCIATION_BDR	Biedrība	Association
+legal_form	ASSOCIATION_OF_PUBLIC_ORGANISATIONS_SAA	Sabiedrisko organizāciju apvienība (vēsturiska forma)	Association of Public Organisations (historical form)
+legal_form	ASSOCIATION_OF_PUBLIC_SPORTS_ORGANISATIONS_SPA	Sporta sabiedrisko organizāciju apvienība (vēsturiska forma)	Association of Public Sports Organisations (historical form)
+legal_form	ASSOCIATION_OF_TRADE_UNIONS_ARA	Arodbiedrību apvienība	Association of Trade Unions
+legal_form	BRANCH_FIL	Filiāle	Branch
+legal_form	BRANCH_OF_EUROPEAN_ECONOMIC_INTEREST_GROUPING_EGF	Eiropas ekonomisko interešu grupas filiāle	Branch of European Economic Interest Grouping
+legal_form	BRANCH_OF_FOREIGN_COMPANY_AKF	Ārvalsts komersanta filiāle	Branch of Foreign Company
+legal_form	CHURCH_BAZ	Baznīca	Church
+legal_form	CONGREGATION_DRZ	Draudze	Congregation
+legal_form	COOPERATIVE_SHARE_COMPANY_PAJ	Paju sabiedrība  (vēsturiska forma)	Co-operative Share Company (historical form)
+legal_form	COOPERATIVE_SOCIETIES_COMPANY_KBU	Kooperatīvo biedrību uzņēmums (vēsturiska forma)	Undertaking of Co-operative Societies  (historical form)
+legal_form	COOPERATIVE_SOCIETY_KB	Kooperatīvā sabiedrība	Co-operative Society
+legal_form	DEACONATE_INSTITUTION_DIS	Diakonijas iestāde (vēsturiska forma)	Deaconate Institution (historical form)
+legal_form	DIOCESE_DIE	Diecēze	Diocese
+legal_form	EDUCATION_INSTITUTION_FOR_ECCLESIASTICS_GPM	Garīgā personāla mācību iestāde (vēsturiska forma)	Education Institution for Ecclesiastics (historical form)
+legal_form	EUROPEAN_COMPANY_SE	Eiropas komercsabiedrība	European Company 
+legal_form	EUROPEAN_COOPERATIVE_SOCIETY_SCE	Eiropas kooperatīvā sabiedrība	European Cooperative Society
+legal_form	EUROPEAN_ECONOMIC_INTEREST_GROUPING_EIG	Eiropas ekonomisko interešu grupa	European Economic Interest Grouping
+legal_form	FAMILY_UNDERTAKING_GIM	Ģimenes uzņēmums  (vēsturiska forma)	Family Undertaking (historical form)
+legal_form	FARM_ZEM	Zemnieku saimniecība	Farm
+legal_form	FISHING_UNDERTAKING_ZVJ	Zvejnieku saimniecība	Fishing Undertaking
+legal_form	FOREIGN_REPRESENTATIVE_OFFICE_AKP	Ārvalsts komersanta pārstāvniecība (vēsturiska forma)	Foreign Representative Office (historical form)
+legal_form	FOREIGN_REPRESENTATIVE_OFFICE_PAR	Ārvalsts komersanta pārstāvniecība	Foreign Representative Office 
+legal_form	FOUNDATION_NOD	Nodibinājums	Foundation
+legal_form	FULL_LIABILITY_PARTNERSHIP_LIG	Līgumsabiedrība ar pilnu atbildību (vēsturiska forma)	Full Liability Partnership (historical form)
+legal_form	GENERAL_PARTNERSHIP_PS	Pilnsabiedrība	General Partnership
+legal_form	INDIVIDUAL_UNDERTAKING_IND	Individuālais uzņēmums	Individual Undertaking
+legal_form	INSTITUTION_OF_RELIGIOUS_ORGANISATION_ROI	Iestāde	Institution of Religious Organisation
+legal_form	JURIDIC_PERSON_UNDER_CANON_LAW_KAT	Katoļu baznīcas publisko tiesību juridiskā persona	Juridic person governed by the Canon law of the Catholic Church
+legal_form	LIMITED_LIABILITY_COMPANY_SIA	Sabiedrība ar ierobežotu atbildību	Limited Liability Company
+legal_form	LIMITED_PARTNERSHIP_KS	Komandītsabiedrība	Limited Partnership
+legal_form	MISSION_MIS	Misija (vēsturiska forma)	Mission  (historical form)
+legal_form	MONASTERY_KLO	Klosteris (vēsturiska forma)	Monastery (historical form)
+legal_form	MUNICIPAL_COMPANY_PSV	Pašvaldības uzņēmums (vēsturiska forma)	Municipal Company (historical form)
+legal_form	NEW_CONGREGATION_DRJ	Draudze (jaunā)	Congregation (new)
+legal_form	OPEN_PUBLIC_FUND_ASF	Atklātais sabiedriskais fonds (vēsturiska forma)	Open Public Fund  (historical form)
+legal_form	PERMANENT_UNIT_OF_TRADE_UNION_ARV	Arodbiedrības patstāvīgā vienība	Permanent Unit of Trade Union
+legal_form	POLITICAL_ORGANISATION_PARTY_POL	Politiska organizācija, partija (vēsturiska forma)	Political Organisation, Party (historical form)
+legal_form	POLITICAL_PARTY_PP	Politiskā partija	Political Party
+legal_form	PROFESSIONAL_CORPORATION_KOR	Korporācija, profesionālā biedrība (vēsturiska forma)	Corporation, Professional Association (historical form)
+legal_form	PROFESSIONAL_CREATIVE_ORGANISATION_PRO	Profesionālā radošā organizācija (vēsturiska forma)	Trade Union (historical form)
+legal_form	PUBLIC_BODY	Publiskā persona vai iestāde	Public person or authority
+legal_form	PUBLIC_LIMITED_COMPANY_AS	Akciju sabiedrība	Public Limited Company
+legal_form	PUBLIC_ORGANISATION_ENTERPRISE_SOU	Sabiedriskās organizācijas uzņēmums (vēsturiska forma)	Undertaking of Public Organisation (historical form)
+legal_form	PUBLIC_ORGANISATION_SAB	Sabiedriskā organizācija (vēsturiska forma)	Public Organisation  (historical form)
+legal_form	PUBLIC_SPORTS_ORGANISATION_SPO	Sporta sabiedriskā organizācija  (vēsturiska forma)	Public Sports Organisation (historical form)
+legal_form	RELIGIOUS_ASSOCIATION_BIE	Biedrība rel.  (vēsturiska forma)	Religious Association (historical form)
+legal_form	RELIGIOUS_ORGANISATION_ENTERPRISE_REL	Reliģiskas organizācijas uzņēmums (vēsturiska forma)	Undertaking of Religious Organisation  (historical form)
+legal_form	RELIGIOUS_UNION_SAV	Savienība	Religious Union
+legal_form	REPRESENTATIVE_OFFICE_OF_FOREIGN_ORGANISATION_POR	Ārvalsts organizācijas pārstāvniecība	Representative Office of Foreign Organisation
+legal_form	REPRESENTATIVE_OFFICE_PAR	Pārstāvniecība (vēsturiska forma)	Representative Office (historical form)
+legal_form	REPRESENTATIVE_PRV	Pārstāvis (vēsturiska forma)	Representative (historical form)
+legal_form	SOLE_TRADER_IK	Individuālais komersants	Sole trader
+legal_form	SPIRITUAL_CENTRE_CEN	Centrs  (vēsturiska forma)	Spiritual Centre (historical form)
+legal_form	STATE_OWNED_ENTERPRISE_VU	Valsts uzņēmums  (vēsturiska forma)	State-owned Enterprise (historical form)
+legal_form	TRADE_UNION_ARB	Arodbiedrība	Trade Union
+legal_form	TRADE_UNION_HISTORICAL_ARB	Arodbiedrība (vēsturiska forma)	Trade Union (historical form)
+legal_form	UNDERTAKING_OF_COMPANY_UZN	Uzņēmējsabiedrības uzņēmums (vēsturiska forma)	Undertaking of Company (historical form)
+legal_form	UNION_OF_COOPERATIVE_SOCIETIES_COMPANY_KSS	Kooperatīvo biedrību savienības uzņēmums  (vēsturiska forma)	Undertaking of Union of Co-operative Societies (historical form)
+legal_form	UNION_OF_COOPRATIVE_SOCIETIES_KBS	Kooperatīvo biedrību savienība  (vēsturiska forma)	Union of Co-oprative Societies  (historical form)
+liquidations	LIQUIDATION	Likvidācija	Liquidation
+liquidation_suspension_prohibition	ACTIVITY_CONTINUED	Darbības turpināšana	Activity continued
+liquidation_suspension_prohibition	ACTIVITY_OF_RELIGIOUS_ORGANISATION_TERMINATED	Reliģiskas organizācijas darbības izbeigšana	Activity of a Religious Organisation terminated
+liquidation_suspension_prohibition	ACTIVITY_RESTORED	Darbības atjaunošana	Activity restored
+liquidation_suspension_prohibition	ACTIVITY_SUSPENDED	Darbības apturēšana	Activity suspended 
+liquidation_suspension_prohibition	ACTIVITY_SUSPENDED_BY_COURT	Darbības apturēšana uz tiesas lēmuma pamata	Activity suspended by a court decision
+liquidation_suspension_prohibition	ACTIVITY_TERMINATED	Darbības izbeigšana	Activity terminated 
+liquidation_suspension_prohibition	ACTIVITY_TERMINATED_BY_COURT	Darbības izbeigšana uz tiesas lēmuma pamata	Activity terminated by a court decision
+liquidation_suspension_prohibition	ECONOMIC_ACTIVITY_RESTORED	Saimnieciskās darbības atjaunošana	Economic activity restored
+liquidation_suspension_prohibition	ECONOMIC_ACTIVITY_SUSPENDED	Saimnieciskās darbības apturēšana	Economic activity suspended
+liquidation_suspension_prohibition	EEIG_DECLARED_TO_BE_NONEXISTENT	EEIG atzīta par neesošu	EEIG declared to be non-existent
+liquidation_suspension_prohibition	LIQUIDATION	Likvidācijas process	Liquidation proceeding
+liquidation_suspension_prohibition	NON_REREGISTRATION	Nepārreģistrācija	Non Re-registration
+liquidation_suspension_prohibition	PROHIBITION_ON_BUSINESS_ACTIVITY	Aizliegums veikt uzņēmējdarbību	Prohibition on business activity
+liquidation_suspension_prohibition	PROHIBITION_ON_BUSINESS_ACTIVITY_REMOVED	Aizlieguma veikt uzņēmējdarbību atcelšana	Prohibition on business activity removed
+liquidation_suspension_prohibition	PROHIBITION_ON_PUBLIC_ACTIVITY	Publiskās darbības vai citas darbības aizliegums	Prohibition on public activity or other activity
+liquidation_suspension_prohibition	PROHIBITION_ON_PUBLIC_ACTIVITY_REMOVED	Publiskās darbības vai citas darb. aizlieg. atc.	Prohibition on public activity or other activity removed
+liquidation_suspension_prohibition	REFORM_OF_ASSOCIATIONS	Biedrību reforma	Reform of Associations
+liquidation_suspension_prohibition	REFORM_OF_POLITICAL_PARTIES	Polistiko partiju reforma	Reform of Political Parties
+liquidation_suspension_prohibition_result	ACTIVITY_CONTINUED	Darbības turpināšana	Activity continued
+liquidation_suspension_prohibition_result	ACTIVITY_RESTORED	Darbības atjaunošana	Activity restored
+liquidation_suspension_prohibition_result	ACTIVITY_TERMINATED	Darbība izbeigta	Activity terminated
+liquidation_suspension_prohibition_result	ANNULLED_PROCEEDING	Anulēts	Annulled
+liquidation_suspension_prohibition_result	CANCELLED	Pārtraukts	Cancelled
+liquidation_suspension_prohibition_result	ECONOMIC_ACTIVITY_RESTORED	Saimnieciskās darbības atjaunošana	Economic activity restored
+liquidation_suspension_prohibition_result	IN_PROGRESS	Process risinās	In progress
+liquidation_suspension_prohibition_result	IN_REHABILITATION	Sanēts	In rehabilitation
+liquidation_suspension_prohibition_result	LIQUIDATED	Likvidēts	Liquidated
+liquidation_suspension_prohibition_result	PROHIBITON_ON_BUSINESS_ACTIVITY_REMOVED	Aizlieguma veikt uzņēmējdarbību atcelšana	Prohibition on business activity removed
+liquidation_suspension_prohibition_result	PROHIBITON_ON_PUBLIC_ACTIVITY_REMOVED	Publiskās darbības vai citas darbības aizlieguma atcelšana	Prohibition on public activity or other activity removed
+nature_of_control	AS_COOPERATIVE_MEMBER	kā kooperatīvās sabiedrības biedrs	as a cooperative society member
+nature_of_control	AS_FOUNDATION_FOUNDER	kā nodibinājuma dibinātājs	as a foundation founder
+nature_of_control	AS_MEMBER	kā dalībnieks	as a member
+nature_of_control	AS_OWNER	kā īpašnieks	as the owner
+nature_of_control	AS_PARTNERSHIP_MEMBER	kā personālsabiedrības biedrs	as a partnership member
+nature_of_control	AS_REPRESENTATIVE	kā izpildinstitūcijas vai pārvaldes institūcijas pārstāvis	as a representative of the executive institution or of the administrative body
+nature_of_control	AS_SHAREHOLDER	kā akcionārs	as a shareholder
+nature_of_control	AS_SOCIETY_MEMBER	kā biedrības biedrs	as a society member
+nature_of_control	ON_GROUNDS_OF_AUTHORIZATION	uz pilnvarojuma līguma pamata	on grounds of the Power of Attorney
+nature_of_control	ON_GROUNDS_OF_BUSINESS_RELATIONS	uz darījuma attiecību pamata	on grounds of the business relations
+nature_of_control	ON_GROUNDS_OF_PROPERTY_RIGHT	uz īpašumtiesību pamata	on grounds of the property right
+nature_of_control	OTHER_TYPE_OF_CONTROL	cits	other
+nature_of_control	VIA_ARRANGEMENT_AS_AUTHORIZING_PERSON	caur juridisko veidojumu kā pilnvarotājs	via legal arrangement as the authorizing person
+nature_of_control	VIA_ARRANGEMENT_AS_FOUNDER	caur juridisko veidojumu kā dibinātājs	via legal arrangement as the founder
+nature_of_control	VIA_ARRANGEMENT_AS_MANAGING_PERSON	caur juridisko veidojumu kā pārvaldītājs	via legal arrangement as the managing person
+officer_position	ADMINISTRATIVE_MANAGER	Iestādes administratīvais vadītājs	Administrative Manager
+officer_position	GENERAL_MANAGER	Iestādes vadītājs	General Manager
+position	""	""	""
+position	ACCOUNTANT	Grāmatvedis	Accountant
+position	ACTING_CHIEF_ACCOUNTANT	Galvenā grāmatveža v.i.	Acting Chief Accountant
+position	ACTING_MANAGER	Pārvaldnieka v.i.	Acting Manager
+position	ADMINISTRATIVE_DIRECTOR	Administratīvais direktors	Administrative Director
+position	ADMINISTRATIVE_MANAGER		Administrative Manager
+position	ADMINISTRATOR	Administrators	Administrator
+position	ADVISOR	Konsultants	Advisor
+position	ATTORNEY	Pilnvarnieks	Attorney
+position	AUDITOR	Revidents	Auditor
+position	AUTHORISED_PERSON	Pilnvarotā persona	Authorised person
+position	AUTHORISED_REPRESENTATIVE	Pilnvarotais pārstāvis	Authorised representative
+position	BOARD_MEMBER	Valdes loceklis	Member of the Board
+position	BOARD_SECRETARY	Valdes sekretārs	Secretary of the Board
+position	BRANCH_REPRESENTATIVE	Persona, kura pilnvarota pārstāvēt komersantu darbībās, kas saistītas ar filiāli	A person authorized to represent the merchant in activities related to a branch
+position	CASHIER	Kasieris	Cashier
+position	CHAIR	Priekšsēdētājs	Chairperson
+position	CHAIR_OF_BOARD	Valdes priekšsēdētājs	Chairperson of the Board
+position	CHAIRPERSON_AUDIT_COMMITTEE	Revīzijas komisijas priekšsēdētājs	Chairperson of the Audit Committee
+position	CHAIRPERSON_OF_COUNCIL	Padomes priekšsēdētājs	Chairperson of the Council
+position	CHIEF_ACCOUNTANT	Galvenais grāmatvedis	Chief Accountant
+position	CHIEF_ENGINEER	Galvenais inženieris	Chief Engineer
+position	CHIEF_GEOLOGIST	Galvenais ģeologs	Chief Geologist
+position	CHIEF_PHYSICIAN	Galvenais ārsts	Chief physician
+position	CO_CHAIRPERSON	Līdzpriekšsēdētājs	Co-Chairperson
+position	COMMERCIAL_DIRECTOR	Komercdirektors	Commercial Director
+position	CONCESSION_GRANTOR	Koncedents	Concession Grantor
+position	CONCESSION_HOLDER	Koncesionārs	Concession Holder
+position	CO_OWNER	Līdzīpašnieks	Co-owner
+position	COUNCIL_MEMBER	Padomes loceklis	Member of the Council
+position	DEPUTY_ACCOUNTANT	Grāmatveža vietnieks	Deputy Accountant
+position	DEPUTY_CHAIR_OF_BOARD	Valdes priekšsēdētāja vietnieks	Deputy Chairperson of the Board
+position	DEPUTY_CHAIR_OF_COUNCIL	Padomes priekšsēdētāja vietnieks	Deputy Chairperson of the Council
+position	DEPUTY_CHAIRPERSON	Priekšsēdētāja vietnieks	Deputy Chairperson
+position	DEPUTY_CHIEF_ACCOUNTANT	Galvenā grāmatveža vietnieks	Deputy Chief accountant
+position	DEPUTY_DIRECTOR	Direktora vietnieks	Deputy Director
+position	DEPUTY_DIRECTOR_GENERAL	Ģenerāldirektora vietnieks	Deputy Director General
+position	DEPUTY_EDITOR	Redaktora vietnieks	Deputy Editor
+position	DEPUTY_HEAD_OF_DEPARTMENT	Nodaļas vadītāja vietnieks	Deputy Head of the Department
+position	DEPUTY_MANAGING_DIRECTOR	Rīkotājdirektora vietnieks	Deputy Managing Director
+position	DEPUTY_PRESIDENT	Prezidenta vietnieks	Deputy President
+position	DEPUTY_SECRETARY_GENERAL	Ģenerālsekretāra vietnieks	Deputy Secretary General
+position	DIRECTOR	Direktors	Director
+position	DIRECTOR_ASSISTANT	Direktora palīgs	Assistant to the Director
+position	DIRECTOR_GENERAL	Ģenerāldirektors	Director General
+position	DIRECTOR_OF_ECONOMIC_AFFAIRS	Direktors ekonomiskos jautājumos	Director of Economic Affairs
+position	ECONOMIST	Ekonomists	Economist
+position	EDITOR	Redaktors	Editor
+position	EMPLOYER	Darba devējs	Employer
+position	ENGINEER	Inženieris	Engineer
+position	ESTATE_TRUSTEE	Mantojuma aizgādnis	Estate Trustee
+position	EXECUTIVE_DIRECTOR	Izpilddirektors	Executive Director
+position	FINANCIAL_DIRECTOR	Finansu direktors	Financial Director
+position	FOUNDER	Dibinātājs	Founder
+position	GENERAL_MANAGER	Iestādes vadītājs	General Manager
+position	GUARDIAN	Aizgādnis	Guardian
+position	GUARDIAN_OF_MINOR	Aizbildnis	Guardian of minors
+position	HEAD	Vadītājs	Head
+position	HEAD_OF_DEPARTMENT	Nodaļas vadītājs	Head of the Department
+position	LEGAL_DIRECTOR	Juridiskais direktors	Legal Director
+position	LIQUIDATOR	Likvidators	Liquidator
+position	MANAGER	Pārvaldnieks	Manager
+position	MANAGER_2	Menedžers	Manager
+position	MANAGING_DIRECTOR	Rīkotājdirektors	Managing Director
+position	MEMBER	Biedrs	Member
+position	NO_POSITION	Nav amata	No position
+position	OWNER	Īpašnieks	Owner
+position	PRESIDENT	Prezidents	President
+position	PRIVATE_PARTNER	Privātais partneris	Private Partner
+position	PROCURATOR	Prokurists	Procurator
+position	PRODUCTION_DIRECTOR	Ražošanas direktors	Production Director
+position	REPRESENTATIVE_OF_ADMINISTRATOR	Administratora pārstāvis	Representative of the Administrator
+position	REPRESENTATIVE_OF_PUBLIC_PARTNER	Publiskā partnera pārstāvis	Representative of Public Partner
+position	REPRESENTATIVE_OF_THE_LIQUIDATOR	Likvidatora pārstāvis	Representative of the Liquidator
+position	SECRETARY	Sekretārs	Secretary
+position	SECRETARY_AUDIT_COMMITTEE	Revīzijas komisijas sekretārs	Secretary of the Audit Committee
+position	SECRETARY_GENERAL	Ģenerālsekretārs	Secretary-General
+position	SENATOR	Senators	Senator
+position	TECHNICAL_DIRECTOR	Tehniskais direktors	Technical Director
+position	TECHNOLOGIST	Tehnologs	Technologist
+position	TREASURER	Mantzinis	Treasurer
+position	VICE_DIRECTOR	Vicedirektors	Vice-Director
+position	VICE_PRESIDENT	Viceprezidents	Vice-president
+register	ARBITRAGE	Šķīrējtiesu reģistrs	Arbitrage Register
+register	ASSOCIATIONS_AND_FOUNDATIONS	Biedrību un nodibinājumu reģistrs	Register of Associations and Foundations
+register	COMMERCIAL	Komercreģistrs	Commercial Register
+register	COMMERCIAL_PLEDGES	Komercķīlu reģistrs	Register of Commercial Pledges
+register	ENTERPRISE_REGISTER_JOURNAL	Uzņēmumu reģistra žurnāls	Enterprise Register Journal
+register	EUROPEAN_ECONOMIC_INTEREST_GROUPINGS	Eiropas ekonomisko interešu grupu reģistrs	Register of European Economic Interest Groupings
+register	INSOLVENCY	Maksātnespējas reģistrs	Insolvency register
+register	MASS_MEDIA	Masu informācijas līdzekļu reģistrs	Mass Media Register
+register	POLITICAL_ORGANISATIONS	Politisko organizāciju un to apvienību reģistrs	Register of Political Organisations (historical)
+register	POLITICAL_PARTIES	Politisko partiju reģistrs	Register of Political Parties
+register	PUBLIC_ORGANISATIONS	Sabiedrisko organizāciju reģistrs	Register of Public Organisations (historical)
+register	PUBLIC_PERSONS_INSTITUTIONS	Publisko personu un iestāžu saraksts	List of public persons and authorities
+register	PUBLIC_PRIVATE_PARTNERSHIP_CONTRACTS	Publiskās un privātās partnerības līgumu reģistrs	Register of Public and Private Partnership Contracts
+register	RELIGIOUS_ORGANISATIONS_AND_INSTITUTIONS	Reliģisko organizāciju un to iestāžu reģistrs	Register of Religious Organisations and Institutions Thereof
+register	REPRESENTATIVE_OFFICES	Pārstāvniecību reģistrs	Register of Representative Offices
+register	SPOUSAL_PROPERTY_RELATIONS	Laulāto mantisko attiecību reģistrs	Spousal Property Relations Register
+register	TRADE_UNIONS	Arodbiedrību reģistrs	Register of Trade Unions (historical)
+registration_removal_reason	ADDRESS_UPDATE	Adreses aktualizācija	Address update
+registration_removal_reason	ANNULLED	Anulēts	Annulled
+registration_removal_reason	DATA_CHANGES	Datu izmaiņas	Data changes
+registration_removal_reason	DECEASED	Miris	Deceased
+registration_removal_reason	ERROR_CORRECTION	Kļūdas labošana	Error correction
+registration_removal_reason	INFORMATION_REMOVED	Ziņas izslēgtas 10.04.2006	Information removed on 10.04.2006
+registration_removal_reason	REMOVED_BY_CSN_DECISION	Izslēgts, pamatojoties uz GVN lēmumu	Removed by Chief State Notar (CSN) decision
+registration_removal_reason	RESTORED	Darbība atjaunota	Restored
+registration_removal_reason	RESTORED_BY_CSN_DECISION	Atjaunots, pamatojoties uz GVN lēmumu	Restored by Chief State Notar (CSN) decision
+registration_removal_reason	SUSPENDED	Darbība apturēta	Suspended
+religious_affiliation	ADVENTIST	Septītās Dienas Adventistu	Seventh-day Adventist Church
+religious_affiliation	ANGLICAN	Anglikāņu	Anglican Communion
+religious_affiliation	APOSTOLIC	Apustuliskā	Apostolic Church
+religious_affiliation	ARMENIAN	Senaustrumu Apustuliskā	Armenian Apostolic Church
+religious_affiliation	AUGSBURG	Augsburgas (luterāņu)	Augsburg Confession
+religious_affiliation	BAHAI	Bahai	Baha'i
+religious_affiliation	BAPTIST	Baptistu	Baptist
+religious_affiliation	BRANHAMISM	Branhamistu	Branhamism
+religious_affiliation	BUDDHIST	Budistu	Buddhist
+religious_affiliation	CATHOLIC	Katoļu	Roman Catholic
+religious_affiliation	CHRISTIAN_SCIENCE	Kristīgās Zinātnes	Christian Science
+religious_affiliation	DE_LUTHERAN	Vācu luterāņu	German Lutheran
+religious_affiliation	DENOMINATIONAL_BODY	Konfesiju Iestāde	Denominational body
+religious_affiliation	HINDU	Hinduisti	Hindu
+religious_affiliation	INTERFAITH	Starpkonfesionāla	Inter-faith
+religious_affiliation	ISLAM	Musulmaņu	Islam / Muslims
+religious_affiliation	JEHOVAHS_WITNESSES	Jehovas Liecinieku	Jehovah's Witnesses
+religious_affiliation	JEWISH	Jūdu (Mozus) Ticīgo	Jewish
+religious_affiliation	LV_DIEVTURI	Dievturu	Latvian Dievturi
+religious_affiliation	LV_EVANGELICAL	Evaņģēlisko Kristiešu	Latvian Evangelical Christians
+religious_affiliation	LV_EVANGELICAL_FAITH	Evaņģēliskās Ticības Kristiešu	Latvian Christians of Evangelical Faith
+religious_affiliation	LV_EVANGELICAL_GOD	Evaņģēliskā Dieva	Latvian Congregation of Evangelical God 
+religious_affiliation	LV_EVANGELICAL_MESSIAH	Evaņģēlisko Mesijas Sekotāju	Latvian Evangelical Messiah-Followers
+religious_affiliation	LV_EVANGELICAL_NG	Evaņģēlisko kristiešu (Jaunā Paaudze)	Latvian Evangelical Christions (New Generation)
+religious_affiliation	LV_YOUTH_CHRISTIAN	Jaunatnes Kristīgā Savienība	Latvian Youth Christian Association
+religious_affiliation	LV_LUTHERAN	Luterāņu	Latvian Lutheran
+religious_affiliation	METHODIST	Metodistu	Methodist
+religious_affiliation	MORMON	Pēdējo dienu svēto (mormoņu)	The Church of Jesus Christ of Latter-day Saints
+religious_affiliation	NEW_APOSTOLIC	Jaunapustulisko kristiešu	New Apostolic Church
+religious_affiliation	OLD_BELIEVER	Vecticībnieku	Old Believer
+religious_affiliation	ORTHODOX	Pareizticīgo	Easterm Orthodox
+religious_affiliation	PENTACOSTAL	Vasarsvētku	Pentacostal
+religious_affiliation	PRESBYTERIAN	Presbiterāņu	Presbyterian 
+religious_affiliation	PROTESTANT	Protestantu	Protestant
+religious_affiliation	REFORMED	Reformātu	Reformed Church
+religious_affiliation	SALVATION_ARMY	Pestīšanas Armija	The Salvation Army
+religious_affiliation	SHINTO	Sintoisti	Shinto
+religious_affiliation	SUKIYO_MAHIKARI	Sūkjo Mahikari	Sukyo Mahikari
+religious_affiliation	UNITARIANISM	Kristīgais unitārisms	Christian Unitarianism
+religious_affiliation	VAISHNAVISM	Vaišnavu	Vaishnavism
+religious_affiliation	VISSARION	Pēdējās derības	Church of the Last Testament
+reorganization	ACQUISITION	Pievienošana	Acquisition
+reorganization	DIVISION	Sašķelšana	Division by splitting up
+reorganization	MERGER	Saplūšana	Merger with consolidation
+reorganization	OTHER	Cits	Other
+reorganization	REORGANISATION	Reorganizācija	Reorganisation
+reorganization	SEPARATION	Nodalīšana	Divestiture separation
+reorganization	TRANSFORMATION	Pārveidošana	Transformation, change of  form or restructuring
+rights_of_representation	INDIVIDUALLY	Tiesības pārstāvēt atsevišķi	Right to represent individually
+rights_of_representation	NO_RIGHT	Nav tiesību pārstāvēt	No right of representation
+rights_of_representation	SIGNATORY_POWER	Paraksta tiesības	Signatory power
+rights_of_representation	WITH_ALL	Kopā ar visiem	Jointly with all persons entitled to represent
+rights_of_representation	WITH_AT_LEAST	Kopā ar vismaz	Jointly with at least {withAtLeast} persons entitled to represent
+rights_of_representation	WITH_CHAIR	Kopā ar valdes priekšsēdētāju	Jointly with  the Chairperson of the Board
+rights_of_representation	WITH_DEPUTY_CHAIR	Kopīgi ar valdes priekšsēdētāja vietnieku	Jointly with the Deputy Chairperson of the Board
+rights_of_representation	WITH_PROKURIST	Kopīgi ar prokūristu	"Jointly with  the ""prokurist"""
+rights_to_land	OWNERSHIP	Aktā noteiktās tiesības uz zemi: īpašuma	Right to the land under the deed: ownership
+rights_to_land	USE	Aktā noteiktās tiesības uz zemi: lietošanas	Right to the land under the deed: use
+securing_measure	ATTACHMENT	Arests	Attachment
+securing_measure	LIEN	Apķīlājums	Lien
+securing_measure	PROHIBITION	Aizliegums	Prohibition
+spousal_party	BOTH	Abi	Both
+spousal_party	HUSBAND	Vīrs	Husband
+spousal_party	WIFE	Sieva	Wife
+spousal_property_relationship	AGREEMENT_ON_DIVISION_OF_PROPERTY	Vienošanās par mantas sadali	Agreement on the division of the property
+spousal_property_relationship	JOINT_OWNERSHIP_OF_ALL_PROPERTY	Mantas kopība	Joint ownership of the entire property
+spousal_property_relationship	SEPARATE_OWNERSHIP_OF_ALL_PROPERTY	Visas mantas šķirtība	Separate ownership of the entire property
+spousal_property_relationship	SEPARATE_PROPERTY	Atsevišķā manta	Separate property
+status	ANNULLED	Anulēts	Annulled
+status	REGISTERED	Reģistrēts	Registered
+status	REMOVED	Izslēgts no reģistra	Removed from the register
+status_details	IN_LIQUIDATION	Aktīvs likvidācijas process	Pending liquidation proceeding
+status_details	REORGANIZED	Izslēgts reorganizācijas rezultātā	Removed from the register as a result of reorganization
+status_ppi	ANNULLED	Izslēgts no reģistra	Removed from the register
+status_ppi	REGISTERED	Anulēts	Annulled
+status_ppi	REMOVED	Reģistrēts	Registered
+subordination	CONTROL	Pakļautībā 	Under control
+subordination	SUPERVISION	Pārraudzībā	Under supervision
+various_notice	ADDRESS_TRANSFER_PROPOSAL	Adreses maiņas priekšlikums	The address transfer proposal
+various_notice	AMENDMENTS_TO_DECISION_ON_REORGANISATION	Grozījumi reorganizācijas lēmuma projektā	Amendments to the decision on reorganisation
+various_notice	AMENDMENTS_TO_PLAN_FOR_EXTINGUISHING_OBLIGATIONS	Saistību dzēšanas plāna grozījumi	Amendments to the plan for extinguishing the obligations
+various_notice	AMENDMENTS_TO_PLAN_FOR_PROPERTY_SALE_AND_SETTLING_OF_CLAIMS	Mantas pārdošanas un kreditoru prasījumu apmierināšanas plāna grozījumi	Amendments to the plan for property sale and settling of creditors’ claims
+various_notice	AMENDMENTS_TO_REORGANISATION_DRAFT_AGREEMENT	Grozījumi reorganizācijas līguma projektā	Amendments to the Reorganisation draft agreement 
+various_notice	CONFIRMATION_THAT_ARBITRATORS_UPDATED	Apliecinājums par šķīrējtiesnešu saraksta aktualitāti	Confirmation that the list of arbitrators is updated (historical)
+various_notice	CONFIRMATION_UNDER_ARTICLE_8_5A_OF_ARBITRATION_LAW	Apliecinājums atbilstoši Šķīrējtiesu likuma 8.panta piektajai prim daļai	Confirmation under Paragraph 5', Article 8 of the Arbitration Law
+various_notice	CONFIRMATION_UNDER_ARTICLE_8_6_OF_ARBITRATION_LAW	Apliecinājums atbilstoši Šķīrējtiesu likuma 8.panta sestajai daļai	Confirmation under Paragraph 6, Article 8 of the Arbitration Law 
+various_notice	CORRECTED_PLAN_FOR_PROPERTY_SALE	Precizēts mantas pārdošanas plāns	Corrected plan for property sale
+various_notice	DECISION_ON_CHANGE_OF_ADDRESS	Lēmums par adreses maiņu	Decision on the change of address
+various_notice	DECISION_ON_CHANGE_OF_CANNONICAL_SUBORDINATION	Lēmums par kanoniskās pakļautības maiņu	Decision on the change of canonical subordination
+various_notice	DECISION_ON_CHANGE_OF_THE_NAME	Lēmums par nosaukuma maiņu	Decision on the change of the name
+various_notice	DECISION_ON_LIQUIDATION	Lēmums par likvidēšanu	Decision on the liquidation
+various_notice	DECISION_ON_RECOGNITION	Lēmums par atzīšanu	Decision on the recognition
+various_notice	DECISION_ON_REORGANISATION	Lēmums par reorganizāciju	Decision on the reorganisation
+various_notice	DIVISION_OF_REGISTER_OF_SHAREHOLDERS	Dalībnieku reģistra nodalījums	Division of the Register of Shareholders
+various_notice	DRAFT_DECISION_ON_REORGANISATION	Reorganizācijas lēmuma projekts	Draft decision on reorganisation
+various_notice	LIST_OF_ARBITRATORS	Šķīrējtiesnešu saraksts	List of arbitrators (historical)
+various_notice	NOTIFICATION_ON_COMPLIANCE_WITH_CONDITIONS_ON_SIGNIFICANCE_TO_NATIONAL_SECURITY	Paziņojums par komercsabiedrības atbilstību nacionālajai drošībai nozīmīgas komercsabiedrības nosacījumiem	Notification on compliance of the commercial company with conditions on commercial companies significant for national security
+various_notice	NOTIFICATION_ON_EXPIRY_OF_COMPLIANCE_WITH_CONDITIONS_ON_SIGNIFICANCE_TO_NATIONAL_SECURITY	Paziņojums par komercsabiedrības atbilstības nacionālajai drošībai nozīmīgas komercsabiedrības nosacījumiem izbeigšanos	Notification on expiry of compliance of the commercial company with conditions on commercial companies significant for national security
+various_notice	NOTIFICATION_ON_REDUCTION_IN_EQUITY_CAPITAL	Paziņojums par pamatkapitāla samazināšanu	Notification on reduction in the equity capital
+various_notice	PLAN_FOR_EXTINGUISHING_OBLIGATIONS	Saistību dzēšanas plāns	Plan for extinguishing the obligations
+various_notice	PLAN_FOR_PROPERTY_SALE	Mantas pārdošanas plāns	Plan for property sale
+various_notice	PLAN_FOR_PROPERTY_SALE_AND_SETTLING_OF_CLAIMS	Mantas pārdošanas un kreditoru prasījumu apmierināšanas plāns	Plan for property sale and settling of creditors' claims
+various_notice	PROPOSAL_ON_TRANSFERRING_ADDRESS_OF_EEIG	Priekšlikums mainīt Eiropas ekonomisko interešu grupas juridisko adresi	Proposal on transferring the legal address of the European Economic Interest Grouping
+various_notice	PROPOSAL_ON_TRANSFERRING_ADDRESS_OF_SCE	Priekšlikums mainīt Eiropas kooperatīvās sabiedrības juridisko adresi	Proposal on transferring the legal address of the European cooperative society
+various_notice	PROPOSAL_ON_TRANSFERRING_ADDRESS_OF_SE	Priekšlikums mainīt Eiropas komercsabiedrības juridisko adresi	Proposal on transferring the legal address of the European Sompany
+various_notice	REGISTER_OF_SHAREHOLDERS	Dalībnieku reģistrs	Register of Shareholders (historical)
+various_notice	REORGANISATION_DRAFT_AGREEMENT	Reorganizācijas līguma projekts	Reorganisation draft agreement 
+various_notice	RULES_OF_PROCEDURE	Reglaments	Rules of procedure
+various_status	BENEFICIAL_OWNER_CANNOT_BE_IDENTIFIED	Juridiskās personas patieso labuma guvēju noskaidrot nav iespējams	The beneficial owner of a legal person cannot be identified
+various_status	BENEFICIAL_OWNER_CONTROL_RESULTS_FROM_SHAREHOLDERS_STATUS	Patiesais labuma guvējs ir akcionārs tādā akciju sabiedrībā, kuras akcijas ir iekļautas regulētajā tirgū, un veids, kādā tiek īstenota kontrole pār juridisko personu, izriet tikai no akcionāra statusa	The beneficial owner is a shareholder of a public company with shares admitted for trading on a regulated market, and control over the legal person only results from the shareholder’s status
+various_status	SIGNIFICANT_TO_NATIONAL_SECURITY	Nacionālajai drošībai nozīmīga komercsabiedrība	A commercial company of significance to national security
