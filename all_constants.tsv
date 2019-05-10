@@ -291,46 +291,6 @@ identity_document	FOREIGN_PASSPORT	Ārzemju pase	Foreign Passport
 identity_document	IDENTITY_CARD	Identifikācijas karte	Identification Card
 identity_document	OTHER_DOCUMENT	Cits dokuments	Other document
 identity_document	PASSPORT	Pase	Passport
-insolvency_1996_decision	COURT_DECISION	Tiesas lēmums	Court decision
-insolvency_1996_decision	COURT_JUDGEMENT	Tiesas spriedums	Court judgement
-insolvency_1996_decision	DECISION_OF_CREDITORS_MEETING	Kreditoru sapulces lēmums	Decision of the creditors' meeting
-insolvency_1996_decision	DECISION_OF_POLICE_OFFICER	Policijas amatpersonas lēmums	Decision of a police officer
-insolvency_1996_decision	PROSECUTORS_DECISION	Prokuratūras lēmums	Prosecutor's decision
-insolvency_1996_decision	SRS_DECISION	VID lēmums	State Revenue Service decision
-insolvency_1996_decision	TIK_ORDER	TIK rīkojums	TIK order
-insolvency_1996_decision	TIK_REQUEST	TIK pieprasījums	TIK request
-insolvency_1996_element	DEBT_OBLIGATIONS_OF_DEBTOR_EXCEED_ITS_ASSETS	Parādnieka parādu saistības pārsniedz tā aktīvus.	Debt obligations of the debtor exceed its assets.
-insolvency_1996_element	DEBTOR_STOPPED_TO_SETTLE_DUE_DEBT	Parādnieks ir pārtraucis kārtot parādu saistības, kurām iestājies izpildes termiņš.	The debtor has stopped to settle the debt obligations which have fallen due.
-insolvency_1996_element	DEBTOR_UNABLE_TO_MEET_DEBT_OBLIGATIONS	Parādnieks nespēj vai sakarā ar pierādāmiem apstākļiem nespēs pienācīgi nokārtot savas parādu saistības.	The debtor is unable to meet the debt obligations
-insolvency_1996_element	DESTRUCTION_OF_UNINSURED_PROPERTY	Sakarā ar neapdrošinātas mantas bojāeju.	In the event of destruction of uninsured property.
-insolvency_1996_element	LOSSES_OF_ILLEGAL_ACTS_BY_THIRD_PERSONS	Sakarā ar zaudējumiem, kas nodarīti trešo personu nelikumīgu darbību rezultātā.	In the event of losses incurred as a result of illegal acts by third persons.
-insolvency_1996_element	NO_PAYMENT_RECIEVED_FOR_GOODS_AND_SERVICES	Konstatēts fakts, ka ilgstoši nav saņemta samaksa par precēm un pakalpojumiem.	It is established that no payment has been received for goods and services for a long period of time.
-insolvency_1996_element	THIRD_PERSONS_WITH_DEBT_AND_INSOLVENCY	Konstatēta trešo personu maksātnespēja, kurām ir parādu saistības pret parādnieku.	Determined insolvency of third persons having debt obligations towards the debtor.
-insolvency_1996_event	AMENDMENTS_TO_REHABILITATION_PLAN	Grozījumi sanācijas plānā	Amendments to the rehabilitation plan
-insolvency_1996_event	BANKRUPTCY_COMPLETED_AND_INSOLVENCY_TERMINATED	Bankrota procedūras pabeigšana un maksātnespējas procesa izbeigšana	Bankruptcy proceedings completed and insolvency proceedings terminated
-insolvency_1996_event	BANKRUPTCY_INITIATED	Uzsākta bankrota procedūra	Bankruptcy proceedings initiated
-insolvency_1996_event	INSOLVENCY_ANNOUNCED	Maksātnespējas pasludināšana	Insolvency announced
-insolvency_1996_event	INSOLVENCY_INITIATED	Ierosināta maksātnespējas lieta	Insolvency case initiated
-insolvency_1996_event	INSOLVENCY_TERMINATED	Maksātnespējas procesa izbeigšana	Insolvency proceedings terminated
-insolvency_1996_event	IP_APPOINTED	Administratora iecelšana	Insolvency practitioner appointed
-insolvency_1996_event	IP_DISMISSED	Administratora atcelšana	Insolvency practitioner dismissed
-insolvency_1996_event	OTHER_PROCEEDINGS	Citas tiesas maksātnespējas procesa laikā	Other court proceedings during the insolvency proceedings
-insolvency_1996_event	REHABILITATION_PERIOD_EXTENDED	Sanācijas termiņa pagarināšana	Rehabilitation period extended
-insolvency_1996_event	REHABILITATION_PLAN_APPROVED	Apstiprināts sanācijas plāns	Rehabilitation plan approved
-insolvency_1996_event	REHABILITATION_TERMINATED	Izbeigta sanācija	Rehabilitation terminated
-insolvency_1996_event	SETTLEMENT_APPROVED	Apstiprināts mierizlīgums	Settlement approved
-insolvency_1996_event	SETTLEMENT_CANCELLED	Atcelts mierizlīgums	Settlement cancelled
-insolvency_1996_practitioner	LEGAL_PERSON	Juridiskā persona	Legal person
-insolvency_1996_practitioner	NATURAL_PERSON	Fiziskā persona	Natural person
-insolvency_1996_practitioner	REPRESENTATIVE	Administratora pārstāvis	Representative of the Administrator
-insolvency_1996_result	APPLICATION_FOR_INSOLVENCY_REJECTED	Noraidīts maksātnespējas pieteikums	Application for insolvency rejected
-insolvency_1996_result	BANKRUPTCY_COMPLETED_AND_INSOLVENCY_TERMINATED	Bankrota procedūras pabeigšana un maksātnespējas procesa izbeigšana	Bankruptcy proceedings completed and insolvency proceedings terminated
-insolvency_1996_result	BANKRUPTCY_INITIATED_AND_COMPLETED	Uzsākta un pabeigta bankrota procedūra	Bankruptcy proceedings initiated and completed
-insolvency_1996_result	DEBTOR_SETTLED_ALL_OBLIGATIONS	Parādnieks nokārtojis visas savas saistības	Debtor has settled all of its obligations
-insolvency_1996_result	DEBTOR_SETTLED_ALL_OBLIGATIONS_WHICH_FALLEN_DUE_AND_ASSETS_EXCEED_REMAINING_DEBT	Parādnieks nokārtojis visas savas saistības, kurām iestājies izpildes termiņš un tā aktīvi pārsniedz atlikušo parādu summu	Debtor has settled all of the obligations which have fallen due and its assets exceed the remaining debt amount
-insolvency_1996_result	INSOLVENCY_MATTER_CLOSED_IN_THE_COURT	Izbeigta tiesā maksātnespējas lieta	Insolvency matter closed in the court
-insolvency_1996_result	NO_CREDITOR_HAVE_APPLIED	Līdz izsludinātā termiņa beigām nav pieteicies neviens kreditors	No creditor have applied within the notified period
-insolvency_1996_result	REHABILITATION_PROCEDURE_COMPLETED	Pabeigts sanācijas process	Rehabilitation procedure completed
 insolvency_certificate	A	Sertifikāts	Certificate (until 2018)
 insolvency_certificate	B	Amata apliecība	Certificate (from 2018)
 insolvency_certificate_ending	ANNULLED	Sertifikāta anulēšana	Certificate annulled
@@ -347,24 +307,6 @@ insolvency_proceeding_subtype	SECONDARY	Sekundārā maksātnespējas procedūra	
 insolvency_proceeding_subtype	TERRITORIAL	Teritoriālā maksātnespējas procedūra	Territorial insolvency proceeding
 insolvency_proceeding_type	CROSS_BORDER	Pārrobežu process	Cross-border proceeding
 insolvency_proceeding_type	NATIONAL	Nacionālais process	National proceeding
-instittution_form	ASSOCIATION	Biedrība (Sab.org.)	Association (Public Organisation)
-instittution_form	COMPANY	Uzņēmējsabiedrība	Business Company
-instittution_form	GROUP_OF_PERSONS	Personu grupa	Group of Persons
-instittution_form	IN_PUBLIC_OFFERING	Publiskajā piedāvājumā	In public offering
-instittution_form	LOCAL_AUTHORITY	Pašvaldības iestāde	Local Government Institution
-instittution_form	MINISTRY	Ministrija	Ministry
-instittution_form	MUNICIPALITY	Pašvaldība	Local Government
-instittution_form	NATURAL_PERSON	Fiziska persona	Natural person
-instittution_form	PENSION_FUND	pensiju fonds	Pension Fund
-instittution_form	PLANNING_REGION	Plānošanas reģions	Planning Region
-instittution_form	POLITICAL_ORGANISATION	Politiska organizācija	Political Organisation
-instittution_form	RELIGIOUS_ORGANISATION	Reliģiska organizācija	Religious Organisation
-instittution_form	REPRESENTATIVE_OFFICE	Pārstāvniecība	Representative Office
-instittution_form	STATE	Valsts	State 
-instittution_form	STATE_INSTITUTION	Valsts iestāde	State Institution
-instittution_form	TO_BOARD	Valdei	To Board
-instittution_form	TRADE_UNION	Arodbiedrība	Trade Union
-instittution_form	UNIVERSITY	Universitāte (akadēmija)	University (Academy)
 legal_act	DECISION	Lēmums	Decision
 legal_act	LAW	Likums	Law
 legal_act	ORDER	Rīkojums	Order
@@ -479,91 +421,90 @@ nature_of_control	OTHER_TYPE_OF_CONTROL	cits	other
 nature_of_control	VIA_ARRANGEMENT_AS_AUTHORIZING_PERSON	caur juridisko veidojumu kā pilnvarotājs	via legal arrangement as the authorizing person
 nature_of_control	VIA_ARRANGEMENT_AS_FOUNDER	caur juridisko veidojumu kā dibinātājs	via legal arrangement as the founder
 nature_of_control	VIA_ARRANGEMENT_AS_MANAGING_PERSON	caur juridisko veidojumu kā pārvaldītājs	via legal arrangement as the managing person
-officer_position	ADMINISTRATIVE_MANAGER	Iestādes administratīvais vadītājs	Administrative Manager
-officer_position	GENERAL_MANAGER	Iestādes vadītājs	General Manager
-position	""	""	""
-position	ACCOUNTANT	Grāmatvedis	Accountant
-position	ACTING_CHIEF_ACCOUNTANT	Galvenā grāmatveža v.i.	Acting Chief Accountant
-position	ACTING_MANAGER	Pārvaldnieka v.i.	Acting Manager
-position	ADMINISTRATIVE_DIRECTOR	Administratīvais direktors	Administrative Director
-position	ADMINISTRATIVE_MANAGER		Administrative Manager
+pledge_animal	BEE_COLONY	bišu saimes	bišu saimes
+pledge_animal	BOVINE	liellopi	liellopi
+pledge_animal	EQUID	zirgi	zirgi
+pledge_animal	FISHPOND	zivju dīķi	zivju dīķi
+pledge_animal	FUR_ANIMAL	kažokzvēri	kažokzvēri
+pledge_animal	GOAT	kazas	kazas
+pledge_animal	POULTRY	mājputni	mājputni
+pledge_animal	RABBIT	truši	truši
+pledge_animal	SHEEP	aitas	aitas
+pledge_animal	SWINE	cūkas	cūkas
+pledge_change	AMENDMENTS	Grozījumi reģistrēti	Grozījumi reģistrēti
+pledge_change	ANNULLED	Reģistrēta komercķīlas anulēšana	Reģistrēta komercķīlas anulēšana
+pledge_change	ANNULLED_BY_CSN	Akta atcelšana ar valsts galvenā notāra lēmumu	Akta atcelšana ar valsts galvenā notāra lēmumu
+pledge_change	CESSION	Cesija reģistrēta	Cesija reģistrēta
+pledge_change	CORRECTIONS	Labojumi reģistrēti	Labojumi reģistrēti
+pledge_change	EXERCISE_OF_RIGHT_APPLICATION	Pieteikums par komercķīlas tiesības izlietošanu pievienots komercķīlas reģistrācijas lietai	Pieteikums par komercķīlas tiesības izlietošanu pievienots komercķīlas reģistrācijas lietai
+pledge_change	EXERCISE_OF_RIGHT_NOTIFICATION	Reģistrēts paziņojums par komercķīlas tiesību izlietošanu	Reģistrēts paziņojums par komercķīlas tiesību izlietošanu
+pledge_change	FIVE_YEARS_REMOVAL	5 gadu dzēšana	5 gadu dzēšana
+pledge_change	IDENTITY_NUMBER_UPDATED	Aktualizēts personas kods, pamatojoties uz Iedzīvotāju reģistra datiem	Aktualizēts personas kods, pamatojoties uz Iedzīvotāju reģistra datiem
+pledge_change	LEGAL_PERSON_DATA_UPDATE	Juridisko personu datu aktualizēšanas regulārā procedūra	Juridisko personu datu aktualizēšanas regulārā procedūra
+pledge_change	MANAGER	Pārvaldnieka iecelšana reģistrēta	Pārvaldnieka iecelšana reģistrēta
+pledge_change	NEW	Komercķīla reģistrēta	Komercķīla reģistrēta
+pledge_change	NOVATION	Pārjaunojums reģistrēts	Pārjaunojums reģistrēts
+pledge_change	PLEDGEE	Ņēmēja maiņa	Ņēmēja maiņa
+pledge_change	REGISTRATION_ERROR	Kļūda reģistrācijas procesā	Kļūda reģistrācijas procesā
+pledge_change	REMOVAL	Komercķīla dzēsta	Komercķīla dzēsta
+pledge_change	TERM_EXTENDED	Termiņa pagarināšana	Termiņa pagarināšana
+pledge_intellectual_property	DESIGN	Dizainparaugs	Dizainparaugs
+pledge_intellectual_property	PATENT	Patents	Patents
+pledge_intellectual_property	SEMICONDUCTOR_TOPOGRAPHY	Pusvadītāju izstrādājumu topogrāfija	Pusvadītāju izstrādājumu topogrāfija
+pledge_intellectual_property	TRADEMARK	Preču zīme	Preču zīme
+pledge_inventory	GOODS	Gatavie ražojumi un preces pārdošanai	Gatavie ražojumi un preces pārdošanai
+pledge_inventory	RAW_MATERIALS	Izejvielas, pamatmateriāli un palīgmateriāli	Izejvielas, pamatmateriāli un palīgmateriāli
+pledge_party	ACQUIRING_PLEDGEE	Iegūstošais ņēmējs	Iegūstošais ņēmējs
+pledge_party	CEDENT	Cedents	Cedents
+pledge_party	CESSIONARY	Cesionārs	Cesionārs
+pledge_party	COURT	Tiesa	Tiesa
+pledge_party	DEBTOR	Parādnieks	Parādnieks
+pledge_party	MANAGER	Pārvaldnieks	Pārvaldnieks
+pledge_party	PLEDGEE	Ķīlas ņēmējs	Ķīlas ņēmējs
+pledge_party	PLEDGOR	Ķīlas devējs	Ķīlas devējs
+pledge_scope	NOT_PLEDGED	Netiek ieķīlāts	Netiek ieķīlāts
+pledge_scope	POOL_OF_ASSETS	Lietu kopība uz ieķīlāšanas brīdi	Lietu kopība uz ieķīlāšanas brīdi
+pledge_scope	POOL_OF_ASSETS_WITH_FUTURE_PARTS	Lietu kopība uz ieķīlāšanas brīdi, kā arī lietu kopības nākamās sastāvdaļas	Lietu kopība uz ieķīlāšanas brīdi, kā arī lietu kopības nākamās sastāvdaļas
+pledge_scope	SINGLE_ASSET	Atsevišķa lieta	Atsevišķa lieta
+pledge_securities	CAPITAL_SHARES	Kapitāldaļas	Kapitāldaļas
+pledge_securities	COOPERATIVE_SHARES	Pajas	Pajas
+pledge_securities	ORDINARY_SHARES	Parastās akcijas	Parastās akcijas
+pledge_securities	PRIVATE_PLACEMENTS	Slēgtās emisijas akcijas	Slēgtās emisijas akcijas
+pledge_securities	REGISTERED_SHARES	Vārda akcijas	Vārda akcijas
+pledge_securities	SHARES	Akcijas	Akcijas
+pledge_securities	TREASURY_BONDS	Valsts iekšējā aizņēmuma obligācijas	Valsts iekšējā aizņēmuma obligācijas
+pledge_termination	ANNULLED	Anulēta	Anulēta
+pledge_termination	CORRECTED	Labota	Labota
+pledge_termination	FIVE_YEARS_REMOVAL	Piecu gadu dzēšana	Piecu gadu dzēšana
+pledge_termination	NOVATED	Pārjaunota	Pārjaunota
+pledge_termination	REMOVED	Dzēsta	Dzēsta
+pledge_termination	REMOVED_BY_COURT_DECISION	Dzēsta uz tiesas nolēmuma pamata	Dzēsta uz tiesas nolēmuma pamata
+pledge_vehicle	HEAVY_EQUIPMENT	Traktortehnika	Traktortehnika
+pledge_vehicle	ROAD_VEHICLE	Mehāniskie transporta līdzekļi	Mehāniskie transporta līdzekļi
+pledge_vehicle	SMALL_WATERCRAFT	Mazizmēra kuģošanas līdzekļi	Mazizmēra kuģošanas līdzekļi
+position	ADMINISTRATIVE_MANAGER	Administratīvais vadītājs	Administrative Manager
 position	ADMINISTRATOR	Administrators	Administrator
-position	ADVISOR	Konsultants	Advisor
-position	ATTORNEY	Pilnvarnieks	Attorney
+position	ARBITRATOR	Tiesnesis	Arbitrator
 position	AUDITOR	Revidents	Auditor
-position	AUTHORISED_PERSON	Pilnvarotā persona	Authorised person
 position	AUTHORISED_REPRESENTATIVE	Pilnvarotais pārstāvis	Authorised representative
 position	BOARD_MEMBER	Valdes loceklis	Member of the Board
-position	BOARD_SECRETARY	Valdes sekretārs	Secretary of the Board
 position	BRANCH_REPRESENTATIVE	Persona, kura pilnvarota pārstāvēt komersantu darbībās, kas saistītas ar filiāli	A person authorized to represent the merchant in activities related to a branch
-position	CASHIER	Kasieris	Cashier
-position	CHAIR	Priekšsēdētājs	Chairperson
 position	CHAIR_OF_BOARD	Valdes priekšsēdētājs	Chairperson of the Board
-position	CHAIRPERSON_AUDIT_COMMITTEE	Revīzijas komisijas priekšsēdētājs	Chairperson of the Audit Committee
-position	CHAIRPERSON_OF_COUNCIL	Padomes priekšsēdētājs	Chairperson of the Council
-position	CHIEF_ACCOUNTANT	Galvenais grāmatvedis	Chief Accountant
-position	CHIEF_ENGINEER	Galvenais inženieris	Chief Engineer
-position	CHIEF_GEOLOGIST	Galvenais ģeologs	Chief Geologist
-position	CHIEF_PHYSICIAN	Galvenais ārsts	Chief physician
-position	CO_CHAIRPERSON	Līdzpriekšsēdētājs	Co-Chairperson
-position	COMMERCIAL_DIRECTOR	Komercdirektors	Commercial Director
-position	CONCESSION_GRANTOR	Koncedents	Concession Grantor
-position	CONCESSION_HOLDER	Koncesionārs	Concession Holder
+position	CHAIR_OF_SUPERVISORY_BOARD	Padomes priekšsēdētājs	Chairman of the Supervisory Board
 position	CO_OWNER	Līdzīpašnieks	Co-owner
-position	COUNCIL_MEMBER	Padomes loceklis	Member of the Council
-position	DEPUTY_ACCOUNTANT	Grāmatveža vietnieks	Deputy Accountant
-position	DEPUTY_CHAIR_OF_BOARD	Valdes priekšsēdētāja vietnieks	Deputy Chairperson of the Board
-position	DEPUTY_CHAIR_OF_COUNCIL	Padomes priekšsēdētāja vietnieks	Deputy Chairperson of the Council
-position	DEPUTY_CHAIRPERSON	Priekšsēdētāja vietnieks	Deputy Chairperson
-position	DEPUTY_CHIEF_ACCOUNTANT	Galvenā grāmatveža vietnieks	Deputy Chief accountant
-position	DEPUTY_DIRECTOR	Direktora vietnieks	Deputy Director
-position	DEPUTY_DIRECTOR_GENERAL	Ģenerāldirektora vietnieks	Deputy Director General
-position	DEPUTY_EDITOR	Redaktora vietnieks	Deputy Editor
-position	DEPUTY_HEAD_OF_DEPARTMENT	Nodaļas vadītāja vietnieks	Deputy Head of the Department
-position	DEPUTY_MANAGING_DIRECTOR	Rīkotājdirektora vietnieks	Deputy Managing Director
-position	DEPUTY_PRESIDENT	Prezidenta vietnieks	Deputy President
-position	DEPUTY_SECRETARY_GENERAL	Ģenerālsekretāra vietnieks	Deputy Secretary General
-position	DIRECTOR	Direktors	Director
-position	DIRECTOR_ASSISTANT	Direktora palīgs	Assistant to the Director
-position	DIRECTOR_GENERAL	Ģenerāldirektors	Director General
-position	DIRECTOR_OF_ECONOMIC_AFFAIRS	Direktors ekonomiskos jautājumos	Director of Economic Affairs
-position	ECONOMIST	Ekonomists	Economist
-position	EDITOR	Redaktors	Editor
-position	EMPLOYER	Darba devējs	Employer
-position	ENGINEER	Inženieris	Engineer
+position	DEPUTY_CHAIR_OF_SUPERVISORY_BOARD	Padomes priekšsēdētāja vietnieks	Deputy Chairman of the Supervisory Board
 position	ESTATE_TRUSTEE	Mantojuma aizgādnis	Estate Trustee
-position	EXECUTIVE_DIRECTOR	Izpilddirektors	Executive Director
-position	FINANCIAL_DIRECTOR	Finansu direktors	Financial Director
-position	FOUNDER	Dibinātājs	Founder
-position	GENERAL_MANAGER	Iestādes vadītājs	General Manager
-position	GUARDIAN	Aizgādnis	Guardian
-position	GUARDIAN_OF_MINOR	Aizbildnis	Guardian of minors
-position	HEAD	Vadītājs	Head
-position	HEAD_OF_DEPARTMENT	Nodaļas vadītājs	Head of the Department
-position	LEGAL_DIRECTOR	Juridiskais direktors	Legal Director
+position	GENERAL_MANAGER	Vadītājs	General Manager
+position	GUARDIAN	Aizbildnis	Guardian of a minor
 position	LIQUIDATOR	Likvidators	Liquidator
-position	MANAGER	Pārvaldnieks	Manager
-position	MANAGER_2	Menedžers	Manager
+position	MANAGER	Vadītājs	Manager
 position	MANAGING_DIRECTOR	Rīkotājdirektors	Managing Director
 position	MEMBER	Biedrs	Member
-position	NO_POSITION	Nav amata	No position
 position	OWNER	Īpašnieks	Owner
 position	PRESIDENT	Prezidents	President
-position	PRIVATE_PARTNER	Privātais partneris	Private Partner
-position	PROCURATOR	Prokurists	Procurator
-position	PRODUCTION_DIRECTOR	Ražošanas direktors	Production Director
-position	REPRESENTATIVE_OF_ADMINISTRATOR	Administratora pārstāvis	Representative of the Administrator
-position	REPRESENTATIVE_OF_PUBLIC_PARTNER	Publiskā partnera pārstāvis	Representative of Public Partner
+position	REPRESENTATIVE_MANAGER	Pārvaldnieks	Representative manager
 position	REPRESENTATIVE_OF_THE_LIQUIDATOR	Likvidatora pārstāvis	Representative of the Liquidator
-position	SECRETARY	Sekretārs	Secretary
-position	SECRETARY_AUDIT_COMMITTEE	Revīzijas komisijas sekretārs	Secretary of the Audit Committee
-position	SECRETARY_GENERAL	Ģenerālsekretārs	Secretary-General
-position	SENATOR	Senators	Senator
-position	TECHNICAL_DIRECTOR	Tehniskais direktors	Technical Director
-position	TECHNOLOGIST	Tehnologs	Technologist
-position	TREASURER	Mantzinis	Treasurer
-position	VICE_DIRECTOR	Vicedirektors	Vice-Director
-position	VICE_PRESIDENT	Viceprezidents	Vice-president
+position	SUPERVISORY_BOARD_MEMBER	Padomes loceklis	Member of the Supervisory Board
 register	ARBITRAGE	Šķīrējtiesu reģistrs	Arbitrage Register
 register	ASSOCIATIONS_AND_FOUNDATIONS	Biedrību un nodibinājumu reģistrs	Register of Associations and Foundations
 register	COMMERCIAL	Komercreģistrs	Commercial Register
@@ -664,9 +605,6 @@ status	REGISTERED	Reģistrēts	Registered
 status	REMOVED	Izslēgts no reģistra	Removed from the register
 status_details	IN_LIQUIDATION	Aktīvs likvidācijas process	Pending liquidation proceeding
 status_details	REORGANIZED	Izslēgts reorganizācijas rezultātā	Removed from the register as a result of reorganization
-status_ppi	ANNULLED	Izslēgts no reģistra	Removed from the register
-status_ppi	REGISTERED	Anulēts	Annulled
-status_ppi	REMOVED	Reģistrēts	Registered
 subordination	CONTROL	Pakļautībā 	Under control
 subordination	SUPERVISION	Pārraudzībā	Under supervision
 various_notice	ADDRESS_TRANSFER_PROPOSAL	Adreses maiņas priekšlikums	The address transfer proposal
