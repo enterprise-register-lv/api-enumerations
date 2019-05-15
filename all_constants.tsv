@@ -421,67 +421,67 @@ nature_of_control	OTHER_TYPE_OF_CONTROL	cits	other
 nature_of_control	VIA_ARRANGEMENT_AS_AUTHORIZING_PERSON	caur juridisko veidojumu kā pilnvarotājs	via legal arrangement as the authorizing person
 nature_of_control	VIA_ARRANGEMENT_AS_FOUNDER	caur juridisko veidojumu kā dibinātājs	via legal arrangement as the founder
 nature_of_control	VIA_ARRANGEMENT_AS_MANAGING_PERSON	caur juridisko veidojumu kā pārvaldītājs	via legal arrangement as the managing person
-pledge_animal	BEE_COLONY	bišu saimes	bišu saimes
-pledge_animal	BOVINE	liellopi	liellopi
-pledge_animal	EQUID	zirgi	zirgi
-pledge_animal	FISHPOND	zivju dīķi	zivju dīķi
-pledge_animal	FUR_ANIMAL	kažokzvēri	kažokzvēri
-pledge_animal	GOAT	kazas	kazas
-pledge_animal	POULTRY	mājputni	mājputni
-pledge_animal	RABBIT	truši	truši
-pledge_animal	SHEEP	aitas	aitas
-pledge_animal	SWINE	cūkas	cūkas
-pledge_change	AMENDMENTS	Grozījumi reģistrēti	Grozījumi reģistrēti
-pledge_change	ANNULLED	Reģistrēta komercķīlas anulēšana	Reģistrēta komercķīlas anulēšana
-pledge_change	ANNULLED_BY_CSN	Akta atcelšana ar valsts galvenā notāra lēmumu	Akta atcelšana ar valsts galvenā notāra lēmumu
-pledge_change	CESSION	Cesija reģistrēta	Cesija reģistrēta
-pledge_change	CORRECTIONS	Labojumi reģistrēti	Labojumi reģistrēti
-pledge_change	EXERCISE_OF_RIGHT_APPLICATION	Pieteikums par komercķīlas tiesības izlietošanu pievienots komercķīlas reģistrācijas lietai	Pieteikums par komercķīlas tiesības izlietošanu pievienots komercķīlas reģistrācijas lietai
-pledge_change	EXERCISE_OF_RIGHT_NOTIFICATION	Reģistrēts paziņojums par komercķīlas tiesību izlietošanu	Reģistrēts paziņojums par komercķīlas tiesību izlietošanu
-pledge_change	FIVE_YEARS_REMOVAL	5 gadu dzēšana	5 gadu dzēšana
-pledge_change	IDENTITY_NUMBER_UPDATED	Aktualizēts personas kods, pamatojoties uz Iedzīvotāju reģistra datiem	Aktualizēts personas kods, pamatojoties uz Iedzīvotāju reģistra datiem
-pledge_change	LEGAL_PERSON_DATA_UPDATE	Juridisko personu datu aktualizēšanas regulārā procedūra	Juridisko personu datu aktualizēšanas regulārā procedūra
-pledge_change	MANAGER	Pārvaldnieka iecelšana reģistrēta	Pārvaldnieka iecelšana reģistrēta
-pledge_change	NEW	Komercķīla reģistrēta	Komercķīla reģistrēta
-pledge_change	NOVATION	Pārjaunojums reģistrēts	Pārjaunojums reģistrēts
-pledge_change	PLEDGEE	Ņēmēja maiņa	Ņēmēja maiņa
-pledge_change	REGISTRATION_ERROR	Kļūda reģistrācijas procesā	Kļūda reģistrācijas procesā
-pledge_change	REMOVAL	Komercķīla dzēsta	Komercķīla dzēsta
-pledge_change	TERM_EXTENDED	Termiņa pagarināšana	Termiņa pagarināšana
-pledge_intellectual_property	DESIGN	Dizainparaugs	Dizainparaugs
-pledge_intellectual_property	PATENT	Patents	Patents
-pledge_intellectual_property	SEMICONDUCTOR_TOPOGRAPHY	Pusvadītāju izstrādājumu topogrāfija	Pusvadītāju izstrādājumu topogrāfija
-pledge_intellectual_property	TRADEMARK	Preču zīme	Preču zīme
-pledge_inventory	GOODS	Gatavie ražojumi un preces pārdošanai	Gatavie ražojumi un preces pārdošanai
-pledge_inventory	RAW_MATERIALS	Izejvielas, pamatmateriāli un palīgmateriāli	Izejvielas, pamatmateriāli un palīgmateriāli
-pledge_party	ACQUIRING_PLEDGEE	Iegūstošais ņēmējs	Iegūstošais ņēmējs
-pledge_party	CEDENT	Cedents	Cedents
-pledge_party	CESSIONARY	Cesionārs	Cesionārs
-pledge_party	COURT	Tiesa	Tiesa
-pledge_party	DEBTOR	Parādnieks	Parādnieks
-pledge_party	MANAGER	Pārvaldnieks	Pārvaldnieks
-pledge_party	PLEDGEE	Ķīlas ņēmējs	Ķīlas ņēmējs
-pledge_party	PLEDGOR	Ķīlas devējs	Ķīlas devējs
-pledge_scope	NOT_PLEDGED	Netiek ieķīlāts	Netiek ieķīlāts
-pledge_scope	POOL_OF_ASSETS	Lietu kopība uz ieķīlāšanas brīdi	Lietu kopība uz ieķīlāšanas brīdi
-pledge_scope	POOL_OF_ASSETS_WITH_FUTURE_PARTS	Lietu kopība uz ieķīlāšanas brīdi, kā arī lietu kopības nākamās sastāvdaļas	Lietu kopība uz ieķīlāšanas brīdi, kā arī lietu kopības nākamās sastāvdaļas
-pledge_scope	SINGLE_ASSET	Atsevišķa lieta	Atsevišķa lieta
-pledge_securities	CAPITAL_SHARES	Kapitāldaļas	Kapitāldaļas
-pledge_securities	COOPERATIVE_SHARES	Pajas	Pajas
-pledge_securities	ORDINARY_SHARES	Parastās akcijas	Parastās akcijas
-pledge_securities	PRIVATE_PLACEMENTS	Slēgtās emisijas akcijas	Slēgtās emisijas akcijas
-pledge_securities	REGISTERED_SHARES	Vārda akcijas	Vārda akcijas
-pledge_securities	SHARES	Akcijas	Akcijas
-pledge_securities	TREASURY_BONDS	Valsts iekšējā aizņēmuma obligācijas	Valsts iekšējā aizņēmuma obligācijas
-pledge_termination	ANNULLED	Anulēta	Anulēta
-pledge_termination	CORRECTED	Labota	Labota
-pledge_termination	FIVE_YEARS_REMOVAL	Piecu gadu dzēšana	Piecu gadu dzēšana
-pledge_termination	NOVATED	Pārjaunota	Pārjaunota
-pledge_termination	REMOVED	Dzēsta	Dzēsta
-pledge_termination	REMOVED_BY_COURT_DECISION	Dzēsta uz tiesas nolēmuma pamata	Dzēsta uz tiesas nolēmuma pamata
-pledge_vehicle	HEAVY_EQUIPMENT	Traktortehnika	Traktortehnika
-pledge_vehicle	ROAD_VEHICLE	Mehāniskie transporta līdzekļi	Mehāniskie transporta līdzekļi
-pledge_vehicle	SMALL_WATERCRAFT	Mazizmēra kuģošanas līdzekļi	Mazizmēra kuģošanas līdzekļi
+pledge_animal	BEE_COLONY	bišu saimes	bee colonies
+pledge_animal	BOVINE	liellopi	bovine animals
+pledge_animal	EQUID	zirgi	equidae
+pledge_animal	FISHPOND	zivju dīķi	fishponds
+pledge_animal	FUR_ANIMAL	kažokzvēri	fur animals
+pledge_animal	GOAT	kazas	goats
+pledge_animal	POULTRY	mājputni	poultry
+pledge_animal	RABBIT	truši	rabbits
+pledge_animal	SHEEP	aitas	sheep
+pledge_animal	SWINE	cūkas	swine
+pledge_change	AMENDMENTS	Grozījumi reģistrēti	Amendments registered
+pledge_change	ANNULLED	Reģistrēta komercķīlas anulēšana	Commercial pledge annulled
+pledge_change	ANNULLED_BY_CSN	Akta atcelšana ar valsts galvenā notāra lēmumu	Commercial pledge annulled by the decision of the Chief State Notary 
+pledge_change	CESSION	Cesija reģistrēta	Cession registered
+pledge_change	CORRECTIONS	Labojumi reģistrēti	Corrections registered
+pledge_change	EXERCISE_OF_RIGHT_APPLICATION	Pieteikums par komercķīlas tiesības izlietošanu pievienots komercķīlas reģistrācijas lietai	Application for the exercise of the right of commercial pledge added to the registration file of commercial pledge 
+pledge_change	EXERCISE_OF_RIGHT_NOTIFICATION	Reģistrēts paziņojums par komercķīlas tiesību izlietošanu	Notification regarding the exercise of the right of commercial pledge registered 
+pledge_change	FIVE_YEARS_REMOVAL	5 gadu dzēšana	Removed due to the reason that five years have passed since the registration without notification of extension (rule effective until 2015)
+pledge_change	IDENTITY_NUMBER_UPDATED	Aktualizēts personas kods, pamatojoties uz Iedzīvotāju reģistra datiem	Latvian identity number updated based on the data of the Population Register
+pledge_change	LEGAL_PERSON_DATA_UPDATE	Juridisko personu datu aktualizēšanas regulārā procedūra	Regular procedure for updating data of legal persons
+pledge_change	MANAGER	Pārvaldnieka iecelšana reģistrēta	Appointment of manager registered
+pledge_change	NEW	Komercķīla reģistrēta	New commercial pledge registered
+pledge_change	NOVATION	Pārjaunojums reģistrēts	Novation registered
+pledge_change	PLEDGEE	Ņēmēja maiņa	Change of pledgee 
+pledge_change	REGISTRATION_ERROR	Kļūda reģistrācijas procesā	Error in the registration process 
+pledge_change	REMOVAL	Komercķīla dzēsta	Commercial pledge removed
+pledge_change	TERM_EXTENDED	Termiņa pagarināšana	Extension of the five years term  (rule effective until 2015)
+pledge_intellectual_property	DESIGN	Dizainparaugs	Design
+pledge_intellectual_property	PATENT	Patents	Patent
+pledge_intellectual_property	SEMICONDUCTOR_TOPOGRAPHY	Pusvadītāju izstrādājumu topogrāfija	Topography of semiconductor products
+pledge_intellectual_property	TRADEMARK	Preču zīme	Trademark
+pledge_inventory	GOODS	Gatavie ražojumi un preces pārdošanai	Finished products and goods for sale 
+pledge_inventory	RAW_MATERIALS	Izejvielas, pamatmateriāli un palīgmateriāli	Raw materials, basic materials, and consumables 
+pledge_party	ACQUIRING_PLEDGEE	Iegūstošais ņēmējs	Acquiring pledgee
+pledge_party	CEDENT	Cedents	Cedent
+pledge_party	CESSIONARY	Cesionārs	Cessionary
+pledge_party	COURT	Tiesa	Court
+pledge_party	DEBTOR	Parādnieks	Debtor
+pledge_party	MANAGER	Pārvaldnieks	Manager
+pledge_party	PLEDGEE	Ķīlas ņēmējs	Pledgee
+pledge_party	PLEDGOR	Ķīlas devējs	Pledgor
+pledge_scope	NOT_PLEDGED	Netiek ieķīlāts	Not pledged
+pledge_scope	POOL_OF_ASSETS	Lietu kopība uz ieķīlāšanas brīdi	Pool of assets at the time of pledging 
+pledge_scope	POOL_OF_ASSETS_WITH_FUTURE_PARTS	Lietu kopība uz ieķīlāšanas brīdi, kā arī lietu kopības nākamās sastāvdaļas	Pool of assets at the time of pledging, as well as all further future parts of the pool
+pledge_scope	SINGLE_ASSET	Atsevišķa lieta	Single asset
+pledge_securities	CAPITAL_SHARES	Kapitāldaļas	Capital shares
+pledge_securities	COOPERATIVE_SHARES	Pajas	Cooperative shares
+pledge_securities	ORDINARY_SHARES	Parastās akcijas	Ordinary shares
+pledge_securities	PRIVATE_PLACEMENTS	Slēgtās emisijas akcijas	Private  placements
+pledge_securities	REGISTERED_SHARES	Vārda akcijas	Registered shares
+pledge_securities	SHARES	Akcijas	Shares
+pledge_securities	TREASURY_BONDS	Valsts iekšējā aizņēmuma obligācijas	Treasury bonds
+pledge_termination	ANNULLED	Anulēta	Annulled
+pledge_termination	CORRECTED	Labota	Corrected
+pledge_termination	FIVE_YEARS_REMOVAL	Piecu gadu dzēšana	Removed due to the reason that five years have passed since the registration without notification of extension (rule effective until 2015)
+pledge_termination	NOVATED	Pārjaunota	Novated
+pledge_termination	REMOVED	Dzēsta	Removed
+pledge_termination	REMOVED_BY_COURT_DECISION	Dzēsta uz tiesas nolēmuma pamata	Removed on the basis of a court decision
+pledge_vehicle	HEAVY_EQUIPMENT	Traktortehnika	Heavy equipment
+pledge_vehicle	ROAD_VEHICLE	Mehāniskie transporta līdzekļi	Road vehicles 
+pledge_vehicle	SMALL_WATERCRAFT	Mazizmēra kuģošanas līdzekļi	Small-size watercraft
 position	ADMINISTRATIVE_MANAGER	Administratīvais vadītājs	Administrative Manager
 position	ADMINISTRATOR	Administrators	Administrator
 position	ARBITRATOR	Tiesnesis	Arbitrator
