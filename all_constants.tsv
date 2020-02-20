@@ -103,26 +103,26 @@ change_reason	ADDRESS_UPDATED	"Aktualizēts, pamatojoties uz likuma ""Par Latvij
 change_reason	ANNULLED	Anulēts	Entry annulled
 change_reason	EQUITY_RECALCULATED	Pamatkapitāls pārrēķināts, pamatojoties uz Komerclikuma pārejas noteikumu 52.p	The equity capital recalculated in conformity with Paragraph 52 of the transitional provisions of the Commercial Law
 change_reason	LATVIAN_IN_UPDATED	Aktualizēts personas kods, pamatojoties uz Iedzīvotāju reģistra datiem	Latvian identity number updated according to data from the Latvian Population Register
-cooperative_form	AGRICULTURAL_SERVICES	Lauksaimniecības pakalpojumu kooperatīvā sabiedrība	Agricultural Services Cooperative Society
-cooperative_form	APARTMENT_OWNERS	Dzīvokļu īpašnieku kooperatīvā sabiedrība	Apartment Owners Cooperative Society
-cooperative_form	BOAT_GARAGE_OWNERS	Laivu garāžu īpašnieku kooperatīvā sabiedrība	Boat Garage Owners Cooperative Society
-cooperative_form	CAR_GARAGE_OWNERS	Automašīnu garāžu īpašnieku kooperatīvā sabiedrība	Car Garage Owners Cooperative Society
-cooperative_form	HORTICULTURE	Dārzkopības kooperatīvā sabiedrība	Horticulture Cooperative Society
-cooperative_form	OTHER_TYPE	Cits kooperatīvās sabiedrības veids	Other Type of Cooperative Society
+cooperative_form	AGRICULTURAL_SERVICES	lauksaimniecības pakalpojumu kooperatīvā sabiedrība	Agricultural Services Cooperative Society
+cooperative_form	APARTMENT_OWNERS	dzīvokļu īpašnieku kooperatīvā sabiedrība	Apartment Owners Cooperative Society
+cooperative_form	BOAT_GARAGE_OWNERS	laivu garāžu īpašnieku kooperatīvā sabiedrība	Boat Garage Owners Cooperative Society
+cooperative_form	CAR_GARAGE_OWNERS	automašīnu garāžu īpašnieku kooperatīvā sabiedrība	Car Garage Owners Cooperative Society
+cooperative_form	HORTICULTURE	dārzkopības kooperatīvā sabiedrība	Horticulture Cooperative Society
+cooperative_form	OTHER_TYPE	cits kooperatīvās sabiedrības veids	Other Type of Cooperative Society
 decisive_influence	GROUP_OF_COMPANIES_CONTRACT	Koncernu līgums	Group of Companies Contract
 decisive_influence	PARTICIPATION	Līdzdalība	Participation
 decisive_influence_details	CONTROL	Pārvaldes līgums	Control Agreement
 decisive_influence_details	CONTROL_AND_PROFIT_TRANSFER	Pārvaldes un peļņas nodošanas līgums	Control and Profit Transfer Agreement 
-decisive_influence_details	HAS_EXERCISED_RIGHTS	Uzņēmums ir sabiedrības dalībnieks un, izmantojot vienīgi savas dalībnieka tiesības, pārskata gada laikā ir iecēlis sabiedrības izpildinstitūcijas vai pārraudzības institūcijas locekļu vairākumu	Undertaking is a shareholder of the company and has only exercised its shareholder’s rights to elect the majority of members of the company’s executive body or supervisory body during the accounting year
-decisive_influence_details	HAS_MAJORITY	Uzņēmumam sabiedrībā ir balsstiesību vairākums	Undertaking has the majority of votes in the company
-decisive_influence_details	HAS_RIGHTS	Uzņēmumam kā sabiedrības dalībniekam ir tiesības iecelt vai atcelt sabiedrības izpildinstitūcijas vai pārraudzības institūcijas locekļu vairākumu	Undertaking as a shareholder of the company has the right to elect or dismiss the majority of members of the company’s executive body or supervisory body
-decisive_influence_details	HAS_SOLE_CONTROL	Uzņēmums ir sabiedrības dalībnieks un, pamatojoties uz vienošanos ar citiem dalībniekiem, viens pats kontrolē balsstiesību vairākumu sabiedrībā	Undertaking is a shareholder of the company and has sole control over the majority of voting rights in the company based on the agreement with other shareholders
+decisive_influence_details	HAS_EXERCISED_RIGHTS	uzņēmums ir sabiedrības dalībnieks un, izmantojot vienīgi savas dalībnieka tiesības, pārskata gada laikā ir iecēlis sabiedrības izpildinstitūcijas vai pārraudzības institūcijas locekļu vairākumu	Undertaking is a shareholder of the company and has only exercised its shareholder’s rights to elect the majority of members of the company’s executive body or supervisory body during the accounting year
+decisive_influence_details	HAS_MAJORITY	uzņēmumam sabiedrībā ir balsstiesību vairākums	Undertaking has the majority of votes in the company
+decisive_influence_details	HAS_RIGHTS	uzņēmumam kā sabiedrības dalībniekam ir tiesības iecelt vai atcelt sabiedrības izpildinstitūcijas vai pārraudzības institūcijas locekļu vairākumu	Undertaking as a shareholder of the company has the right to elect or dismiss the majority of members of the company’s executive body or supervisory body
+decisive_influence_details	HAS_SOLE_CONTROL	uzņēmums ir sabiedrības dalībnieks un, pamatojoties uz vienošanos ar citiem dalībniekiem, viens pats kontrolē balsstiesību vairākumu sabiedrībā	Undertaking is a shareholder of the company and has sole control over the majority of voting rights in the company based on the agreement with other shareholders
 decisive_influence_details	PROFIT_TRANSFER	Peļņas nodošanas līgums	Profit Transfer Agreement
 document	""	Kreditoru sapulces protokols/lēmums	Minutes/decision of the creditors’ meeting
 document	ACCEPTANCE_CONVEYANCE_ACT	Pieņemšanas-nodošanas akti	Acceptance-conveyance act
 document	AGENDA_CREDITORS_MEETING	Kreditoru sapulces darba kārtība	Agenda of the creditors’ meeting
 document	AGREEMENT_BETWEEN_FOUNDER_AND_PUBLISHER	Līgums starp dibinātāju un izdevēju (MIL)	Agreement between a founder and a publisher (MIL)
-document	AMENDMENTS_TO_AOA	Statūtu grozījumi / projekti	Amendments to the Articles of Association / drafts
+document	AMENDMENTS_TO_AOA	Statūtu grozījumi	Amendments to the Articles of Association
 document	AMENDMENTS_TO_PLAN_FOR_SALE_OF_PROPERTY_OF_NP	Fiziskās personas mantas pārdošanas un kreditoru prasījumu apmierināšanas plāna grozījumi	Amendments to the plan for the sale of the property of a natural person and for settling the claims of creditors 
 document	AMENDMENTS_TO_PLAN_OF_MEASURES_OF_EXTRAJUDICIAL_LEGAL_PROTECTION_PROCEEDING	Ārpustiesas tiesiskās aizsardzības procesa pasākumu plāna grozījumi	Amendments to the plan of measures of the out-of-court legal protection proceedings
 document	AMENDMENTS_TO_PLAN_OF_MEASURES_OF_LEGAL_PROTECTION_PROCEEDING	Tiesiskās aizsardzības procesa pasākumu plāna grozījumi	Amendments to the plan of measures of the legal protection proceedings
@@ -154,6 +154,7 @@ document	BALANCE_SHEET	Bilance	Balance sheet
 document	BANK_STATEMENT_REGARDING_PAYMENT_OF_EQUITY	Bankas izziņas vai cits dokuments par daļas apmaksu	Bank statements or other document regarding the payment of the equity 
 document	BOARD_MEMBER_RESIGNATION	Valdes locekļa paziņojums par amata atstāšanu	Notice of a member of the Board regarding the resignation
 document	BOARD_STATEMENT_REGARDING_EQUITY	Valdes paziņojumi par pamatkapitāla apmaksas stāvokli	Statement of the Board regarding the payment of the equity
+document	BO_JUSTIFICATION	Patieso labuma guvēju informācijas pamatojums	Justification supporting beneficial ownership disclosure statement
 document	CERTIFIED_COPY_DECLARATION_OF_INSOLVENCY	Nolēmuma par maksātnespējas procesa pasludināšanu un likvidatora iecelšanu apliecināts noraksts	Certified copy of the decision on the declaration of insolvency proceedings and the appointment of the liquidator
 document	CERTIFIED_TRANSLATION_DECLARATION_OF_INSOLVENCY	Nolēmuma par maksātnespējas procesa pasludināšanu un likvidatora iecelšanu apliecināts tulkojums valsts valodā	Certified translation of the decision on the declaration of insolvency proceedings and the appointment of the liquidator into the official language
 document	CESSION_AGREEMENT	Cesijas līgums	Cession agreement
@@ -166,10 +167,11 @@ document	CONSENT_OF_AUDITOR	Revidenta piekrišana	Consent of the auditor
 document	CONSENT_OF_BOARD_MEMBER	Valdes locekļa / rīkotājdirektora piekrišana	Consent of a member of the Board / executive director
 document	CONSENT_OF_LIQUIDATOR	Likvidatora piekrišana	Consent of the liquidator
 document	CONSENT_OF_SUPERVISORY_BOARD	Padomes locekļu piekrišana	Consent of members of the supervisory board
+document	CONSENT_OF_SWORN_ADVOCATES_COUNCIL	Latvijas Zvērinātu advokātu padomes piekrišana	Consent of the Latvian Council of Sworn Advocates
 document	CONSOLIDATED_STATEMENT	Konsolidētais gada pārskats	Consolidated financial statement
 document	CONTRACT_BASIS_FOR_CLAIM_TO_BE_SECURED	Līgums, no kura izriet nodrošināmais prasījums	Contract which is the basis for the claim to be secured
 document	CONTRACT_COMMERCIAL_PLEDGE	Līgums, komercķīlas	Contract, commercial pledge
-document	COPY_OF_PASSPORT	Pases kopijas	Copies of the passport
+document	COPY_OF_PASSPORT	Personu apliecinoša dokumenta kopija	Copy of the personal identification document
 document	COURT_COVER_LETTER	Tiesas pavadvēstule	Court cover letter
 document	COURT_DECISION	Tiesas lēmums/spriedums	Court decision/judgement
 document	COURT_DECISION_ON_TERMINATION_OF_ACTIVITIES	Tiesas lēmums par sabiedrības darbības izbeigšanu	Court decision on the termination of the company’s activities
@@ -224,6 +226,7 @@ document	PLAN_OF_MEASURES_OF_EXTRAJUDICIAL_LEGAL_PROTECTION_PROCEEDINGS	Ārpusti
 document	PLAN_OF_MEASURES_OF_LEGAL_PROTECTION_PROCEEDING	Tiesiskās aizsardzības procesa pasākumu plāns	Plan of measures of the legal protection proceedings
 document	POLITICAL_PARTY_PROGRAMME	Partijas programma	Political Party’s Programme
 document	POWER_OF_ATTORNEY	Pilnvara, pilnvarojuma akts	Power of attorney, act of empowerment
+document	PPP_CONTRACT	Publiskās un privātās partnerības līgums	Public-private partnership contract
 document	PROPOSAL_TO_TRANSFER_LEGAL_ADDRESS_OF_EEIG	Priekšlikums mainīt Eiropas ekonomisko interešu grupas juridisko adresi	Proposal to transfer the legal address of a European Economic Interest Grouping
 document	PROPOSAL_TO_TRANSFER_LEGAL_ADDRESS_OF_SCE	Priekšlikums mainīt Eiropas kooperatīvās sabiedrības juridisko adresi	Proposal to transfer the legal address of a European Cooperative Society
 document	PROPOSAL_TO_TRANSFER_LEGAL_ADDRESS_OF_SE	Priekšlikums mainīt Eiropas komercsabiedrības juridisko adresi	Proposal to transfer the legal address of a European company
@@ -252,7 +255,7 @@ document	STATEMENT	Izziņa	Statement
 document	STATEMENT_FROM_HOLDER_OF_MOVABLE_PROPERTY_REGISTER	Izziņa no kustamo lietu reģistra turētāja	Statement from the holder of the movable property register
 document	STATEMENT_OF_STATE_ARCHIVES	Valsts arhīva izziņa vai tam pielīdzināts dokuments	Statement of the State Archives or an equivalent document
 document	STATEMENT_REGARDING_BENEFICIAL_OWNERS	Paziņojums par patiesajiem labuma guvējiem	Statement regarding the beneficial owners
-document	STATEMENT_REGARDING_ORGANISATION_OF_FOREIGN_COMPANY	Izziņa par ārvalsts komersanta organizāciju	Statement regarding the organisation of a foreign company
+document	STATEMENT_REGARDING_FOREIGN_COMPANY	Izziņa par ārvalsts komersantu, organizāciju	Statement regarding foreign company, organisation
 document	STATEMENT_REGARDING_RELIGIOUS_ORGANISATION	Izziņas par RO/RO iestādi	Statement regarding religious organisation or institution
 document	SUBMISSION	Iesniegums	Submission/Application
 document	SUPERVISORY_BOARD_MEMBER_RESIGNATION	Padomes locekļa paziņojums par amata atstāšanu	Notice of a member of the supervisory board regarding the resignation
@@ -382,6 +385,7 @@ legal_form	UNDERTAKING_OF_COMPANY_UZN	Uzņēmējsabiedrības uzņēmums (vēstur
 legal_form	UNION_OF_COOPERATIVE_SOCIETIES_COMPANY_KSS	Kooperatīvo biedrību savienības uzņēmums  (vēsturiska forma)	Undertaking of Union of Co-operative Societies (historical form)
 legal_form	UNION_OF_COOPRATIVE_SOCIETIES_KBS	Kooperatīvo biedrību savienība  (vēsturiska forma)	Union of Co-oprative Societies  (historical form)
 legislation	139367	Politisko partiju likums (https://likumi.lv/ta/id/139367)	Political Party Law
+legislation	166663	Maksātnespējas likums (https://likumi.lv/ta/id/166663)	Insolvency Law (2008-2010)
 legislation	194597	Publiskās un privātās partnerības likums (https://likumi.lv/ta/id/194597)	Law on Public-Private Partnership
 legislation	214590	Maksātnespējas likums (https://likumi.lv/ta/id/214590)	Insolvency Law
 legislation	265207	Arodbiedrību likums (https://likumi.lv/ta/id/265207)	Law on Trade Unions
@@ -389,6 +393,7 @@ legislation	269189	Šķīrējtiesu likums (https://likumi.lv/ta/id/269189)	Arbit
 legislation	298656	Kooperatīvo sabiedrību likums (https://likumi.lv/ta/id/298656)	Co-operative Societies Law
 legislation	36874	Reliģisko organizāciju likums (https://likumi.lv/ta/id/36874)	Law On Religious Organisations
 legislation	37426	Kredītiestāžu likums (https://likumi.lv/ta/id/37426)	Credit Institution Law
+legislation	40681	Par uzņēmumu un uzņēmējsabiedrību maksātnespēju (https://likumi.lv/ta/id/40681)	On the Insolvency of Undertakings and Companies
 legislation	50685	Komercķīlas likums (https://likumi.lv/ta/id/50685)	Commercial Pledge Law
 legislation	5490	Komerclikums (https://likumi.lv/ta/id/5490)	The Commercial Law
 legislation	64879	Par presi un citiem masu informācijas līdzekļiem (https://likumi.lv/ta/id/64879)	On the Press and Other Mass Media
@@ -396,6 +401,7 @@ legislation	66072	Ārvalstu komersantu un organizāciju pārstāvniecību un pā
 legislation	66074	Laulāto mantisko attiecību reģistrācijas kārtība (https://likumi.lv/ta/id/66074)	Procedures for the Registration of Spousal Property Relations
 legislation	66742	Par Latvijas Republikas un Svētā Krēsla līgumu (https://likumi.lv/ta/id/66742)	On the Agreement between the Republic of Latvia and the Holy See
 legislation	722	Koncesiju likums (https://likumi.lv/ta/id/722)	Concessions Law
+legislation	72326	Par uzņēmumu un uzņēmējsabiedrību maksātnespēju un bankrotu (https://likumi.lv/ta/id/72326)	On the Insolvency and Bankruptcy of Undertakings and Companies
 legislation	72428	Par individuālo (ģimenes) uzņēmumu un zemnieka vai zvejnieka saimniecību (https://likumi.lv/doc.php?id=72428)	On individual, family, farm and fishing undertaking
 legislation	72847	Par Latvijas Republikas Uzņēmumu reģistru (https://likumi.lv/ta/id/72847)	On the Enterprise Register of the Republic of Latvia
 legislation	81050	Biedrību un nodibinājumu likums (https://likumi.lv/ta/id/81050)	Associations and Foundations Law
@@ -429,31 +435,31 @@ liquidation_suspension_prohibition_result	IN_REHABILITATION	Sanēts	In rehabilit
 liquidation_suspension_prohibition_result	LIQUIDATED	Likvidēts	Liquidated
 liquidation_suspension_prohibition_result	PROHIBITON_ON_BUSINESS_ACTIVITY_REMOVED	Aizlieguma veikt uzņēmējdarbību atcelšana	Prohibition on business activity removed
 liquidation_suspension_prohibition_result	PROHIBITON_ON_PUBLIC_ACTIVITY_REMOVED	Publiskās darbības vai citas darbības aizlieguma atcelšana	Prohibition on public activity or other activity removed
-nature_of_control	AS_COOPERATIVE_MEMBER	Kā kooperatīvās sabiedrības biedrs	As a cooperative society member
-nature_of_control	AS_FOUNDATION_FOUNDER	Kā nodibinājuma dibinātājs	As a foundation founder
-nature_of_control	AS_MEMBER	Kā dalībnieks	As a member
-nature_of_control	AS_OWNER	Kā īpašnieks	As the owner
-nature_of_control	AS_PARTNERSHIP_MEMBER	Kā personālsabiedrības biedrs	As a partnership member
-nature_of_control	AS_REPRESENTATIVE	Kā izpildinstitūcijas vai pārvaldes institūcijas pārstāvis	As a representative of the executive institution or of the administrative body
-nature_of_control	AS_SHAREHOLDER	Kā akcionārs	As a shareholder
-nature_of_control	AS_SOCIETY_MEMBER	Kā biedrības biedrs	As a society member
-nature_of_control	ON_GROUNDS_OF_AUTHORIZATION	Uz pilnvarojuma līguma pamata	On grounds of the Power of Attorney
-nature_of_control	ON_GROUNDS_OF_BUSINESS_RELATIONS	Uz darījuma attiecību pamata	On grounds of the business relations
-nature_of_control	ON_GROUNDS_OF_PROPERTY_RIGHT	Uz īpašumtiesību pamata	On grounds of the property right
-nature_of_control	OTHER_TYPE_OF_CONTROL	Cits	Other
-nature_of_control	VIA_ARRANGEMENT_AS_AUTHORIZING_PERSON	Caur juridisko veidojumu kā pilnvarotājs	Via legal arrangement as the authorizing person
-nature_of_control	VIA_ARRANGEMENT_AS_FOUNDER	Caur juridisko veidojumu kā dibinātājs	Via legal arrangement as the founder
-nature_of_control	VIA_ARRANGEMENT_AS_MANAGING_PERSON	Caur juridisko veidojumu kā pārvaldītājs	Via legal arrangement as the managing person
-pledge_animal	BEE_COLONY	Bišu saimes	Bee colonies
-pledge_animal	BOVINE	Liellopi	Bovine animals
-pledge_animal	EQUID	Zirgi	Equidae
-pledge_animal	FISHPOND	Zivju dīķi	Fishponds
-pledge_animal	FUR_ANIMAL	Kažokzvēri	Fur animals
-pledge_animal	GOAT	Kazas	Goats
-pledge_animal	POULTRY	Mājputni	Poultry
-pledge_animal	RABBIT	Truši	Rabbits
-pledge_animal	SHEEP	Aitas	Sheep
-pledge_animal	SWINE	Cūkas	Swine
+nature_of_control	AS_COOPERATIVE_MEMBER	kā kooperatīvās sabiedrības biedrs	as a cooperative society member
+nature_of_control	AS_FOUNDATION_FOUNDER	kā nodibinājuma dibinātājs	as a foundation founder
+nature_of_control	AS_MEMBER	kā dalībnieks	as a member
+nature_of_control	AS_OWNER	kā īpašnieks	as the owner
+nature_of_control	AS_PARTNERSHIP_MEMBER	kā personālsabiedrības biedrs	as a partnership member
+nature_of_control	AS_REPRESENTATIVE	kā izpildinstitūcijas vai pārvaldes institūcijas pārstāvis	as a representative of the executive institution or of the administrative body
+nature_of_control	AS_SHAREHOLDER	kā akcionārs	as a shareholder
+nature_of_control	AS_SOCIETY_MEMBER	kā biedrības biedrs	as a society member
+nature_of_control	ON_GROUNDS_OF_AUTHORIZATION	uz pilnvarojuma līguma pamata	on grounds of the Power of Attorney
+nature_of_control	ON_GROUNDS_OF_BUSINESS_RELATIONS	uz darījuma attiecību pamata	on grounds of the business relations
+nature_of_control	ON_GROUNDS_OF_PROPERTY_RIGHT	uz īpašumtiesību pamata	on grounds of the property right
+nature_of_control	OTHER_TYPE_OF_CONTROL	cits	other
+nature_of_control	VIA_ARRANGEMENT_AS_AUTHORIZING_PERSON	caur juridisko veidojumu kā pilnvarotājs	via legal arrangement as the authorizing person
+nature_of_control	VIA_ARRANGEMENT_AS_FOUNDER	caur juridisko veidojumu kā dibinātājs	via legal arrangement as the founder
+nature_of_control	VIA_ARRANGEMENT_AS_MANAGING_PERSON	caur juridisko veidojumu kā pārvaldītājs	via legal arrangement as the managing person
+pledge_animal	BEE_COLONY	bišu saimes	bee colonies
+pledge_animal	BOVINE	liellopi	bovine animals
+pledge_animal	EQUID	zirgi	equidae
+pledge_animal	FISHPOND	zivju dīķi	fishponds
+pledge_animal	FUR_ANIMAL	kažokzvēri	fur animals
+pledge_animal	GOAT	kazas	goats
+pledge_animal	POULTRY	mājputni	poultry
+pledge_animal	RABBIT	truši	rabbits
+pledge_animal	SHEEP	aitas	sheep
+pledge_animal	SWINE	cūkas	swine
 pledge_change	AMENDMENTS	Grozījumi reģistrēti	Amendments registered
 pledge_change	ANNULLED	Reģistrēta komercķīlas anulēšana	Commercial pledge annulled
 pledge_change	ANNULLED_BY_CSN	Akta atcelšana ar valsts galvenā notāra lēmumu	Commercial pledge annulled by the decision of the Chief State Notary 
@@ -599,6 +605,7 @@ religious_affiliation	LV_EVANGELICAL_FAITH	Evaņģēliskās Ticības Kristiešu	
 religious_affiliation	LV_EVANGELICAL_GOD	Evaņģēliskā Dieva	Latvian Congregation of Evangelical God 
 religious_affiliation	LV_EVANGELICAL_MESSIAH	Evaņģēlisko Mesijas Sekotāju	Latvian Evangelical Messiah-Followers
 religious_affiliation	LV_EVANGELICAL_NG	Evaņģēlisko kristiešu (Jaunā Paaudze)	Latvian Evangelical Christions (New Generation)
+religious_affiliation	LV_EVANGELICAL_PIOUS	Evaņģēliski dievbijīgie	Latvian Evangelical Pious
 religious_affiliation	LV_YOUTH_CHRISTIAN	Jaunatnes Kristīgā Savienība	Latvian Youth Christian Association
 religious_affiliation	LV_LUTHERAN	Luterāņu	Latvian Lutheran
 religious_affiliation	METHODIST	Metodistu	Methodist
