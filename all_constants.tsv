@@ -118,7 +118,6 @@ decisive_influence_details	HAS_MAJORITY	uzņēmumam sabiedrībā ir balsstiesīb
 decisive_influence_details	HAS_RIGHTS	uzņēmumam kā sabiedrības dalībniekam ir tiesības iecelt vai atcelt sabiedrības izpildinstitūcijas vai pārraudzības institūcijas locekļu vairākumu	Undertaking as a shareholder of the company has the right to elect or dismiss the majority of members of the company’s executive body or supervisory body
 decisive_influence_details	HAS_SOLE_CONTROL	uzņēmums ir sabiedrības dalībnieks un, pamatojoties uz vienošanos ar citiem dalībniekiem, viens pats kontrolē balsstiesību vairākumu sabiedrībā	Undertaking is a shareholder of the company and has sole control over the majority of voting rights in the company based on the agreement with other shareholders
 decisive_influence_details	PROFIT_TRANSFER	Peļņas nodošanas līgums	Profit Transfer Agreement
-document	""	Kreditoru sapulces protokols/lēmums	Minutes/decision of the creditors’ meeting
 document	ACCEPTANCE_CONVEYANCE_ACT	Pieņemšanas-nodošanas akti	Acceptance-conveyance act
 document	AGENDA_CREDITORS_MEETING	Kreditoru sapulces darba kārtība	Agenda of the creditors’ meeting
 document	AGREEMENT_BETWEEN_FOUNDER_AND_PUBLISHER	Līgums starp dibinātāju un izdevēju (MIL)	Agreement between a founder and a publisher (MIL)
