@@ -475,6 +475,10 @@ nature_of_control:
     VIA_ARRANGEMENT_AS_AUTHORIZING_PERSON: "via legal arrangement as the authorizing person"
     VIA_ARRANGEMENT_AS_FOUNDER: "via legal arrangement as the founder"
     VIA_ARRANGEMENT_AS_MANAGING_PERSON: "via legal arrangement as the managing person"
+number_place_name: 
+    MILLIONS: "Millions"
+    ONES: "Ones"
+    THOUSANDS: "Thousands"
 pledge_animal: 
     BEE_COLONY: "bee colonies"
     BOVINE: "bovine animals"

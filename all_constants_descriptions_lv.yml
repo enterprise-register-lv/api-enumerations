@@ -475,6 +475,10 @@ nature_of_control:
     VIA_ARRANGEMENT_AS_AUTHORIZING_PERSON: "caur juridisko veidojumu kā pilnvarotājs"
     VIA_ARRANGEMENT_AS_FOUNDER: "caur juridisko veidojumu kā dibinātājs"
     VIA_ARRANGEMENT_AS_MANAGING_PERSON: "caur juridisko veidojumu kā pārvaldītājs"
+number_place_name: 
+    MILLIONS: "Miljoni"
+    ONES: "Vieni"
+    THOUSANDS: "Tūkstoši"
 pledge_animal: 
     BEE_COLONY: "bišu saimes"
     BOVINE: "liellopi"

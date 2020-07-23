@@ -449,6 +449,9 @@ nature_of_control	OTHER_TYPE_OF_CONTROL	cits	other
 nature_of_control	VIA_ARRANGEMENT_AS_AUTHORIZING_PERSON	caur juridisko veidojumu kā pilnvarotājs	via legal arrangement as the authorizing person
 nature_of_control	VIA_ARRANGEMENT_AS_FOUNDER	caur juridisko veidojumu kā dibinātājs	via legal arrangement as the founder
 nature_of_control	VIA_ARRANGEMENT_AS_MANAGING_PERSON	caur juridisko veidojumu kā pārvaldītājs	via legal arrangement as the managing person
+number_place_name	MILLIONS	Miljoni	Millions
+number_place_name	ONES	Vieni	Ones
+number_place_name	THOUSANDS	Tūkstoši	Thousands
 pledge_animal	BEE_COLONY	bišu saimes	bee colonies
 pledge_animal	BOVINE	liellopi	bovine animals
 pledge_animal	EQUID	zirgi	equidae
