@@ -105,7 +105,7 @@ change:
     REREGISTRATION: "Reģistra maiņa"
     SECURING_MEASURE: "Nodrošinājuma līdzekļu maiņa"
 change_reason: 
-    ADDRESS_UPDATED: "Aktualizēts, pamatojoties uz likuma \"Par Latvijas Republikas Uzņēmumu reģistru\" 4.4panta trešo daļu"
+    ADDRESS_UPDATED: "Adrese aktualizēta, pamatojoties uz Valsts adrešu reģistra datiem"
     ANNULLED: "Anulēts"
     EQUITY_RECALCULATED: "Pamatkapitāls pārrēķināts, pamatojoties uz Komerclikuma pārejas noteikumu 52.p"
     LATVIAN_IN_UPDATED: "Aktualizēts personas kods, pamatojoties uz Iedzīvotāju reģistra datiem"
@@ -668,6 +668,7 @@ religious_affiliation:
     SHINTO: "Sintoisti"
     SUKIYO_MAHIKARI: "Sūkjo Mahikari"
     UNITARIANISM: "Kristīgais unitārisms"
+    UNITAS_FRATRUM: "Hernhūtisms"
     VAISHNAVISM: "Vaišnavu"
     VISSARION: "Pēdējās derības"
 reorganization: 

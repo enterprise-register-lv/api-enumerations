@@ -105,7 +105,7 @@ change:
     REREGISTRATION: "Change of register"
     SECURING_MEASURE: "Change in securing measures"
 change_reason: 
-    ADDRESS_UPDATED: "Updated on the basis of Paragraph three, Article 4.4 of the Law on the Enterprise Register of the Republic of Latvia"
+    ADDRESS_UPDATED: "Address updated based on data from the National Address Register"
     ANNULLED: "Entry annulled"
     EQUITY_RECALCULATED: "The equity capital recalculated in conformity with Paragraph 52 of the transitional provisions of the Commercial Law"
     LATVIAN_IN_UPDATED: "Latvian identity number updated according to data from the Latvian Population Register"
@@ -668,6 +668,7 @@ religious_affiliation:
     SHINTO: "Shinto"
     SUKIYO_MAHIKARI: "Sukyo Mahikari"
     UNITARIANISM: "Christian Unitarianism"
+    UNITAS_FRATRUM: "Moravian Church"
     VAISHNAVISM: "Vaishnavism"
     VISSARION: "Church of the Last Testament"
 reorganization: 

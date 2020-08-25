@@ -99,7 +99,7 @@ change	REMOVAL	Subjekts no reģistra izslēgts	Entity was removed
 change	REORGANIZATION	Izmaiņas saistībā ar reorganizācijas procesu	Change concerning reorganisation proceedings
 change	REREGISTRATION	Reģistra maiņa	Change of register
 change	SECURING_MEASURE	Nodrošinājuma līdzekļu maiņa	Change in securing measures
-change_reason	ADDRESS_UPDATED	"Aktualizēts, pamatojoties uz likuma ""Par Latvijas Republikas Uzņēmumu reģistru"" 4.4panta trešo daļu"	Updated on the basis of Paragraph three, Article 4.4 of the Law on the Enterprise Register of the Republic of Latvia
+change_reason	ADDRESS_UPDATED	Adrese aktualizēta, pamatojoties uz Valsts adrešu reģistra datiem	Address updated based on data from the National Address Register
 change_reason	ANNULLED	Anulēts	Entry annulled
 change_reason	EQUITY_RECALCULATED	Pamatkapitāls pārrēķināts, pamatojoties uz Komerclikuma pārejas noteikumu 52.p	The equity capital recalculated in conformity with Paragraph 52 of the transitional provisions of the Commercial Law
 change_reason	LATVIAN_IN_UPDATED	Aktualizēts personas kods, pamatojoties uz Iedzīvotāju reģistra datiem	Latvian identity number updated according to data from the Latvian Population Register
@@ -623,6 +623,7 @@ religious_affiliation	SALVATION_ARMY	Pestīšanas Armija	The Salvation Army
 religious_affiliation	SHINTO	Sintoisti	Shinto
 religious_affiliation	SUKIYO_MAHIKARI	Sūkjo Mahikari	Sukyo Mahikari
 religious_affiliation	UNITARIANISM	Kristīgais unitārisms	Christian Unitarianism
+religious_affiliation	UNITAS_FRATRUM	Hernhūtisms	Moravian Church
 religious_affiliation	VAISHNAVISM	Vaišnavu	Vaishnavism
 religious_affiliation	VISSARION	Pēdējās derības	Church of the Last Testament
 reorganization	ACQUISITION	Pievienošana	Acquisition
