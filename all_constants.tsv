@@ -436,11 +436,11 @@ liquidation_suspension_prohibition_result	PROHIBITON_ON_BUSINESS_ACTIVITY_REMOVE
 liquidation_suspension_prohibition_result	PROHIBITON_ON_PUBLIC_ACTIVITY_REMOVED	Publiskās darbības vai citas darbības aizlieguma atcelšana	Prohibition on public activity or other activity removed
 nature_of_control	AS_COOPERATIVE_MEMBER	kā kooperatīvās sabiedrības biedrs	as a cooperative society member
 nature_of_control	AS_FOUNDATION_FOUNDER	kā nodibinājuma dibinātājs	as a foundation founder
-nature_of_control	AS_MEMBER	kā dalībnieks	as a member
+nature_of_control	AS_MEMBER	kā dalībnieks	as a company member/shareholder
 nature_of_control	AS_OWNER	kā īpašnieks	as the owner
 nature_of_control	AS_PARTNERSHIP_MEMBER	kā personālsabiedrības biedrs	as a partnership member
 nature_of_control	AS_REPRESENTATIVE	kā izpildinstitūcijas vai pārvaldes institūcijas pārstāvis	as a representative of the executive institution or of the administrative body
-nature_of_control	AS_SHAREHOLDER	kā akcionārs	as a shareholder
+nature_of_control	AS_SHAREHOLDER	kā akcionārs	as a shareholder in a stock company
 nature_of_control	AS_SOCIETY_MEMBER	kā biedrības biedrs	as a society member
 nature_of_control	ON_GROUNDS_OF_AUTHORIZATION	uz pilnvarojuma līguma pamata	on grounds of the Power of Attorney
 nature_of_control	ON_GROUNDS_OF_BUSINESS_RELATIONS	uz darījuma attiecību pamata	on grounds of the business relations
@@ -641,8 +641,8 @@ rights_of_representation	WITH_AT_LEAST	Kopā ar vismaz	Jointly with at least {wi
 rights_of_representation	WITH_CHAIR	Kopā ar valdes priekšsēdētāju	Jointly with  the Chairperson of the Board
 rights_of_representation	WITH_DEPUTY_CHAIR	Kopīgi ar valdes priekšsēdētāja vietnieku	Jointly with the Deputy Chairperson of the Board
 rights_of_representation	WITH_PROKURIST	Kopīgi ar prokūristu	"Jointly with  the ""prokurist"""
-rights_to_land	OWNERSHIP	Aktā noteiktās tiesības uz zemi: īpašuma	Right to the land under the deed: ownership
-rights_to_land	USE	Aktā noteiktās tiesības uz zemi: lietošanas	Right to the land under the deed: use
+rights_to_land	OWNERSHIP	Īpašuma tiesības	Right of ownership
+rights_to_land	USE	Lietošanas tiesības	Right of use
 securing_measure	ATTACHMENT	Arests	Attachment
 securing_measure	LIEN	Apķīlājums	Lien
 securing_measure	PROHIBITION	Aizliegums	Prohibition

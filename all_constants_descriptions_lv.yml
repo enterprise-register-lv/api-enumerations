@@ -689,8 +689,8 @@ rights_of_representation:
     WITH_DEPUTY_CHAIR: "Kopīgi ar valdes priekšsēdētāja vietnieku"
     WITH_PROKURIST: "Kopīgi ar prokūristu"
 rights_to_land: 
-    OWNERSHIP: "Aktā noteiktās tiesības uz zemi: īpašuma"
-    USE: "Aktā noteiktās tiesības uz zemi: lietošanas"
+    OWNERSHIP: "Īpašuma tiesības"
+    USE: "Lietošanas tiesības"
 securing_measure: 
     ATTACHMENT: "Arests"
     LIEN: "Apķīlājums"

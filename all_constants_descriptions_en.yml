@@ -462,11 +462,11 @@ liquidation_suspension_prohibition_result:
 nature_of_control: 
     AS_COOPERATIVE_MEMBER: "as a cooperative society member"
     AS_FOUNDATION_FOUNDER: "as a foundation founder"
-    AS_MEMBER: "as a member"
+    AS_MEMBER: "as a company member/shareholder"
     AS_OWNER: "as the owner"
     AS_PARTNERSHIP_MEMBER: "as a partnership member"
     AS_REPRESENTATIVE: "as a representative of the executive institution or of the administrative body"
-    AS_SHAREHOLDER: "as a shareholder"
+    AS_SHAREHOLDER: "as a shareholder in a stock company"
     AS_SOCIETY_MEMBER: "as a society member"
     ON_GROUNDS_OF_AUTHORIZATION: "on grounds of the Power of Attorney"
     ON_GROUNDS_OF_BUSINESS_RELATIONS: "on grounds of the business relations"
@@ -689,8 +689,8 @@ rights_of_representation:
     WITH_DEPUTY_CHAIR: "Jointly with the Deputy Chairperson of the Board"
     WITH_PROKURIST: "Jointly with  the \"prokurist\""
 rights_to_land: 
-    OWNERSHIP: "Right to the land under the deed: ownership"
-    USE: "Right to the land under the deed: use"
+    OWNERSHIP: "Right of ownership"
+    USE: "Right of use"
 securing_measure: 
     ATTACHMENT: "Attachment"
     LIEN: "Lien"
