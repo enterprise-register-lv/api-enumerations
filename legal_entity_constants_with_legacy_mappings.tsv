@@ -277,6 +277,7 @@ position	PRESIDENT	PRZ	LegalEntityExtenedStructure	Position	Prezidents	President
 position	REPRESENTATIVE_MANAGER	PAR	LegalEntityExtenedStructure	Position	Pārvaldnieks	Representative manager
 position	REPRESENTATIVE_OF_THE_LIQUIDATOR	LKP	LegalEntityExtenedStructure	Position	Likvidatora pārstāvis	Representative of the Liquidator
 position	SUPERVISORY_BOARD_MEMBER	PLO	LegalEntityExtenedStructure	Position	Padomes loceklis	Member of the Supervisory Board
+position  REPRESENTATIVE_OF_THE_ADMINISTRATOR ADP LegalEntityExtenedStructure Administratora pārstāvis  Administrator representative
 register	ARBITRAGE	T	LegalEntityExtenedStructure	Register	Šķīrējtiesu reģistrs	Arbitrage Register
 register	ASSOCIATIONS_AND_FOUNDATIONS	B	LegalEntityExtenedStructure	Register	Biedrību un nodibinājumu reģistrs	Register of Associations and Foundations
 register	COMMERCIAL	K	LegalEntityExtenedStructure	Register	Komercreģistrs	Commercial Register
