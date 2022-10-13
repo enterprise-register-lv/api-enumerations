@@ -70,6 +70,7 @@ authority:
     CHANCERY_OF_PRESIDENT: "Chancery of the President of Latvia"
     COURT: "Court"
     DERIVED_PUBLIC_PERSON: "Derived public person"
+    DERIVED_PUBLIC_PERSON_PARISH: ""
     INSTITUTION_OF_DIRECT_ADMINISTRATION: "Institution of direct administration"
     INSTITUTION_OF_INDIRECT_ADMINISTRATION: "Institution of indirect administration"
     OTHER_AUTHORITY: "Other public authority"
@@ -177,6 +178,8 @@ document:
     CONSENT_OF_LIQUIDATOR: "Consent of the liquidator"
     CONSENT_OF_SUPERVISORY_BOARD: "Consent of members of the supervisory board"
     CONSENT_OF_SWORN_ADVOCATES_COUNCIL: "Consent of the Latvian Council of Sworn Advocates"
+    CONSENT_OF_SWORN_BAILIFFS_COUNCIL: "Consent of the Latvian Council of Sworn Bailiffs"
+    CONSENT_OF_SWORN_NOTARIES_COUNCIL: "Consent of the Latvian Council of Sworn Notaries"
     CONSOLIDATED_STATEMENT: "Consolidated financial statement"
     CONTRACT_BASIS_FOR_CLAIM_TO_BE_SECURED: "Contract which is the basis for the claim to be secured"
     CONTRACT_COMMERCIAL_PLEDGE: "Contract, commercial pledge"
@@ -317,6 +320,7 @@ insolvency_practice_restriction:
     DISCHARGE: "Discharge from office"
     SUSPENSION: "Suspension from office"
 insolvency_proceeding_form: 
+    DEBT_RELIEF_FOR_NATURAL_PERSON: "Debt relief for a natural person"
     INSOLVENCY: "Insolvency proceeding"
     LEGAL_PROTECTION: "Legal protection proceeding"
     OUT_OF_COURT_LEGAL_PROTECTION: "Out of court legal protection proceeding"
@@ -571,6 +575,7 @@ position:
     OWNER: "Owner"
     PRESIDENT: "President"
     REPRESENTATIVE_MANAGER: "Representative manager"
+    REPRESENTATIVE_OF_THE_ADMINISTRATOR: ""
     REPRESENTATIVE_OF_THE_LIQUIDATOR: "Representative of the Liquidator"
     SUPERVISORY_BOARD_MEMBER: "Member of the Supervisory Board"
 ppp: 

@@ -68,6 +68,7 @@ area_of_activity	VOLUNTEER_FIRE_ORGANIZATION	Brīvprātīgo ugunsdzēsēju organ
 authority	CHANCERY_OF_PRESIDENT	Valsts prezidenta kanceleja	Chancery of the President of Latvia
 authority	COURT	Tiesa 	Court
 authority	DERIVED_PUBLIC_PERSON	Atvasināta publiska persona	Derived public person
+authority	DERIVED_PUBLIC_PERSON_PARISH		
 authority	INSTITUTION_OF_DIRECT_ADMINISTRATION	Tiešās pārvaldes iestāde	Institution of direct administration
 authority	INSTITUTION_OF_INDIRECT_ADMINISTRATION	Pastarpinātās pārvaldes iestāde	Institution of indirect administration
 authority	OTHER_AUTHORITY	Cita valsts iestāde	Other public authority
@@ -167,6 +168,8 @@ document	CONSENT_OF_BOARD_MEMBER	Valdes locekļa / rīkotājdirektora piekrišan
 document	CONSENT_OF_LIQUIDATOR	Likvidatora piekrišana	Consent of the liquidator
 document	CONSENT_OF_SUPERVISORY_BOARD	Padomes locekļu piekrišana	Consent of members of the supervisory board
 document	CONSENT_OF_SWORN_ADVOCATES_COUNCIL	Latvijas Zvērinātu advokātu padomes piekrišana	Consent of the Latvian Council of Sworn Advocates
+document	CONSENT_OF_SWORN_BAILIFFS_COUNCIL	Latvijas Zvērinātu tiesu izpildītāju padomes piekrišana	Consent of the Latvian Council of Sworn Bailiffs
+document	CONSENT_OF_SWORN_NOTARIES_COUNCIL	Latvijas Zvērinātu notāru padomes piekrišana	Consent of the Latvian Council of Sworn Notaries
 document	CONSOLIDATED_STATEMENT	Konsolidētais gada pārskats	Consolidated financial statement
 document	CONTRACT_BASIS_FOR_CLAIM_TO_BE_SECURED	Līgums, no kura izriet nodrošināmais prasījums	Contract which is the basis for the claim to be secured
 document	CONTRACT_COMMERCIAL_PLEDGE	Līgums, komercķīlas	Contract, commercial pledge
@@ -301,6 +304,7 @@ insolvency_certificate_ending	REMOVAL_FROM_OFFICE	Atcelšana no amata	Removal fr
 insolvency_certificate_ending	TERMINATED	Sertifikāta izbeigšana	Certificate terminated
 insolvency_practice_restriction	DISCHARGE	Atstādināšana no amata	Discharge from office
 insolvency_practice_restriction	SUSPENSION	Amata darbības apturēšana	Suspension from office
+insolvency_proceeding_form	DEBT_RELIEF_FOR_NATURAL_PERSON	Fiziskas personas atbrīvošana no parādsaistībām	Debt relief for a natural person
 insolvency_proceeding_form	INSOLVENCY	Maksātnespējas process	Insolvency proceeding
 insolvency_proceeding_form	LEGAL_PROTECTION	Tiesiskās aizsardzības process	Legal protection proceeding
 insolvency_proceeding_form	OUT_OF_COURT_LEGAL_PROTECTION	Ārpustiesas tiesiskās aizsardzības process	Out of court legal protection proceeding
@@ -534,6 +538,7 @@ position	MEMBER	Biedrs	Member
 position	OWNER	Īpašnieks	Owner
 position	PRESIDENT	Prezidents	President
 position	REPRESENTATIVE_MANAGER	Pārvaldnieks	Representative manager
+position	REPRESENTATIVE_OF_THE_ADMINISTRATOR		
 position	REPRESENTATIVE_OF_THE_LIQUIDATOR	Likvidatora pārstāvis	Representative of the Liquidator
 position	SUPERVISORY_BOARD_MEMBER	Padomes loceklis	Member of the Supervisory Board
 ppp	CONTRACTUAL	Līgumiskā publiskā un privātā partnerība	Contractual public-private partnership

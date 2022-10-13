@@ -70,6 +70,7 @@ authority:
     CHANCERY_OF_PRESIDENT: "Valsts prezidenta kanceleja"
     COURT: "Tiesa "
     DERIVED_PUBLIC_PERSON: "Atvasināta publiska persona"
+    DERIVED_PUBLIC_PERSON_PARISH: ""
     INSTITUTION_OF_DIRECT_ADMINISTRATION: "Tiešās pārvaldes iestāde"
     INSTITUTION_OF_INDIRECT_ADMINISTRATION: "Pastarpinātās pārvaldes iestāde"
     OTHER_AUTHORITY: "Cita valsts iestāde"
@@ -177,6 +178,8 @@ document:
     CONSENT_OF_LIQUIDATOR: "Likvidatora piekrišana"
     CONSENT_OF_SUPERVISORY_BOARD: "Padomes locekļu piekrišana"
     CONSENT_OF_SWORN_ADVOCATES_COUNCIL: "Latvijas Zvērinātu advokātu padomes piekrišana"
+    CONSENT_OF_SWORN_BAILIFFS_COUNCIL: "Latvijas Zvērinātu tiesu izpildītāju padomes piekrišana"
+    CONSENT_OF_SWORN_NOTARIES_COUNCIL: "Latvijas Zvērinātu notāru padomes piekrišana"
     CONSOLIDATED_STATEMENT: "Konsolidētais gada pārskats"
     CONTRACT_BASIS_FOR_CLAIM_TO_BE_SECURED: "Līgums, no kura izriet nodrošināmais prasījums"
     CONTRACT_COMMERCIAL_PLEDGE: "Līgums, komercķīlas"
@@ -317,6 +320,7 @@ insolvency_practice_restriction:
     DISCHARGE: "Atstādināšana no amata"
     SUSPENSION: "Amata darbības apturēšana"
 insolvency_proceeding_form: 
+    DEBT_RELIEF_FOR_NATURAL_PERSON: "Fiziskas personas atbrīvošana no parādsaistībām"
     INSOLVENCY: "Maksātnespējas process"
     LEGAL_PROTECTION: "Tiesiskās aizsardzības process"
     OUT_OF_COURT_LEGAL_PROTECTION: "Ārpustiesas tiesiskās aizsardzības process"
@@ -571,6 +575,7 @@ position:
     OWNER: "Īpašnieks"
     PRESIDENT: "Prezidents"
     REPRESENTATIVE_MANAGER: "Pārvaldnieks"
+    REPRESENTATIVE_OF_THE_ADMINISTRATOR: ""
     REPRESENTATIVE_OF_THE_LIQUIDATOR: "Likvidatora pārstāvis"
     SUPERVISORY_BOARD_MEMBER: "Padomes loceklis"
 ppp: 

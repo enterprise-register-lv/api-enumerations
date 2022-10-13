@@ -1,0 +1,59 @@
+enumeration_type	description_lv	description_en
+area_of_activity	Biedrību un nodibinājumu darbības joma	Area of activity for associations and foundations
+authority	Publisko personu un iestāžu veids	Type of public body
+capital	Pamatkapitāla veids	Type of equity capital
+certificate_form	Reģistrācijas apliecības veids	Type of registration certificate
+change	Ieraksta izmaiņas veids	Type of change in a record
+change_reason	Iemesls izmaiņai ierakstā	Reason for changes in a record
+cooperative_form	Kooperatīvās sabiedrības veids	Form of cooperative society
+country	Valsts (ISO 3166 alfabētiskais divzīmju kods)	Country (ISO 3166 alphabetic two-letter code)
+currency	Valūta (ISO 4217 alfabētiskais trīszīmju kods)	Currency (ISO 4217 alphabetic three-letter code)
+decisive_influence	Izšķirošās ietekmes forma pār citu uzņēmumu koncerna ietvaros	Within a corporate group, form of decisive influence over another company
+decisive_influence_details	Veids, kādā izšķirošā ietekme koncerna ietvaros tiek īstenota	Within a corporate group, details on how decisive influence over another company is exercised
+document	Reģistrācijas lietā pievienota dokumenta veids	Type of document filed at registry
+governing_body	Subjekta pārvaldes institūcijas veids	Type of governing body
+identity_document	Personu apliecinoša dokumenta veids	Type of identity document
+insolvency_certificate	Maksātnespējas sertifikāts vai amata apliecība	Type of insolvency certificate
+insolvency_certificate_ending	Maksātnespējas administratora tiesību pildīt amata pienākumu izbeigšanās veids	Type of licence revocation for insolvency practitioners
+insolvency_practice_restriction	Maksātnespējas administratora amata ierobežojumu veids	Type of practice restriction for insolvency practitioners
+insolvency_proceeding_form	Procesa veids maksātnespējas reģistrā	Form of legal proceeding in the insolvency register
+insolvency_proceeding_subtype	Maksātnespējas procedūras veids	Subtype of insolvency proceeding
+insolvency_proceeding_type	Maksātnespējas procesa tips	Type of insolvency proceeding
+insolvency_status	Statuss procesam maksātnespējas reģistrā	Status of legal proceeding in the insolvency register
+legal_act	Tiesību akta veids	Type of legal act
+legal_form	Tiesiskā forma (Latvijas Uzņēmumu reģistrā reģistrēta tiesību subjekta veids)	Legal form (type of legal entity registered with the Enterprise Register of Latvia)
+legislation	Latvijas Republikas tiesību akta identifikators	Identifier of a legal act of the Republic of Latvia
+liquidations	PPI likvidācija (Netiek lietots)	Public body liquidation (Not in use)
+liquidation_suspension_prohibition	Likvidācijas procesa, darbības apturēšanas, darbības lieguma veids	Type of liquidation proceeding, suspension of activity, prohibition of activity
+liquidation_suspension_prohibition_result	Likvidācijas procesa, darbības apturēšanas, darbības lieguma risinājuma veids	Type of result (solution) to a liquidation proceeding, suspension of activity, prohibition of activity
+nature_of_control	Veids, kā patiesais labuma guvējs īsteno kontroli pār juridisko personu	Nature of control over a legal entity exercised by its beneficial owner 
+number_place_name	Skaitļu šķiras nosaukums	Number place name
+pledge_animal	Dzīvnieka veids	Type of animal
+pledge_change	Izmaiņas veids komercķīlas ierakstā	Type of change in a commercial pledge record
+pledge_intellectual_property	Intelektuālā īpašuma veids	Type of intellectual property
+pledge_inventory	Krājumu veids	Type of inventory
+pledge_party	Komercķīlas līguma puses veids	Type of party in a commercial pledge contract
+pledge_scope	Komercķīlas priekšmeta tvērums	Scope of commercial pledge subject
+pledge_securities	Vērtspapīru veids	Type of securities
+pledge_termination	Komercķīlas ieraksta izbeigšanas iemesls	Reason for commercial pledge record termination
+pledge_vehicle	Sauszemes transportlīdzekļa veids	Type of land vehicle
+position	Amatpersonas amats	Type of officer position
+ppp	Publiskās un privātās partnerības veids	Type of public-private partnership
+ppp_contract	PPP līguma veids	Type of PPP contract
+ppp_contract_change	Izmaiņas veids PPP līgumā	Type of change in a PPP contract
+ppp_decision	Lēmuma veids saistībā ar PPP	Type of decision relating a PPP contract
+ppp_party	PPP līguma puses veids	Type of PPP contract party
+register	Uzņēmumu reģistra vests reģistrs	Register kept by the Enterprise Register of Latvia
+registration_removal_reason	Iemesls ieraksta reģistrēšanai vai izslēgšanai	Reason for registration or removal of a record
+religious_affiliation	Konfesionālā piederība	Religious affiliation
+reorganization	Reorganizācijas veids	Type of reorganisation
+rights_of_representation	Pārstāvības tiesību veids	Type of right of representation
+rights_to_land	Aktā noteikto tiesību uz zemi veids	Type of right to land conferred by act
+securing_measure	Nodrošinājuma līdzekļa veids	Type of securing measure
+spousal_party	Laulāto mantisko attiecību puses veids	Type of party in a spousal property relationship
+spousal_property_relationship	Laulāto līgumisko mantisko attiecību veids	Type of contractual spousal property relationship
+status	Ieraksta statuss	Status of record
+status_details	Tiesību subjekta ieraksta statusa precizējumi	Status details for legal entity record
+subordination	Publiskas personas vai iestādes padotības forma	Type of public body subordination
+various_notice	Tiesību subjekta reģistrācijas lietā pievienota paziņojuma veids	Type of notice attached to a legal entity record
+various_status	Tiesību subjekta papildu statusa veids	Type of supplementary status of a legal entity 
