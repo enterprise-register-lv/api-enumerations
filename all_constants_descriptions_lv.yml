@@ -70,7 +70,7 @@ authority:
     CHANCERY_OF_PRESIDENT: "Valsts prezidenta kanceleja"
     COURT: "Tiesa "
     DERIVED_PUBLIC_PERSON: "Atvasināta publiska persona"
-    DERIVED_PUBLIC_PERSON_PARISH: ""
+    DERIVED_PUBLIC_PERSON_PARISH: "Atvasināta publiska persona (Pašvaldība)"
     INSTITUTION_OF_DIRECT_ADMINISTRATION: "Tiešās pārvaldes iestāde"
     INSTITUTION_OF_INDIRECT_ADMINISTRATION: "Pastarpinātās pārvaldes iestāde"
     OTHER_AUTHORITY: "Cita valsts iestāde"
@@ -575,7 +575,7 @@ position:
     OWNER: "Īpašnieks"
     PRESIDENT: "Prezidents"
     REPRESENTATIVE_MANAGER: "Pārvaldnieks"
-    REPRESENTATIVE_OF_THE_ADMINISTRATOR: ""
+    REPRESENTATIVE_OF_THE_ADMINISTRATOR: "Administratora pārstāvis"
     REPRESENTATIVE_OF_THE_LIQUIDATOR: "Likvidatora pārstāvis"
     SUPERVISORY_BOARD_MEMBER: "Padomes loceklis"
 ppp: 

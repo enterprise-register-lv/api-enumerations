@@ -68,7 +68,7 @@ area_of_activity	VOLUNTEER_FIRE_ORGANIZATION	Brīvprātīgo ugunsdzēsēju organ
 authority	CHANCERY_OF_PRESIDENT	Valsts prezidenta kanceleja	Chancery of the President of Latvia
 authority	COURT	Tiesa 	Court
 authority	DERIVED_PUBLIC_PERSON	Atvasināta publiska persona	Derived public person
-authority	DERIVED_PUBLIC_PERSON_PARISH		
+authority	DERIVED_PUBLIC_PERSON_PARISH	Atvasināta publiska persona (Pašvaldība)	Derived public person (Parish)
 authority	INSTITUTION_OF_DIRECT_ADMINISTRATION	Tiešās pārvaldes iestāde	Institution of direct administration
 authority	INSTITUTION_OF_INDIRECT_ADMINISTRATION	Pastarpinātās pārvaldes iestāde	Institution of indirect administration
 authority	OTHER_AUTHORITY	Cita valsts iestāde	Other public authority
@@ -538,7 +538,7 @@ position	MEMBER	Biedrs	Member
 position	OWNER	Īpašnieks	Owner
 position	PRESIDENT	Prezidents	President
 position	REPRESENTATIVE_MANAGER	Pārvaldnieks	Representative manager
-position	REPRESENTATIVE_OF_THE_ADMINISTRATOR		
+position	REPRESENTATIVE_OF_THE_ADMINISTRATOR	Administratora pārstāvis	Administrator representative
 position	REPRESENTATIVE_OF_THE_LIQUIDATOR	Likvidatora pārstāvis	Representative of the Liquidator
 position	SUPERVISORY_BOARD_MEMBER	Padomes loceklis	Member of the Supervisory Board
 ppp	CONTRACTUAL	Līgumiskā publiskā un privātā partnerība	Contractual public-private partnership

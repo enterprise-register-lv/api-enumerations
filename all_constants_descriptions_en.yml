@@ -70,7 +70,7 @@ authority:
     CHANCERY_OF_PRESIDENT: "Chancery of the President of Latvia"
     COURT: "Court"
     DERIVED_PUBLIC_PERSON: "Derived public person"
-    DERIVED_PUBLIC_PERSON_PARISH: ""
+    DERIVED_PUBLIC_PERSON_PARISH: "Derived public person (Parish)"
     INSTITUTION_OF_DIRECT_ADMINISTRATION: "Institution of direct administration"
     INSTITUTION_OF_INDIRECT_ADMINISTRATION: "Institution of indirect administration"
     OTHER_AUTHORITY: "Other public authority"
@@ -575,7 +575,7 @@ position:
     OWNER: "Owner"
     PRESIDENT: "President"
     REPRESENTATIVE_MANAGER: "Representative manager"
-    REPRESENTATIVE_OF_THE_ADMINISTRATOR: ""
+    REPRESENTATIVE_OF_THE_ADMINISTRATOR: "Administrator representative"
     REPRESENTATIVE_OF_THE_LIQUIDATOR: "Representative of the Liquidator"
     SUPERVISORY_BOARD_MEMBER: "Member of the Supervisory Board"
 ppp: 
