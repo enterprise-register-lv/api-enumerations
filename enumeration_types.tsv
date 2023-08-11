@@ -43,6 +43,9 @@ ppp_contract	PPP līguma veids	Type of PPP contract
 ppp_contract_change	Izmaiņas veids PPP līgumā	Type of change in a PPP contract
 ppp_decision	Lēmuma veids saistībā ar PPP	Type of decision relating a PPP contract
 ppp_party	PPP līguma puses veids	Type of PPP contract party
+publ_change_types		
+publ_statuses		
+publ_types		
 register	Uzņēmumu reģistra vests reģistrs	Register kept by the Enterprise Register of Latvia
 registration_removal_reason	Iemesls ieraksta reģistrēšanai vai izslēgšanai	Reason for registration or removal of a record
 religious_affiliation	Konfesionālā piederība	Religious affiliation
