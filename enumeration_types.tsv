@@ -6,8 +6,6 @@ certificate_form	Reģistrācijas apliecības veids	Type of registration certific
 change	Ieraksta izmaiņas veids	Type of change in a record
 change_reason	Iemesls izmaiņai ierakstā	Reason for changes in a record
 cooperative_form	Kooperatīvās sabiedrības veids	Form of cooperative society
-country	Valsts (ISO 3166 alfabētiskais divzīmju kods)	Country (ISO 3166 alphabetic two-letter code)
-currency	Valūta (ISO 4217 alfabētiskais trīszīmju kods)	Currency (ISO 4217 alphabetic three-letter code)
 decisive_influence	Izšķirošās ietekmes forma pār citu uzņēmumu koncerna ietvaros	Within a corporate group, form of decisive influence over another company
 decisive_influence_details	Veids, kādā izšķirošā ietekme koncerna ietvaros tiek īstenota	Within a corporate group, details on how decisive influence over another company is exercised
 document	Reģistrācijas lietā pievienota dokumenta veids	Type of document filed at registry
@@ -27,6 +25,7 @@ liquidations	PPI likvidācija (Netiek lietots)	Public body liquidation (Not in u
 liquidation_suspension_prohibition	Likvidācijas procesa, darbības apturēšanas, darbības lieguma veids	Type of liquidation proceeding, suspension of activity, prohibition of activity
 liquidation_suspension_prohibition_result	Likvidācijas procesa, darbības apturēšanas, darbības lieguma risinājuma veids	Type of result (solution) to a liquidation proceeding, suspension of activity, prohibition of activity
 nature_of_control	Veids, kā patiesais labuma guvējs īsteno kontroli pār juridisko personu	Nature of control over a legal entity exercised by its beneficial owner 
+notice_types	Paziņojumu veidi	Notification types
 number_place_name	Skaitļu šķiras nosaukums	Number place name
 pledge_animal	Dzīvnieka veids	Type of animal
 pledge_change	Izmaiņas veids komercķīlas ierakstā	Type of change in a commercial pledge record
@@ -43,9 +42,11 @@ ppp_contract	PPP līguma veids	Type of PPP contract
 ppp_contract_change	Izmaiņas veids PPP līgumā	Type of change in a PPP contract
 ppp_decision	Lēmuma veids saistībā ar PPP	Type of decision relating a PPP contract
 ppp_party	PPP līguma puses veids	Type of PPP contract party
-publ_change_types		
-publ_statuses		
-publ_types		
+publication_change_types	Publikācijās attēlojamie izmaiņu veidi	Types of changes to display in publications
+publication_person_statuses	Publikācijās norādīto personu statusi	Statuses of persons indicated in publications
+publication_person_types	Publikācijās norādīto personu veidi	Types of persons indicated in publications
+publication_statuses	Publikāciju statusi	Publication statuses
+publication_types	Publikāciju veidi	Publication types
 register	Uzņēmumu reģistra vests reģistrs	Register kept by the Enterprise Register of Latvia
 registration_removal_reason	Iemesls ieraksta reģistrēšanai vai izslēgšanai	Reason for registration or removal of a record
 religious_affiliation	Konfesionālā piederība	Religious affiliation
