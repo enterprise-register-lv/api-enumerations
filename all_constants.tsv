@@ -1,4 +1,4 @@
-type	public_code	description_LV	description_EN
+type	public_code	description_lv	description_en
 area_of_activity	ADVOCACY	Interešu aizstāvības organizāciju darbība	Advocacy work
 area_of_activity	ARCHITECTURE_RESTORATION	Arhitektūra un restaurācija	Architecture and restoration
 area_of_activity	ASSOCIATION_OF_EMPLOYERS_ORGANISATIONS	Darba devēju organizāciju apvienība	Association of Employers' Organisations
@@ -348,6 +348,7 @@ legal_form	COOPERATIVE_SOCIETIES_COMPANY_KBU	Kooperatīvo biedrību uzņēmums (
 legal_form	COOPERATIVE_SOCIETY_KB	Kooperatīvā sabiedrība	Co-operative Society
 legal_form	DEACONATE_INSTITUTION_DIS	Diakonijas iestāde (vēsturiska forma)	Deaconate Institution (historical form)
 legal_form	DIOCESE_DIE	Diecēze	Diocese
+legal_form	DIVISION_RON	Reliģiskās organizācijas nodaļa	Division of Religious Organisation
 legal_form	EDUCATION_INSTITUTION_FOR_ECCLESIASTICS_GPM	Garīgā personāla mācību iestāde (vēsturiska forma)	Education Institution for Ecclesiastics (historical form)
 legal_form	EUROPEAN_COMPANY_SE	Eiropas komercsabiedrība	European Company 
 legal_form	EUROPEAN_COOPERATIVE_SOCIETY_SCE	Eiropas kooperatīvā sabiedrība	European Cooperative Society
@@ -361,7 +362,7 @@ legal_form	FOUNDATION_NOD	Nodibinājums	Foundation
 legal_form	FULL_LIABILITY_PARTNERSHIP_LIG	Līgumsabiedrība ar pilnu atbildību (vēsturiska forma)	Full Liability Partnership (historical form)
 legal_form	GENERAL_PARTNERSHIP_PS	Pilnsabiedrība	General Partnership
 legal_form	INDIVIDUAL_UNDERTAKING_IND	Individuālais uzņēmums	Individual Undertaking
-legal_form	INSTITUTION_OF_RELIGIOUS_ORGANISATION_ROI	Iestāde	Institution of Religious Organisation
+legal_form	INSTITUTION_OF_RELIGIOUS_ORGANISATION_ROI	Reliģiskās organizācijas iestāde	Institution of Religious Organisation
 legal_form	JURIDIC_PERSON_UNDER_CANON_LAW_KAT	Katoļu baznīcas publisko tiesību juridiskā persona	Juridic person governed by the Canon law of the Catholic Church
 legal_form	LIMITED_LIABILITY_COMPANY_SIA	Sabiedrība ar ierobežotu atbildību	Limited Liability Company
 legal_form	LIMITED_PARTNERSHIP_KS	Komandītsabiedrība	Limited Partnership
@@ -712,7 +713,7 @@ religious_affiliation	DE_LUTHERAN	Vācu luterāņu	German Lutheran
 religious_affiliation	DENOMINATIONAL_BODY	Konfesiju Iestāde	Denominational body
 religious_affiliation	HINDU	Hinduisti	Hindu
 religious_affiliation	INTERFAITH	Starpkonfesionāla	Inter-faith
-religious_affiliation	ISLAM	Musulmaņu	Islam / Muslims
+religious_affiliation	ISLAM	Islāms	Islam
 religious_affiliation	JEHOVAHS_WITNESSES	Jehovas Liecinieku	Jehovah's Witnesses
 religious_affiliation	JEWISH	Jūdu (Mozus) Ticīgo	Jewish
 religious_affiliation	LV_DIEVTURI	Dievturu	Latvian Dievturi
