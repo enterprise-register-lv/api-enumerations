@@ -497,6 +497,8 @@ pledge_change	NEW	Komercķīla reģistrēta	New commercial pledge registered
 pledge_change	NOVATION	Pārjaunojums reģistrēts	Novation registered
 pledge_change	PLEDGEE	Ņēmēja maiņa	Change of pledgee 
 pledge_change	REGISTRATION_ERROR	Kļūda reģistrācijas procesā	Error in the registration process 
+pledge_change	REJECTION_OF_RIGHT_APPLICATION	Atteikts pieteikums par komercķīlas tiesības izlietošanu pievienošanu komercķīlas reģistrācijas lietai	Application for adding commercial pledge right to commercial pledge registration file has been rejected
+pledge_change	REJECTION_OF_RIGHT_NOTIFICATION	Atteikts reģistrēt pieteikumu par komercķīlas tiesības izlietošanu	Exercise of the right of commercial pledge has been rejected
 pledge_change	REMOVAL	Komercķīla dzēsta	Commercial pledge removed
 pledge_change	TERM_EXTENDED	Termiņa pagarināšana	Extension of the five years term  (rule effective until 2015)
 pledge_intellectual_property	DESIGN	Dizainparaugs	Design
