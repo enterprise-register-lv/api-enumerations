@@ -111,7 +111,7 @@ change_reason:
     ANNULLED: "Entry annulled"
     EQUITY_RECALCULATED: "The equity capital recalculated in conformity with Paragraph 52 of the transitional provisions of the Commercial Law"
     LATVIAN_IN_UPDATED: "Latvian identity number updated according to data from the Latvian Population Register"
-    LAW_CHANGES: ""
+    LAW_CHANGES: "Information about the subscribed share capital has been updated based on Article 8, Part Three, Clause 5 of the Commercial Law and Clause 72 of the Transitional Regulations."
 cooperative_form: 
     AGRICULTURAL_SERVICES: "Agricultural Services Cooperative Society"
     APARTMENT_OWNERS: "Apartment Owners Cooperative Society"

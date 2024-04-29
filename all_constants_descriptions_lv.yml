@@ -111,7 +111,7 @@ change_reason:
     ANNULLED: "Anulēts"
     EQUITY_RECALCULATED: "Pamatkapitāls pārrēķināts, pamatojoties uz Komerclikuma pārejas noteikumu 52.p"
     LATVIAN_IN_UPDATED: "Aktualizēts personas kods, pamatojoties uz Iedzīvotāju reģistra datiem"
-    LAW_CHANGES: ""
+    LAW_CHANGES: "Ziņas par parakstīto pamatkapitālu aktualizētas, pamatojoties uz Komerclikuma 8. panta trešās daļas 5. punktu un pārejas noteikumu 72.punktu."
 cooperative_form: 
     AGRICULTURAL_SERVICES: "lauksaimniecības pakalpojumu kooperatīvā sabiedrība"
     APARTMENT_OWNERS: "dzīvokļu īpašnieku kooperatīvā sabiedrība"

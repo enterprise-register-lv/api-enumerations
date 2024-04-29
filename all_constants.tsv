@@ -105,7 +105,7 @@ change_reason	ADDRESS_UPDATED	Adrese aktualizēta, pamatojoties uz Valsts adreš
 change_reason	ANNULLED	Anulēts	Entry annulled
 change_reason	EQUITY_RECALCULATED	Pamatkapitāls pārrēķināts, pamatojoties uz Komerclikuma pārejas noteikumu 52.p	The equity capital recalculated in conformity with Paragraph 52 of the transitional provisions of the Commercial Law
 change_reason	LATVIAN_IN_UPDATED	Aktualizēts personas kods, pamatojoties uz Iedzīvotāju reģistra datiem	Latvian identity number updated according to data from the Latvian Population Register
-change_reason	LAW_CHANGES		
+change_reason	LAW_CHANGES	Ziņas par parakstīto pamatkapitālu aktualizētas, pamatojoties uz Komerclikuma 8. panta trešās daļas 5. punktu un pārejas noteikumu 72.punktu.	Information about the subscribed share capital has been updated based on Article 8, Part Three, Clause 5 of the Commercial Law and Clause 72 of the Transitional Regulations.
 cooperative_form	AGRICULTURAL_SERVICES	lauksaimniecības pakalpojumu kooperatīvā sabiedrība	Agricultural Services Cooperative Society
 cooperative_form	APARTMENT_OWNERS	dzīvokļu īpašnieku kooperatīvā sabiedrība	Apartment Owners Cooperative Society
 cooperative_form	BOAT_GARAGE_OWNERS	laivu garāžu īpašnieku kooperatīvā sabiedrība	Boat Garage Owners Cooperative Society
@@ -241,6 +241,7 @@ document	PROPOSAL_TO_TRANSFER_LEGAL_ADDRESS_OF_SE	Priekšlikums mainīt Eiropas 
 document	PROTOCOL_OF_COMPANY_OR_ORGANISATION	Sabiedrības/Organizācijas protokoli/lēmumi	Protocols/decisions of a company/organisation
 document	PURCHASE_CONTRACT	Pirkuma līgumi	Purchase contracts
 document	PURCHASE_LEASE_AGREEMENT	Pirkuma/nomas līgums	Purchase/lease agreement
+document	QUESTIONNARE_FOR_INCLUSION_OF_INFORMATION_IN_THE_REGISTER_OF_NATURAL_PERSONS	Anketa ziņu iekļaušanai Fizisko personu reģistrā	Questionnaire for inclusion of information in the Register of Natural Persons
 document	RECEIPT_ON_ENTRY_OF_COMMERCIAL_PLEDGE_IN_OTHER_REGISTER	Kvītis par komercķīlas atzīmi citā reģistrā	Receipt on the entry of commercial pledge in other register
 document	RECEIPT_ON_STATE_FEES	Kvītis par publikāciju un valsts nodevām	Receipts on the publication and state fees
 document	REGISTER_OF_STOCKHOLDERS	Akcionāru reģistrs	Register of stockholders
