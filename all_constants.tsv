@@ -1,27 +1,38 @@
 type	public_code	description_lv	description_en
 area_of_activity	ADVOCACY	Interešu aizstāvības organizāciju darbība	Advocacy work
+area_of_activity	ANIMAL_PROTECTION_AND_WELLBEING	Dzīvnieku aizsardzība un labturība	Animal protection and wellbeing
 area_of_activity	ARCHITECTURE_RESTORATION	Arhitektūra un restaurācija	Architecture and restoration
+area_of_activity	ASSISTANCE_IN_DISASTER_AND_EMERGENCY_SITUATIONS	Palīdzības sniegšana katastrofu gadījumos un ārkārtas situācijās	Assistance in disaster and emergency situations
 area_of_activity	ASSOCIATION_OF_EMPLOYERS_ORGANISATIONS	Darba devēju organizāciju apvienība	Association of Employers' Organisations
 area_of_activity	BOOK_PUBLISHING	Grāmatu izdošana	Book publishing
+area_of_activity	CHARITY	Labdarība	Charity
 area_of_activity	CONSERVATION_OF_NATURAL_RESOURCES	Dabas resursu aizsardzība un ilgtspējīga izmantošana	Conservation and sustainable use of natural resources
 area_of_activity	CRIME_PREVENTION	Noziegumu profilakse	Crime prevention
+area_of_activity	CULTURE_AND_ART	Kultūra un māksla	Culture and art
 area_of_activity	CULTURE_EXCHANGE	Kultūras apmaiņa	Culture exchange
 area_of_activity	CUSTOMER_RIGHTS_PROTECTION	Patērētāju tiesību aizsardzība	Customer rights protection
+area_of_activity	DEMOCRACY_AND_CIVIL_SOCIETY	Demokrātija un pilsoniskā sabiedrība	Democracy and civil society
 area_of_activity	DESIGN	Dizains	Design
 area_of_activity	DEVELOPMENT_COOPERATION	Attīstības sadarbība	Development cooperation
+area_of_activity	DEVELOPMENT_OF_TERRITORY_AND_COMMUNITY	Teritorijas, kopienas un apkaimes attīstība	Territorial, community and neighborhood development
 area_of_activity	DIRECTORY_PUBLISHING	Izziņu katalogu izdošana	Publishing of directories and mailing lists 
+area_of_activity	ECONOMY	Ekonomika	Economy
 area_of_activity	ECONOMIC_DEVELOPMENT	Ekonomiskā attīstība	Economic development
 area_of_activity	EDUCATION	Izglītība	Education
 area_of_activity	EMPLOYERS_ORGANISATION	Darba devēju organizācija	Employers' Organisation
+area_of_activity	EMPLOYERS_ORGANIZATION	Darba devēju organizācija	Employers' organisation
 area_of_activity	ENVIRONMENTAL_AWARENESS	Vides apziņa	Environmental awareness
 area_of_activity	ENVIRONMENTAL_CLEANING	Vides sakopšana	Environmental cleaning
 area_of_activity	ENVIRONMENTAL_PROTECTION	Vides aizsardzība. Piesārņojuma samazināšana un kontrole	Environmental protection. Pollution prevention and control
+area_of_activity	ENVIRONMENT_AND_NATURE_PROTECTION	Vides un dabas aizsardzība	Environment and nature protection
 area_of_activity	FILMMAKING	Filmu producēšana	Motion picture production activities 
 area_of_activity	FOLK_ART	Tautas māksla un nemateriālais mantojums	Folk art and intangible heritage
 area_of_activity	GENDER_EQUALITY	Dzimumu līdztiesība	Gender equality
+area_of_activity	HEALTH_AND_DISEASE_PREVENTION	Veselība un slimību profilakse	Health and disease prevention
 area_of_activity	HEALTH_EDUCATION	Sabiedrības veselība un veselības izglītība	Public health and health education
 area_of_activity	HOUSING_MANAGEMENT	Mājokļu apsaimniekošana	Housing management
 area_of_activity	HUMANITIES	Vēsture un humanitārās zinātnes	Humanities, incl. history
+area_of_activity	INTERNATIONAL_AID_AND_DEVELOPMENT_COOPERATION	Starptautiskā palīdzība un attīstības sadarbība	International aid and development cooperation
 area_of_activity	INTERNATIONAL_AID_TO_COUNTRIES_AFFECTED_BY_DISASTERS	Starptautiska palīdzības līdzekļu nodrošināšana katastrofās cietušām valstīm	Providing of international assistance to countries affected by disasters
 area_of_activity	INTERNATIONAL_DISASTER_RESPONSE_AND_RELIEF	Starptautiska katastrofu seku likvidēšana un palīdzība	International disaster response and relief
 area_of_activity	INTERNATIONAL_HUMAN_RIGHTS_AND_PEACEKEEPING	Starptautiskās cilvēktiesības un miera uzturēšana	International human rights and peacekeeping
@@ -29,6 +40,7 @@ area_of_activity	YOUTH_ASSOCIATION_FOUNDATION	Jaunatnes biedrība vai nodibināj
 area_of_activity	LEGAL_ADVISORY	Juridiskā palīdzība	Legal advisory
 area_of_activity	LIBRARY_OPERATION	Bibliotēku darbība	Library operation
 area_of_activity	MAGAZINE_PUBLISHING	Žurnālu izdošana	Publishing of magazines
+area_of_activity	MANAGEMENT_OF_HOUSING	Mājokļu apsaimniekošana	Housing management
 area_of_activity	MUSEUMS	Muzeji	Museums
 area_of_activity	MUSIC_DANCE_THEATRE	Mūzika, deja, teātris	Music, dance, theatre
 area_of_activity	MUSIC_DANCE_THEATRE_SUPPORT	Mūzikas, dejas un teātra atbalsts	Music, dance, theatre support
@@ -42,17 +54,22 @@ area_of_activity	OTHER_HEALTH_ACTIVITIES	Cita ar veselību saistīta darbība	Ot
 area_of_activity	OTHER_RECREATION_ACTIVITIES	Cita izklaides un atpūtas darbība	Other amusement and recreation activities
 area_of_activity	PHILANTHROPIC_INTERMEDIATION	Filantropijas starpniecība	Philanthropic intermediation
 area_of_activity	PROFESSIONAL_ASSOCIATION_FOUNDATION	Profesionālā biedrība vai nodibinājums	Professional association or foundation
+area_of_activity	PROFESSIONAL_ASSOCIATION_OR_FOUNDATION	Profesionālā biedrība vai nodibinājums	Professional association or foundation
 area_of_activity	PROMOTION_OF_EMPLOYMENT	Nodarbinātības veicināšana	Promotion of employment
 area_of_activity	PROMOTION_OF_VOLUNTARY_WORK	Brīvprātīgā darba veicināšana	Promotion of voluntary work
 area_of_activity	PROTECTION_OF_ANIMALS	Dzīvnieku aizsardzība un labklājība	Protection and welfare of animals
+area_of_activity	PROTECTION_OF_HUMAN_AND_INDIVIDUAL_RIGHTS	Cilvēktiesību un indivīda tiesību aizsardzība	Protection of human and individual rights
 area_of_activity	PROTECTION_OF_HUMAN_RIGHTS	Pilsonisko tiesību un cilvēktiesību aizsardzība	Protection of citizen and human rights
 area_of_activity	RADIO_STATION	Radiostacija	Radio station
 area_of_activity	REHABILITATION	Rehabilitācija	Rehabilitation
 area_of_activity	REHABILITATION_OF_OFFENDERS	Likumpārkāpēju rehabilitācija	Rehabilitation of offenders
 area_of_activity	RESEARCH_MEDICINE	Medicīniskā pētniecība	Research on medicine
 area_of_activity	RESEARCH_SOCIAL_SCIENCES	Sociālās zinātnes, socioloģiskā un politikas pētniecība	Research on social sciences and humanities, sociology, and politics
+area_of_activity	SCIENCE	Zinātne	Science
 area_of_activity	SCIENCE_TECHNOLOGY	Zinātne un tehnoloģijas	Science and technology
 area_of_activity	SOCIAL_PROTECTION	Sociālā aizsardzība	Social protection
+area_of_activity	SOCIAL_PROTECTION_AND_WELFARE	Sociālā aizsardzība un sociālā labklājība	Social protection and welfare
+area_of_activity	SPORT_AND_SPORTS_SUPPORT	Sports un sporta atbalsts	Sport and sports support
 area_of_activity	SPORTS_CENTER	Sporta centrs	Sports center
 area_of_activity	SPORTS_CLUB	Sporta klubs	Sports club
 area_of_activity	SPORTS_EDUCATION	Sporta izglītība	Sports education
@@ -60,11 +77,17 @@ area_of_activity	SPORTS_SUPPORT	Sporta atbalsts	Support to sports
 area_of_activity	SPORTS_UNION	Sporta apvienība un sporta federācija	Sports union and sports federation
 area_of_activity	SUPPORT_FAMILIES_CHILDREN	Atbalsts ģimenēm un bērniem	Support to families and children
 area_of_activity	SUPPORT_TO_VICTIMS_OF_CRIME	Atbalsts noziegumu upuriem	Support to victims of crime
+area_of_activity	THE_EDUCATION	Izglītība	Education
+area_of_activity	THEMATIC_INTEREST_CLUB	Tematiska interešu kopa, interešu klubs	Thematic interest club
+area_of_activity	THE_TRADE_UNION	Arodbiedrība	Trade union
 area_of_activity	TRADE_UNION	Arodbiedrība	Trade Union
 area_of_activity	TV_CHANNEL	TV kanāls	TV channel
+area_of_activity	UNCLASSIFIED_SCOPE	Citur neklasificēta darbības joma	Unclassified scope
 area_of_activity	VETERINARY_SERVICES	Veterinārie pakalpojumi	Veterinary services
 area_of_activity	VISUAL_ARTS	Vizuālā māksla	Visual arts
+area_of_activity	VOLUNTARY_WORK_PROMOTION	Brīvprātīgā darba veicināšana	Promotion of voluntary work
 area_of_activity	VOLUNTEER_FIRE_ORGANIZATION	Brīvprātīgo ugunsdzēsēju organizācija	Volunteer fire organization
+area_of_activity	WORK_WITH_YOUTH	Darbs ar jaunatni	Work with youth
 authority	CHANCERY_OF_PRESIDENT	Valsts prezidenta kanceleja	Chancery of the President of Latvia
 authority	COURT	Tiesa 	Court
 authority	DERIVED_PUBLIC_PERSON	Atvasināta publiska persona	Derived public person
