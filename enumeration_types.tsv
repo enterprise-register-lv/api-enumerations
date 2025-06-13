@@ -19,6 +19,7 @@ insolvency_proceeding_subtype	Maksātnespējas procedūras veids	Subtype of inso
 insolvency_proceeding_type	Maksātnespējas procesa tips	Type of insolvency proceeding
 insolvency_status	Statuss procesam maksātnespējas reģistrā	Status of legal proceeding in the insolvency register
 legal_act	Tiesību akta veids	Type of legal act
+legal_arrangement_beneficial_owner_status	Juridisko veidojumu patieso labuma guvēju veidi	
 legal_form	Tiesiskā forma (Latvijas Uzņēmumu reģistrā reģistrēta tiesību subjekta veids)	Legal form (type of legal entity registered with the Enterprise Register of Latvia)
 legislation	Latvijas Republikas tiesību akta identifikators	Identifier of a legal act of the Republic of Latvia
 liquidations	PPI likvidācija (Netiek lietots)	Public body liquidation (Not in use)
@@ -53,6 +54,8 @@ religious_affiliation	Konfesionālā piederība	Religious affiliation
 reorganization	Reorganizācijas veids	Type of reorganisation
 rights_of_representation	Pārstāvības tiesību veids	Type of right of representation
 rights_to_land	Aktā noteikto tiesību uz zemi veids	Type of right to land conferred by act
+sanctions_list	Sankciju saraksti, kuros iekļauta sankcionētā persona	
+sanctions_position	Sankcionētās personas pozīcija/amats	
 securing_measure	Nodrošinājuma līdzekļa veids	Type of securing measure
 spousal_party	Laulāto mantisko attiecību puses veids	Type of party in a spousal property relationship
 spousal_property_relationship	Laulāto līgumisko mantisko attiecību veids	Type of contractual spousal property relationship

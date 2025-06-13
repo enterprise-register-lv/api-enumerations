@@ -1,27 +1,38 @@
 type	public_code	description_lv	description_en
 area_of_activity	ADVOCACY	Interešu aizstāvības organizāciju darbība	Advocacy work
+area_of_activity	ANIMAL_PROTECTION_AND_WELLBEING	Dzīvnieku aizsardzība un labturība	Animal protection and wellbeing
 area_of_activity	ARCHITECTURE_RESTORATION	Arhitektūra un restaurācija	Architecture and restoration
+area_of_activity	ASSISTANCE_IN_DISASTER_AND_EMERGENCY_SITUATIONS	Palīdzības sniegšana katastrofu gadījumos un ārkārtas situācijās	Assistance in disaster and emergency situations
 area_of_activity	ASSOCIATION_OF_EMPLOYERS_ORGANISATIONS	Darba devēju organizāciju apvienība	Association of Employers' Organisations
 area_of_activity	BOOK_PUBLISHING	Grāmatu izdošana	Book publishing
+area_of_activity	CHARITY	Labdarība	Charity
 area_of_activity	CONSERVATION_OF_NATURAL_RESOURCES	Dabas resursu aizsardzība un ilgtspējīga izmantošana	Conservation and sustainable use of natural resources
 area_of_activity	CRIME_PREVENTION	Noziegumu profilakse	Crime prevention
+area_of_activity	CULTURE_AND_ART	Kultūra un māksla	Culture and art
 area_of_activity	CULTURE_EXCHANGE	Kultūras apmaiņa	Culture exchange
 area_of_activity	CUSTOMER_RIGHTS_PROTECTION	Patērētāju tiesību aizsardzība	Customer rights protection
+area_of_activity	DEMOCRACY_AND_CIVIL_SOCIETY	Demokrātija un pilsoniskā sabiedrība	Democracy and civil society
 area_of_activity	DESIGN	Dizains	Design
 area_of_activity	DEVELOPMENT_COOPERATION	Attīstības sadarbība	Development cooperation
+area_of_activity	DEVELOPMENT_OF_TERRITORY_AND_COMMUNITY	Teritorijas, kopienas un apkaimes attīstība	Territorial, community and neighborhood development
 area_of_activity	DIRECTORY_PUBLISHING	Izziņu katalogu izdošana	Publishing of directories and mailing lists 
+area_of_activity	ECONOMY	Ekonomika	Economy
 area_of_activity	ECONOMIC_DEVELOPMENT	Ekonomiskā attīstība	Economic development
 area_of_activity	EDUCATION	Izglītība	Education
 area_of_activity	EMPLOYERS_ORGANISATION	Darba devēju organizācija	Employers' Organisation
+area_of_activity	EMPLOYERS_ORGANIZATION	Darba devēju organizācija	Employers' organisation
 area_of_activity	ENVIRONMENTAL_AWARENESS	Vides apziņa	Environmental awareness
 area_of_activity	ENVIRONMENTAL_CLEANING	Vides sakopšana	Environmental cleaning
 area_of_activity	ENVIRONMENTAL_PROTECTION	Vides aizsardzība. Piesārņojuma samazināšana un kontrole	Environmental protection. Pollution prevention and control
+area_of_activity	ENVIRONMENT_AND_NATURE_PROTECTION	Vides un dabas aizsardzība	Environment and nature protection
 area_of_activity	FILMMAKING	Filmu producēšana	Motion picture production activities 
 area_of_activity	FOLK_ART	Tautas māksla un nemateriālais mantojums	Folk art and intangible heritage
 area_of_activity	GENDER_EQUALITY	Dzimumu līdztiesība	Gender equality
+area_of_activity	HEALTH_AND_DISEASE_PREVENTION	Veselība un slimību profilakse	Health and disease prevention
 area_of_activity	HEALTH_EDUCATION	Sabiedrības veselība un veselības izglītība	Public health and health education
 area_of_activity	HOUSING_MANAGEMENT	Mājokļu apsaimniekošana	Housing management
 area_of_activity	HUMANITIES	Vēsture un humanitārās zinātnes	Humanities, incl. history
+area_of_activity	INTERNATIONAL_AID_AND_DEVELOPMENT_COOPERATION	Starptautiskā palīdzība un attīstības sadarbība	International aid and development cooperation
 area_of_activity	INTERNATIONAL_AID_TO_COUNTRIES_AFFECTED_BY_DISASTERS	Starptautiska palīdzības līdzekļu nodrošināšana katastrofās cietušām valstīm	Providing of international assistance to countries affected by disasters
 area_of_activity	INTERNATIONAL_DISASTER_RESPONSE_AND_RELIEF	Starptautiska katastrofu seku likvidēšana un palīdzība	International disaster response and relief
 area_of_activity	INTERNATIONAL_HUMAN_RIGHTS_AND_PEACEKEEPING	Starptautiskās cilvēktiesības un miera uzturēšana	International human rights and peacekeeping
@@ -29,6 +40,7 @@ area_of_activity	YOUTH_ASSOCIATION_FOUNDATION	Jaunatnes biedrība vai nodibināj
 area_of_activity	LEGAL_ADVISORY	Juridiskā palīdzība	Legal advisory
 area_of_activity	LIBRARY_OPERATION	Bibliotēku darbība	Library operation
 area_of_activity	MAGAZINE_PUBLISHING	Žurnālu izdošana	Publishing of magazines
+area_of_activity	MANAGEMENT_OF_HOUSING	Mājokļu apsaimniekošana	Housing management
 area_of_activity	MUSEUMS	Muzeji	Museums
 area_of_activity	MUSIC_DANCE_THEATRE	Mūzika, deja, teātris	Music, dance, theatre
 area_of_activity	MUSIC_DANCE_THEATRE_SUPPORT	Mūzikas, dejas un teātra atbalsts	Music, dance, theatre support
@@ -42,17 +54,22 @@ area_of_activity	OTHER_HEALTH_ACTIVITIES	Cita ar veselību saistīta darbība	Ot
 area_of_activity	OTHER_RECREATION_ACTIVITIES	Cita izklaides un atpūtas darbība	Other amusement and recreation activities
 area_of_activity	PHILANTHROPIC_INTERMEDIATION	Filantropijas starpniecība	Philanthropic intermediation
 area_of_activity	PROFESSIONAL_ASSOCIATION_FOUNDATION	Profesionālā biedrība vai nodibinājums	Professional association or foundation
+area_of_activity	PROFESSIONAL_ASSOCIATION_OR_FOUNDATION	Profesionālā biedrība vai nodibinājums	Professional association or foundation
 area_of_activity	PROMOTION_OF_EMPLOYMENT	Nodarbinātības veicināšana	Promotion of employment
 area_of_activity	PROMOTION_OF_VOLUNTARY_WORK	Brīvprātīgā darba veicināšana	Promotion of voluntary work
 area_of_activity	PROTECTION_OF_ANIMALS	Dzīvnieku aizsardzība un labklājība	Protection and welfare of animals
+area_of_activity	PROTECTION_OF_HUMAN_AND_INDIVIDUAL_RIGHTS	Cilvēktiesību un indivīda tiesību aizsardzība	Protection of human and individual rights
 area_of_activity	PROTECTION_OF_HUMAN_RIGHTS	Pilsonisko tiesību un cilvēktiesību aizsardzība	Protection of citizen and human rights
 area_of_activity	RADIO_STATION	Radiostacija	Radio station
 area_of_activity	REHABILITATION	Rehabilitācija	Rehabilitation
 area_of_activity	REHABILITATION_OF_OFFENDERS	Likumpārkāpēju rehabilitācija	Rehabilitation of offenders
 area_of_activity	RESEARCH_MEDICINE	Medicīniskā pētniecība	Research on medicine
 area_of_activity	RESEARCH_SOCIAL_SCIENCES	Sociālās zinātnes, socioloģiskā un politikas pētniecība	Research on social sciences and humanities, sociology, and politics
+area_of_activity	SCIENCE	Zinātne	Science
 area_of_activity	SCIENCE_TECHNOLOGY	Zinātne un tehnoloģijas	Science and technology
 area_of_activity	SOCIAL_PROTECTION	Sociālā aizsardzība	Social protection
+area_of_activity	SOCIAL_PROTECTION_AND_WELFARE	Sociālā aizsardzība un sociālā labklājība	Social protection and welfare
+area_of_activity	SPORT_AND_SPORTS_SUPPORT	Sports un sporta atbalsts	Sport and sports support
 area_of_activity	SPORTS_CENTER	Sporta centrs	Sports center
 area_of_activity	SPORTS_CLUB	Sporta klubs	Sports club
 area_of_activity	SPORTS_EDUCATION	Sporta izglītība	Sports education
@@ -60,11 +77,17 @@ area_of_activity	SPORTS_SUPPORT	Sporta atbalsts	Support to sports
 area_of_activity	SPORTS_UNION	Sporta apvienība un sporta federācija	Sports union and sports federation
 area_of_activity	SUPPORT_FAMILIES_CHILDREN	Atbalsts ģimenēm un bērniem	Support to families and children
 area_of_activity	SUPPORT_TO_VICTIMS_OF_CRIME	Atbalsts noziegumu upuriem	Support to victims of crime
+area_of_activity	THE_EDUCATION	Izglītība	Education
+area_of_activity	THEMATIC_INTEREST_CLUB	Tematiska interešu kopa, interešu klubs	Thematic interest club
+area_of_activity	THE_TRADE_UNION	Arodbiedrība	Trade union
 area_of_activity	TRADE_UNION	Arodbiedrība	Trade Union
 area_of_activity	TV_CHANNEL	TV kanāls	TV channel
+area_of_activity	UNCLASSIFIED_SCOPE	Citur neklasificēta darbības joma	Unclassified scope
 area_of_activity	VETERINARY_SERVICES	Veterinārie pakalpojumi	Veterinary services
 area_of_activity	VISUAL_ARTS	Vizuālā māksla	Visual arts
+area_of_activity	VOLUNTARY_WORK_PROMOTION	Brīvprātīgā darba veicināšana	Promotion of voluntary work
 area_of_activity	VOLUNTEER_FIRE_ORGANIZATION	Brīvprātīgo ugunsdzēsēju organizācija	Volunteer fire organization
+area_of_activity	WORK_WITH_YOUTH	Darbs ar jaunatni	Work with youth
 authority	CHANCERY_OF_PRESIDENT	Valsts prezidenta kanceleja	Chancery of the President of Latvia
 authority	COURT	Tiesa 	Court
 authority	DERIVED_PUBLIC_PERSON	Atvasināta publiska persona	Derived public person
@@ -105,7 +128,7 @@ change_reason	ADDRESS_UPDATED	Adrese aktualizēta, pamatojoties uz Valsts adreš
 change_reason	ANNULLED	Anulēts	Entry annulled
 change_reason	EQUITY_RECALCULATED	Pamatkapitāls pārrēķināts, pamatojoties uz Komerclikuma pārejas noteikumu 52.p	The equity capital recalculated in conformity with Paragraph 52 of the transitional provisions of the Commercial Law
 change_reason	LATVIAN_IN_UPDATED	Aktualizēts personas kods, pamatojoties uz Iedzīvotāju reģistra datiem	Latvian identity number updated according to data from the Latvian Population Register
-change_reason	LAW_CHANGES		
+change_reason	LAW_CHANGES	Ziņas par parakstīto pamatkapitālu aktualizētas, pamatojoties uz Komerclikuma 8. panta trešās daļas 5. punktu un pārejas noteikumu 72.punktu.	Information about the subscribed share capital has been updated based on Article 8, Part Three, Clause 5 of the Commercial Law and Clause 72 of the Transitional Regulations.
 cooperative_form	AGRICULTURAL_SERVICES	lauksaimniecības pakalpojumu kooperatīvā sabiedrība	Agricultural Services Cooperative Society
 cooperative_form	APARTMENT_OWNERS	dzīvokļu īpašnieku kooperatīvā sabiedrība	Apartment Owners Cooperative Society
 cooperative_form	BOAT_GARAGE_OWNERS	laivu garāžu īpašnieku kooperatīvā sabiedrība	Boat Garage Owners Cooperative Society
@@ -155,6 +178,7 @@ document	AUDITORS_OPINION	Revidenta atzinums	Auditor’s opinion
 document	BALANCE_SHEET	Bilance	Balance sheet
 document	BANK_STATEMENT_REGARDING_PAYMENT_OF_EQUITY	Bankas izziņas vai cits dokuments par daļas apmaksu	Bank statements or other document regarding the payment of the equity 
 document	BOARD_MEMBER_RESIGNATION	Valdes locekļa paziņojums par amata atstāšanu	Notice of a member of the Board regarding the resignation
+document	BOARD_MEMBERS_STATEMENT_ON_TAKING_RETURNING_FROM_PARENTAL_LEAVE	Valdes locekļa paziņojums par ar bērna aprūpi saistīta atvaļinājuma izmantošanu/atgriešanos no atvaļinājuma	Board members statement on taking/returning from parental leave
 document	BOARD_STATEMENT_REGARDING_EQUITY	Valdes paziņojumi par pamatkapitāla apmaksas stāvokli	Statement of the Board regarding the payment of the equity
 document	BO_JUSTIFICATION	Patieso labuma guvēju informācijas pamatojums	Justification supporting beneficial ownership disclosure statement
 document	CERTIFICATION_OF_THE_DEPOSITARY	Depozitārija apliecinājums	Certification of the depositary
@@ -241,9 +265,11 @@ document	PROPOSAL_TO_TRANSFER_LEGAL_ADDRESS_OF_SE	Priekšlikums mainīt Eiropas 
 document	PROTOCOL_OF_COMPANY_OR_ORGANISATION	Sabiedrības/Organizācijas protokoli/lēmumi	Protocols/decisions of a company/organisation
 document	PURCHASE_CONTRACT	Pirkuma līgumi	Purchase contracts
 document	PURCHASE_LEASE_AGREEMENT	Pirkuma/nomas līgums	Purchase/lease agreement
+document	QUESTIONNARE_FOR_INCLUSION_OF_INFORMATION_IN_THE_REGISTER_OF_NATURAL_PERSONS	Anketa ziņu iekļaušanai Fizisko personu reģistrā	Questionnaire for inclusion of information in the Register of Natural Persons
 document	RECEIPT_ON_ENTRY_OF_COMMERCIAL_PLEDGE_IN_OTHER_REGISTER	Kvītis par komercķīlas atzīmi citā reģistrā	Receipt on the entry of commercial pledge in other register
 document	RECEIPT_ON_STATE_FEES	Kvītis par publikāciju un valsts nodevām	Receipts on the publication and state fees
 document	REGISTER_OF_STOCKHOLDERS	Akcionāru reģistrs	Register of stockholders
+document	REGISTERS_OF_MEMBERS_OF_POLITICAL_PARTIES	Politisko partiju biedru reģistri	Registers of members of political parties
 document	REGISTRATION_CERTIFICATE	Reģistrācijas apliecības	Registration certificates
 document	REGISTRATION_CERTIFICATE_OF_FOREIGN_COMPANY	Ārvalstu komersantu reģistrācijas apliecības	Registration certificates of foreign companies
 document	REGISTRATION_CERTIFICATE_OF_FOREIGN_ORGANISATION	Ārvalstu organizācijas reģistrācijas apliecība un tās tulkojums	Registration certificate of a foreign organisation and translation thereof
@@ -331,6 +357,9 @@ legal_act	ORDER	Rīkojums	Order
 legal_act	OTHER_LEGAL_ACT	Cits	Other
 legal_act	PROTOCOL	Protokols	Protocol
 legal_act	RULES	Noteikumi	Rules
+legal_arrangement_beneficial_owner_status	BENEFICIAL_OWNER_CONTROL_RESULTS_FROM_SHAREHOLDERS_STATUS	Patiesais labuma guvējs ir akcionārs tādā akciju sabiedrībā, kuras akcijas ir iekļautas regulētajā tirgū, un veids, kādā tiek īstenota kontrole pār juridisko personu, izriet tikai no akcionāra statusa	The beneficial owner is a shareholder in a joint-stock company whose shares are listed on a regulated market, and the manner in which control over the legal entity is exercised results solely from the shareholder's status.
+legal_arrangement_beneficial_owner_status	BENEFICIAL_OWNER_FOR_LEGAL_ARRANGEMENT_CANNOT_BE_IDENTIFIED	Juridiskā veidojuma patieso labuma guvēju noskaidrot nav iespējams	Beneficial owner for the legal arrangement cannot be identified
+legal_arrangement_beneficial_owner_status	BENEFICIAL_OWNER_FOR_LEGAL_PERSON_CANNOT_BE_IDENTIFIED	Juridiskās personas patieso labuma guvēju noskaidrot nav iespējams	Beneficial owner for the legal person cannot be identified
 legal_form	ADDITIONAL_LIABILITY_COMPANY_PAP	Sabiedrība ar papildu atbildību  (vēsturiska forma)	Additional Liability Company (historical form)
 legal_form	ALLIANCE_OF_POLITICAL_PARTIES_PPA	Politisko partiju apvienība	Alliance of Political Parties
 legal_form	ARBITRATION_COURT_SKT	Šķīrējtiesa	Arbitration Court
@@ -342,6 +371,7 @@ legal_form	BRANCH_FIL	Filiāle	Branch
 legal_form	BRANCH_OF_EUROPEAN_ECONOMIC_INTEREST_GROUPING_EGF	Eiropas ekonomisko interešu grupas filiāle	Branch of European Economic Interest Grouping
 legal_form	BRANCH_OF_FOREIGN_COMPANY_AKF	Ārvalsts komersanta filiāle	Branch of Foreign Company
 legal_form	CHURCH_BAZ	Baznīca	Church
+legal_form	COMMUNITY_OF_APARTMENT_OWNERS	Dzīvokļu īpašnieku kopība	Home owners association
 legal_form	CONGREGATION_DRZ	Draudze	Congregation
 legal_form	COOPERATIVE_SHARE_COMPANY_PAJ	Paju sabiedrība  (vēsturiska forma)	Co-operative Share Company (historical form)
 legal_form	COOPERATIVE_SOCIETIES_COMPANY_KBU	Kooperatīvo biedrību uzņēmums (vēsturiska forma)	Undertaking of Co-operative Societies  (historical form)
@@ -356,6 +386,7 @@ legal_form	EUROPEAN_ECONOMIC_INTEREST_GROUPING_EIG	Eiropas ekonomisko interešu 
 legal_form	FAMILY_UNDERTAKING_GIM	Ģimenes uzņēmums  (vēsturiska forma)	Family Undertaking (historical form)
 legal_form	FARM_ZEM	Zemnieku saimniecība	Farm
 legal_form	FISHING_UNDERTAKING_ZVJ	Zvejnieku saimniecība	Fishing Undertaking
+legal_form	FOREIGN_ENTITY_AS_REAL_ESTATE_OWNER	NĪ īpašnieks ārvalstu juridiskā persona	Foreign legal entity as real estate owner
 legal_form	FOREIGN_REPRESENTATIVE_OFFICE_AKP	Ārvalsts komersanta pārstāvniecība (vēsturiska forma)	Foreign Representative Office (historical form)
 legal_form	FOREIGN_REPRESENTATIVE_OFFICE_PAR	Ārvalsts komersanta pārstāvniecība	Foreign Representative Office 
 legal_form	FOUNDATION_NOD	Nodibinājums	Foundation
@@ -364,6 +395,7 @@ legal_form	GENERAL_PARTNERSHIP_PS	Pilnsabiedrība	General Partnership
 legal_form	INDIVIDUAL_UNDERTAKING_IND	Individuālais uzņēmums	Individual Undertaking
 legal_form	INSTITUTION_OF_RELIGIOUS_ORGANISATION_ROI	Reliģiskās organizācijas iestāde	Institution of Religious Organisation
 legal_form	JURIDIC_PERSON_UNDER_CANON_LAW_KAT	Katoļu baznīcas publisko tiesību juridiskā persona	Juridic person governed by the Canon law of the Catholic Church
+legal_form	LEGAL_ARRANGEMENTS	Juridiskais veidojums	Legal formation
 legal_form	LIMITED_LIABILITY_COMPANY_SIA	Sabiedrība ar ierobežotu atbildību	Limited Liability Company
 legal_form	LIMITED_PARTNERSHIP_KS	Komandītsabiedrība	Limited Partnership
 legal_form	MISSION_MIS	Misija (vēsturiska forma)	Mission  (historical form)
@@ -446,14 +478,21 @@ liquidation_suspension_prohibition_result	IN_REHABILITATION	Sanēts	In rehabilit
 liquidation_suspension_prohibition_result	LIQUIDATED	Likvidēts	Liquidated
 liquidation_suspension_prohibition_result	PROHIBITON_ON_BUSINESS_ACTIVITY_REMOVED	Aizlieguma veikt uzņēmējdarbību atcelšana	Prohibition on business activity removed
 liquidation_suspension_prohibition_result	PROHIBITON_ON_PUBLIC_ACTIVITY_REMOVED	Publiskās darbības vai citas darbības aizlieguma atcelšana	Prohibition on public activity or other activity removed
+nature_of_control	AS_BENEFICIARY	Kā labuma guvējs vai to kategorija	As a beneficiary or that category
 nature_of_control	AS_COOPERATIVE_MEMBER	kā kooperatīvās sabiedrības biedrs	as a cooperative society member
 nature_of_control	AS_FOUNDATION_FOUNDER	kā nodibinājuma dibinātājs	as a foundation founder
+nature_of_control	AS_FOUNDATION_MEMBER_EXECUTIVE_BODY_REPRESENTATIVE	kā nodibinājuma dibinātāja - juridiskās personas izpildinstitūcijas vai pārvaldes institūcijas pārstāvis	as foundation member executive body representative
+nature_of_control	AS_FOUNDATION_SUPERVISORY_AUTHORITY_REPRESENTATIVE	kā nodibinājuma pārraudzības institūcijas pārstāvis	as foundation supervisory authority representative
+nature_of_control	AS_FOUNDER	Kā dibinātājs	As founder
 nature_of_control	AS_MEMBER	kā dalībnieks	as a company member/shareholder
+nature_of_control	AS_OTHER_NATURAL_PERSON	Kā cita fiziska persona	As another natural person
 nature_of_control	AS_OWNER	kā īpašnieks	as the owner
 nature_of_control	AS_PARTNERSHIP_MEMBER	kā personālsabiedrības biedrs	as a partnership member
 nature_of_control	AS_REPRESENTATIVE	kā izpildinstitūcijas vai pārvaldes institūcijas pārstāvis	as a representative of the executive institution or of the administrative body
 nature_of_control	AS_SHAREHOLDER	kā akcionārs	as a shareholder in a stock company
 nature_of_control	AS_SOCIETY_MEMBER	kā biedrības biedrs	as a society member
+nature_of_control	AS_SUPERVISOR	Kā pārraudzītājs (ja tāds ir)	As a supervisor
+nature_of_control	AS_TRUSTEE	Kā pilnvarnieks (pārvaldnieks)	As trustee
 nature_of_control	ON_GROUNDS_OF_AUTHORIZATION	uz pilnvarojuma līguma pamata	on grounds of the Power of Attorney
 nature_of_control	ON_GROUNDS_OF_BUSINESS_RELATIONS	uz darījuma attiecību pamata	on grounds of the business relations
 nature_of_control	ON_GROUNDS_OF_PROPERTY_RIGHT	uz īpašumtiesību pamata	on grounds of the property right
@@ -461,6 +500,7 @@ nature_of_control	OTHER_TYPE_OF_CONTROL	cits	other
 nature_of_control	VIA_ARRANGEMENT_AS_AUTHORIZING_PERSON	caur juridisko veidojumu kā pilnvarotājs	via legal arrangement as the authorizing person
 nature_of_control	VIA_ARRANGEMENT_AS_FOUNDER	caur juridisko veidojumu kā dibinātājs	via legal arrangement as the founder
 nature_of_control	VIA_ARRANGEMENT_AS_MANAGING_PERSON	caur juridisko veidojumu kā pārvaldītājs	via legal arrangement as the managing person
+nature_of_control	VIA_LEGAL_ENTITY_AS_REPRESENTATIVE_OF_EXECUTIVE_BODY	caur juridisko personu kā izpildinstitūcijas vai pārvaldes institūcijas pārstāvis	via legal entity as representative of executive body
 notice_types	APPOINTMENT_OF_LIQUIDATOR	Paziņojums par likvidācijas procesa uzsākšanu un likvidatora iecelšanu	Notice of the commencement of the liquidation and the appointment of a liquidator
 notice_types	BASE_CAPITAL	Pieņemts lēmums par pamatkapitāla samazināšanu	Decision of the reduction of fixed capital
 notice_types	LIQUIDATION_START	Paziņojums par sabiedrības darbības izbeigšanu un likvidācijas procesa uzsākšanu	Notice of company's termination and the commencement of the liquidation
@@ -497,6 +537,8 @@ pledge_change	NEW	Komercķīla reģistrēta	New commercial pledge registered
 pledge_change	NOVATION	Pārjaunojums reģistrēts	Novation registered
 pledge_change	PLEDGEE	Ņēmēja maiņa	Change of pledgee 
 pledge_change	REGISTRATION_ERROR	Kļūda reģistrācijas procesā	Error in the registration process 
+pledge_change	REJECTION_OF_RIGHT_APPLICATION	Atteikts pieteikums par komercķīlas tiesības izlietošanu pievienošanu komercķīlas reģistrācijas lietai	Application for adding commercial pledge right to commercial pledge registration file has been rejected
+pledge_change	REJECTION_OF_RIGHT_NOTIFICATION	Atteikts reģistrēt pieteikumu par komercķīlas tiesības izlietošanu	Exercise of the right of commercial pledge has been rejected
 pledge_change	REMOVAL	Komercķīla dzēsta	Commercial pledge removed
 pledge_change	TERM_EXTENDED	Termiņa pagarināšana	Extension of the five years term  (rule effective until 2015)
 pledge_intellectual_property	DESIGN	Dizainparaugs	Design
@@ -759,6 +801,138 @@ rights_of_representation	WITH_DEPUTY_CHAIR	Kopīgi ar valdes priekšsēdētāja 
 rights_of_representation	WITH_PROKURIST	Kopīgi ar prokūristu	"Jointly with  the ""prokurist"""
 rights_to_land	OWNERSHIP	Īpašuma tiesības	Right of ownership
 rights_to_land	USE	Lietošanas tiesības	Right of use
+sanctions_list	ES_SANCTIONS_LIST	Eiropas Savienības sankciju saraksts	The European Union Sanctions List
+sanctions_list	LV_SANCTIONS_LIST	Latvijas nacionālais sankciju saraksts	Latvian National Sanctions List
+sanctions_list	OFAC_SANCTIONS_LIST	OFAC NON SDN	OFAC NON SDN
+sanctions_list	SDN_OFAC_SANCTIONS_LIST	OFAC SDN	OFAC SDN
+sanctions_list	UNO_SANCTIONS_LIST	ANO sankciju saraksts	UN Sanctions List
+sanctions_position	ACCOUNTANT		
+sanctions_position	ACTING_CHIEF_ACCOUNTANT		
+sanctions_position	ACTING_MANAGER		
+sanctions_position	ADMINISTRATIVE_DIRECTOR		
+sanctions_position	ADMINISTRATOR		
+sanctions_position	ADVISOR		
+sanctions_position	ASSESSOR		
+sanctions_position	AUDITOR		
+sanctions_position	AUTHORISED_REPRESENTATIVE		
+sanctions_position	AUTHORIZED_PERSON		
+sanctions_position	AUTHORIZED_TO_REPRESENT_BRANCH_MERCHANT_ACTIVITIES		
+sanctions_position	BENEFICIAL_OWNER		
+sanctions_position	BENEFICIARY_CONTROL_LEGAL_ENTITY		
+sanctions_position	BENEFICIARY_CONTROL_NATURAL_PERSON		
+sanctions_position	BOARD		
+sanctions_position	BOARD_MEMBER		
+sanctions_position	BOARD_SECRETARY		
+sanctions_position	CASHIER		
+sanctions_position	CHAIRPERSON		
+sanctions_position	CHAIRPERSON_OF_AUDIT_COMMISSION		
+sanctions_position	CHAIRPERSON_OF_THE_AUDIT_COMMISSION		
+sanctions_position	CHAIRPERSON_OF_THE_BOARD		
+sanctions_position	CHAIRPERSON_OF_THE_COUNCIL		
+sanctions_position	CHIEF_ACCOUNTANT		
+sanctions_position	CHIEF_CLERK		
+sanctions_position	CHIEF_DOCTOR		
+sanctions_position	CHIEF_ENGINEER		
+sanctions_position	CHIEF_GEOLOGIST		
+sanctions_position	CO_CHAIRPERSON		
+sanctions_position	COMMERCIAL_DIRECTOR		
+sanctions_position	COMMERCIAL_PLEDGE_STEWARD		
+sanctions_position	CONCESSION_HOLDER		
+sanctions_position	CONCESSION_PROVIDER		
+sanctions_position	CONVENT		
+sanctions_position	CO_OWNER		
+sanctions_position	COUNCIL		
+sanctions_position	CUSTODIAN		
+sanctions_position	DEBTOR		
+sanctions_position	DEPUTY_ACCOUNTANT		
+sanctions_position	DEPUTY_CHAIRPERSON		
+sanctions_position	DEPUTY_CHAIRPERSON_OF_THE_BOARD		
+sanctions_position	DEPUTY_CHAIRPERSON_OF_THE_COUNCIL		
+sanctions_position	DEPUTY_CHIEF_ACCOUNTANT		
+sanctions_position	DEPUTY_DIRECTOR		
+sanctions_position	DEPUTY_DIRECTOR_GENERAL		
+sanctions_position	DEPUTY_EDITOR		
+sanctions_position	DEPUTY_HEAD_OF_THE_DEPARTMENT		
+sanctions_position	DEPUTY_MANAGING_DIRECTOR		
+sanctions_position	DEPUTY_PRESIDENT		
+sanctions_position	DEPUTY_SECRETARY_GENERAL		
+sanctions_position	DIRECTOR		
+sanctions_position	DIRECTOR_ASSISTANTS		
+sanctions_position	DIRECTOR_GENERAL		
+sanctions_position	DIRECTOR_OF_ECONOMIC_AFFAIRS		
+sanctions_position	ECONOMIST		
+sanctions_position	EDITOR		
+sanctions_position	EMPLOYER		
+sanctions_position	ENGINEER		
+sanctions_position	EXECUTIVE		
+sanctions_position	EXECUTIVE_DIRECTOR		
+sanctions_position	FINANCIAL_DIRECTOR		
+sanctions_position	FOUNDER		
+sanctions_position	GENERAL_SECRETAR		
+sanctions_position	GOVERNING_INSTITUTION		
+sanctions_position	GUARDIAN		
+sanctions_position	HEAD		
+sanctions_position	HEAD_OF_THE_DEPARTMENT		
+sanctions_position	HUSBAND		
+sanctions_position	INHERITANCE_CUSTODIAN		
+sanctions_position	INSPECTOR		
+sanctions_position	JOINT_MEMBER		
+sanctions_position	JUDGE		
+sanctions_position	LEGAL_DIRECTOR		
+sanctions_position	LIQUIDATION_COMMISSION		
+sanctions_position	LIQUIDATOR		
+sanctions_position	MANAGER		
+sanctions_position	MANAGING_DIRECTOR		
+sanctions_position	MASS_MEDIA _OWNER		
+sanctions_position	MEMBER_OF_BOARD		
+sanctions_position	MEMBER_OF_COUNCIL		
+sanctions_position	MEMBER_OF_GENERAL_MEETING		
+sanctions_position	MEMBER_OF_THE_ADMINISTRATION		
+sanctions_position	MEMBER_OF_THE_AUDIT_COMMITTEE		
+sanctions_position	MEMBER_OF_THE_BOARD		
+sanctions_position	MEMBER_OF_THE_BOARD_OF_DIRECTORS		
+sanctions_position	MEMBER_OF_THE_CENTRAL_COMMITTEE		
+sanctions_position	MEMBER_OF_THE_COLLEGIUM		
+sanctions_position	MEMBER_OF_THE_COMMITTEE		
+sanctions_position	MEMBER_OF_THE_CONFERENCE		
+sanctions_position	MEMBER_OF_THE_CONGRESS		
+sanctions_position	MEMBER_OF_THE_COORDINATION_BOARD		
+sanctions_position	MEMBER_OF_THE_COUNCIL		
+sanctions_position	MEMBER_OF_THE_EXECUTIVE_COMMITTEE_BOARD		
+sanctions_position	MEMBER_OF_THE_PRESIDIUM		
+sanctions_position	MEMBER_OF_THE_SECRETARIAT		
+sanctions_position	MEMBER_OF_THE_TRADE_COMMITTEE		
+sanctions_position	MERCHANT		
+sanctions_position	OFFICER		
+sanctions_position	OWNER		
+sanctions_position	OWNER_OF_LEGAL_ENTITY		
+sanctions_position	PARTNER		
+sanctions_position	PERSON_ACTUALLY_EXERCISING_CONTROL		
+sanctions_position	PERSONALLY_LIABLE_MEMBER		
+sanctions_position	PLEDGEE		
+sanctions_position	PLEDGOR		
+sanctions_position	PRESIDENT		
+sanctions_position	PRIVATE_PARTNER		
+sanctions_position	PROCURIST		
+sanctions_position	PRODUCTION_DIRECTOR		
+sanctions_position	PUBLIC_PARTNER_ADVOCATE		
+sanctions_position	PUBLISHER		
+sanctions_position	REPRESENTATIVE		
+sanctions_position	REPRESENTATIVE_APPLICANT		
+sanctions_position	REPRESENTATIVE_OF_THE_ADMINISTRATOR		
+sanctions_position	REPRESENTATIVE_OF_THE_LIQUIDATOR		
+sanctions_position	SECRETARY		
+sanctions_position	SENATE		
+sanctions_position	SENATOR		
+sanctions_position	SHAREHOLDER		
+sanctions_position	SUPERVISOR		
+sanctions_position	TECHNICAL_DIRECTOR		
+sanctions_position	TECHNOLOGIST		
+sanctions_position	TREASURER		
+sanctions_position	TRUSTEE		
+sanctions_position	VICE_DIRECTOR		
+sanctions_position	VICE_PRESIDENT		
+sanctions_position	WIFE		
 securing_measure	ATTACHMENT	Arests	Attachment
 securing_measure	LIEN	Apķīlājums	Lien
 securing_measure	PROHIBITION	Aizliegums	Prohibition
