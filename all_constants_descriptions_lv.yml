@@ -527,6 +527,7 @@ nature_of_control:
     AS_SHAREHOLDER_EXECUTIVE_BODY_REPRESENTATIVE: "kā akcionāra izpildinstitūcijas pārstāvis"
     AS_SOCIETY_MEMBER: "kā biedrības biedrs"
     AS_SUPERVISOR: "Kā pārraudzītājs (ja tāds ir)"
+    AS_THE_CLASS_OF_PERSONS: "Kā personu grupa, kuru interesēs ir izveidots vai darbojas juridisks veidojums vai juridiska vienība"
     AS_TRUSTEE: "Kā pilnvarnieks (pārvaldnieks)"
     ON_GROUNDS_OF_AUTHORIZATION: "uz pilnvarojuma līguma pamata"
     ON_GROUNDS_OF_BUSINESS_RELATIONS: "uz darījuma attiecību pamata"

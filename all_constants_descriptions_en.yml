@@ -527,6 +527,7 @@ nature_of_control:
     AS_SHAREHOLDER_EXECUTIVE_BODY_REPRESENTATIVE: "as shareholder executive body representative"
     AS_SOCIETY_MEMBER: "as a society member"
     AS_SUPERVISOR: "As a supervisor"
+    AS_THE_CLASS_OF_PERSONS: "The class of persons in whose main interest the legal arrangement or entity is set up or operated"
     AS_TRUSTEE: "As trustee"
     ON_GROUNDS_OF_AUTHORIZATION: "on grounds of the Power of Attorney"
     ON_GROUNDS_OF_BUSINESS_RELATIONS: "on grounds of the business relations"

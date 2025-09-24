@@ -500,6 +500,7 @@ nature_of_control	AS_SHAREHOLDER	kā akcionārs	as a shareholder in a stock comp
 nature_of_control	AS_SHAREHOLDER_EXECUTIVE_BODY_REPRESENTATIVE	kā akcionāra izpildinstitūcijas pārstāvis	as shareholder executive body representative
 nature_of_control	AS_SOCIETY_MEMBER	kā biedrības biedrs	as a society member
 nature_of_control	AS_SUPERVISOR	Kā pārraudzītājs (ja tāds ir)	As a supervisor
+nature_of_control	AS_THE_CLASS_OF_PERSONS	Kā personu grupa, kuru interesēs ir izveidots vai darbojas juridisks veidojums vai juridiska vienība	The class of persons in whose main interest the legal arrangement or entity is set up or operated
 nature_of_control	AS_TRUSTEE	Kā pilnvarnieks (pārvaldnieks)	As trustee
 nature_of_control	ON_GROUNDS_OF_AUTHORIZATION	uz pilnvarojuma līguma pamata	on grounds of the Power of Attorney
 nature_of_control	ON_GROUNDS_OF_BUSINESS_RELATIONS	uz darījuma attiecību pamata	on grounds of the business relations
