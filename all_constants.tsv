@@ -386,7 +386,7 @@ legal_form	EUROPEAN_ECONOMIC_INTEREST_GROUPING_EIG	Eiropas ekonomisko interešu 
 legal_form	FAMILY_UNDERTAKING_GIM	Ģimenes uzņēmums  (vēsturiska forma)	Family Undertaking (historical form)
 legal_form	FARM_ZEM	Zemnieku saimniecība	Farm
 legal_form	FISHING_UNDERTAKING_ZVJ	Zvejnieku saimniecība	Fishing Undertaking
-legal_form	FOREIGN_ENTITY_AS_REAL_ESTATE_OWNER	NĪ īpašnieks ārvalstu juridiskā persona	Foreign legal entity as real estate owner
+legal_form	FOREIGN_ENTITY	Ārvalstu juridiskā persona	Foreign entity
 legal_form	FOREIGN_REPRESENTATIVE_OFFICE_AKP	Ārvalsts komersanta pārstāvniecība (vēsturiska forma)	Foreign Representative Office (historical form)
 legal_form	FOREIGN_REPRESENTATIVE_OFFICE_PAR	Ārvalsts komersanta pārstāvniecība	Foreign Representative Office 
 legal_form	FOUNDATION_NOD	Nodibinājums	Foundation
@@ -478,28 +478,41 @@ liquidation_suspension_prohibition_result	IN_REHABILITATION	Sanēts	In rehabilit
 liquidation_suspension_prohibition_result	LIQUIDATED	Likvidēts	Liquidated
 liquidation_suspension_prohibition_result	PROHIBITON_ON_BUSINESS_ACTIVITY_REMOVED	Aizlieguma veikt uzņēmējdarbību atcelšana	Prohibition on business activity removed
 liquidation_suspension_prohibition_result	PROHIBITON_ON_PUBLIC_ACTIVITY_REMOVED	Publiskās darbības vai citas darbības aizlieguma atcelšana	Prohibition on public activity or other activity removed
+nature_of_control	AS_ACTUAL_OWNER	kā faktiskais īpašnieks	as actual owner
 nature_of_control	AS_BENEFICIARY	Kā labuma guvējs vai to kategorija	As a beneficiary or that category
+nature_of_control	AS_COMPLEMENTARY_EXECUTIVE_BODY_REPRESENTATIVE	kā komplementāra izpildinstitūcijas pārstāvis	as complementary executive body representative
 nature_of_control	AS_COOPERATIVE_MEMBER	kā kooperatīvās sabiedrības biedrs	as a cooperative society member
+nature_of_control	AS_ESTATE_MANAGER	kā mantojuma masas pārvaldnieks	as estate manager
 nature_of_control	AS_FOUNDATION_FOUNDER	kā nodibinājuma dibinātājs	as a foundation founder
 nature_of_control	AS_FOUNDATION_MEMBER_EXECUTIVE_BODY_REPRESENTATIVE	kā nodibinājuma dibinātāja - juridiskās personas izpildinstitūcijas vai pārvaldes institūcijas pārstāvis	as foundation member executive body representative
 nature_of_control	AS_FOUNDATION_SUPERVISORY_AUTHORITY_REPRESENTATIVE	kā nodibinājuma pārraudzības institūcijas pārstāvis	as foundation supervisory authority representative
 nature_of_control	AS_FOUNDER	Kā dibinātājs	As founder
+nature_of_control	AS_INDIRECT_PROPERTY_RIGHTS_VIA_COMPLEMENTARY	netiešas īpašumtiesības caur komplementāru	as indirect property rights via complementary
+nature_of_control	AS_JOINT_SHARE_OWNER	kā daļu kopīpašnieks	as joint share owner 
 nature_of_control	AS_MEMBER	kā dalībnieks	as a company member/shareholder
+nature_of_control	AS_MEMBER_EXECUTIVE_BODY_REPRESENTATIVE	kā dalībnieka izpildinstitūcijas pārstāvis	as member executive body representative
+nature_of_control	AS_MINOR_PERSON_GUARDIAN	kā nepilngadīgās personas aizbildnis	as minor person guardian
 nature_of_control	AS_OTHER_NATURAL_PERSON	Kā cita fiziska persona	As another natural person
 nature_of_control	AS_OWNER	kā īpašnieks	as the owner
 nature_of_control	AS_PARTNERSHIP_MEMBER	kā personālsabiedrības biedrs	as a partnership member
 nature_of_control	AS_REPRESENTATIVE	kā izpildinstitūcijas vai pārvaldes institūcijas pārstāvis	as a representative of the executive institution or of the administrative body
 nature_of_control	AS_SHAREHOLDER	kā akcionārs	as a shareholder in a stock company
+nature_of_control	AS_SHAREHOLDER_EXECUTIVE_BODY_REPRESENTATIVE	kā akcionāra izpildinstitūcijas pārstāvis	as shareholder executive body representative
 nature_of_control	AS_SOCIETY_MEMBER	kā biedrības biedrs	as a society member
 nature_of_control	AS_SUPERVISOR	Kā pārraudzītājs (ja tāds ir)	As a supervisor
 nature_of_control	AS_TRUSTEE	Kā pilnvarnieks (pārvaldnieks)	As trustee
 nature_of_control	ON_GROUNDS_OF_AUTHORIZATION	uz pilnvarojuma līguma pamata	on grounds of the Power of Attorney
 nature_of_control	ON_GROUNDS_OF_BUSINESS_RELATIONS	uz darījuma attiecību pamata	on grounds of the business relations
 nature_of_control	ON_GROUNDS_OF_PROPERTY_RIGHT	uz īpašumtiesību pamata	on grounds of the property right
+nature_of_control	OTHER_NATURAL_PERSON	kā cita fiziskā persona	as other natural person
 nature_of_control	OTHER_TYPE_OF_CONTROL	cits	other
 nature_of_control	VIA_ARRANGEMENT_AS_AUTHORIZING_PERSON	caur juridisko veidojumu kā pilnvarotājs	via legal arrangement as the authorizing person
 nature_of_control	VIA_ARRANGEMENT_AS_FOUNDER	caur juridisko veidojumu kā dibinātājs	via legal arrangement as the founder
 nature_of_control	VIA_ARRANGEMENT_AS_MANAGING_PERSON	caur juridisko veidojumu kā pārvaldītājs	via legal arrangement as the managing person
+nature_of_control	VIA_LEGAL_ARRANGEMENT_AS_BENEFICIARY	caur juridisko veidojumu kā labuma guvējs	via legal arrangement as beneficiary
+nature_of_control	VIA_LEGAL_ARRANGEMENT_AS_BENEFICIARY_GROUP	caur juridisko veidojumu kā labuma guvēju grupa	via legal arrangement as beneficiary group
+nature_of_control	VIA_LEGAL_ARRANGEMENT_AS_SUPERVISOR	caur juridisko veidojumu kā pārraudzītājs	via legal arrangement as supervisor
+nature_of_control	VIA_LEGAL_ARRANGEMENT_AS_TRUSTEE_MANAGER	caur juridisko veidojumu kā pilnvarnieks (pārvaldnieks)	via legal arrangement as trustee manager
 nature_of_control	VIA_LEGAL_ENTITY_AS_REPRESENTATIVE_OF_EXECUTIVE_BODY	caur juridisko personu kā izpildinstitūcijas vai pārvaldes institūcijas pārstāvis	via legal entity as representative of executive body
 notice_types	APPOINTMENT_OF_LIQUIDATOR	Paziņojums par likvidācijas procesa uzsākšanu un likvidatora iecelšanu	Notice of the commencement of the liquidation and the appointment of a liquidator
 notice_types	BASE_CAPITAL	Pieņemts lēmums par pamatkapitāla samazināšanu	Decision of the reduction of fixed capital
